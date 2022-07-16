@@ -54,7 +54,7 @@ https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png?v=2.0.0.15",INDOSIAR
 
-#EXTVLCOPT:http-user-agent=otto-aplikasi https://ott-navigator.my.id/vidio4/master.m3u8?channel=INDOSIAR
+https://ott-navigator.my.id/vidio4/master.m3u8
 
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png?v=2.0.0.15",SCTV
 
