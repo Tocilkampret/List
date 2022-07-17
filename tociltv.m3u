@@ -84,7 +84,7 @@ https://liveanevia.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://www.mncvision.id/userfiles/image/channel/metro_tv.png",Metro TV
 
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://m.youtube.com/c/MetrotvnewsOfficial/live
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
