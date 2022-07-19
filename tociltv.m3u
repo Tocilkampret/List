@@ -759,6 +759,8 @@ https://tinyurl.com/TiviMe-YAAAS
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl_kSwUohKjfWcKIR8A6w6dyPUSNWxho93lg&usqp=CAU" group-title="Kids",ZOO MOO
 https://rockentertainment-zoomoo-1-us.samsung.wurl.tv/2000.m3u8
 
+#EXTINF:-1 tvg-id="BiznetKids.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://www.biznethome.net/bin/images/tv-program/channel/BiznetHomeKids.jpg" group-title="Kids",Biznet Kids 
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=qAri1M2xu_MAlnHwVRtOs24lR8Y_HSDijN2CRNghifUllhYqQSDlkd0qE8CkZwxC&bizkeylivestarttime=0
 
 °°° Movies °°°
 
