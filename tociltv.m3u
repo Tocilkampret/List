@@ -31,8 +31,8 @@
 °°° Live+ °°°
 
 #EXTINF:-1 tvg-id="811" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" group-title="Live+",Astro SuperSport 1 (DAN) 
-#EXTVLCOPT:http-user-agent=otto-aplikasi 
-#EXTVLCOPT:http-referrer=https://player.licenses4.me https://ott-navigator.my.id/sportif/assp/master_astro.m3u8?id=assp1 
+https://ott-navigator.my.id/sportif/assp/master_astro.m3u8?id=assp1 
+
 #EXTINF:-1 tvg-id="812" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" group-title="Live+",Astro SuperSport 2 (DAN) 
 #EXTVLCOPT:http-user-agent=otto-aplikasi #EXTVLCOPT:http-referrer=https://player.licenses4.me https://ott-navigator.my.id/sportif/assp/master_astro.m3u8?id=assp2 
 #EXTINF:-1 tvg-id="813" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="Live+",Astro SuperSport 3 (DAN) 
@@ -923,7 +923,8 @@ http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19974462_ico.png?ts=1655149767" group-title="Movies",AMC
 https://bcovlive-a.akamaihd.net/ebf15ff84e98490e8b00209ed77c77f5/us-east-1/6240731308001/playlist.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19765549_ico.png?ts=1654800851" group-title="Movies",ACTION MOVIES
+http://hpull.kktv8.com:80/livekktv/128600025/playlist.m3u8
 
 °°° Musics °°°
 
