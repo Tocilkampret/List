@@ -28,19 +28,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml, 
 #EXTM3U https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml,username=epg&password=epg" refresh="3600"
 
-°°° Live+ °°°
-
-#EXTINF:-1 tvg-id="811" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" group-title="Live+",Astro SuperSport 1 (DAN) 
-http-user-agent=otto-aplikasi https://player.licenses4.me https://ott-navigator.my.id/sportif/assp/master_astro.m3u8?id=assp1 
-
-#EXTINF:-1 tvg-id="812" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" group-title="Live+",Astro SuperSport 2 (DAN) 
-#EXTVLCOPT:http-user-agent=otto-aplikasi #EXTVLCOPT:http-referrer=https://player.licenses4.me https://ott-navigator.my.id/sportif/assp/master_astro.m3u8?id=assp2 
-#EXTINF:-1 tvg-id="813" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="Live+",Astro SuperSport 3 (DAN) 
-#EXTVLCOPT:http-user-agent=otto-aplikasi #EXTVLCOPT:http-referrer=https://player.licenses4.me https://ott-navigator.my.id/sportif/assp/master_astro.m3u8?id=assp3 
-#EXTINF:-1 tvg-id="814" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="Live+",Astro SuperSport 4 (DAN) 
-#EXTVLCOPT:http-user-agent=otto-aplikasi #EXTVLCOPT:http-referrer=https://player.licenses4.me https://ott-navigator.my.id/sportif/assp/master_astro.m3u8?id=assp4 
-#EXTINF:-1 tvg-id="815" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/455_144.png" group-title="Live+",Astro SuperSport 5 (DAN) 
-#EXTVLCOPT:http-user-agent=otto-aplikasi #EXTVLCOPT:http-referrer=https://player.licenses4.me https://ott-navigator.my.id/sportif/assp/master_astro.m3u8?id=assp5
 
 
 
@@ -1309,4 +1296,9 @@ https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 #EXTINF:-1 group-title="Sport HD", SWISS SPORT TV
 
 https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist_w1922077967_b2628000.m3u8
+
+#EXTINF:-1 tvg-id="InsightTV.nl" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/7xmaoL0.png" group-title="Sport HD",Insight TV
+https://insighttv-vizio.amagi.tv/playlist.m3u8
+
+
 
