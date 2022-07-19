@@ -137,6 +137,9 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1352897452_b
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20025256_ico.png?ts=1654802008" group-title="News",METRO GLOBE NETWORK
 https://edge.medcom.id/live-edge/smil:mgnch.smil/chunklist_w192763708_b3884000_sleng.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19741080_ico.png?ts=1654802160" group-title="News",JAKARTA GLOBE
+https://b1english.beritasatumedia.com/Beritasatu/B1English_1280x720.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="News" tvg-logo="https://www.useetv.com/assets/images/channel/logo_beritasatu_small1.png?v=2.0.0.13",Berita Satu
@@ -765,6 +768,9 @@ https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19936936_ico.png?ts=1654806429" group-title="Music",MUSICA
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=6869efe03b7fbef3b001dc15804bc826446503011668def857b1c03bafabba51
+
+#EXTINF:-1 tvg-id="Maleo.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://www.lyngsat.com/logo/tv/mm/maleo-id.png" group-title="Music",Maleo
+https://alfa.kugo.id/playout/maleo.stream/chunklist.m3u8
 
 #EXTINF:-1 group-title="Music", MTV Biggest Pop
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
