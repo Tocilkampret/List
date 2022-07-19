@@ -918,7 +918,7 @@ https://liveanevia.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/Indo
 #EXTINF:-1 tvg-id="MyCinema.id" tvg-country="ID" tvg-language="English" tvg-logo="https://www.lyngsat.com/logo/tv/mm/my-cinema-id.png" group-title="Movies",My Cinema 
 http://210.210.155.35/uq2663/h/h192/index.m3u8
 
-EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20753209_ico.png?ts=1655159537" group-title="Movies",STAR MOVIES
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20753209_ico.png?ts=1655159537" group-title="Movies",STAR MOVIES
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19974462_ico.png?ts=1655149767" group-title="Movies",AMC
