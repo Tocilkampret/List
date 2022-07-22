@@ -338,6 +338,9 @@ https://liveanevia.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
 #EXTINF:-1 tvg-id="KPlus.MACAN" tvg-name="Kplus" tvg-logo="https://i.ibb.co/smpNq8Z/xgnf.png" group-title="Entertainment & Lifestyle",K+
 http://210.210.155.35/uq2663/h/h08/01.m3u8?fluxustv.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19529355_ico.png?ts=1654728861" group-title="Entertainment & Lifestyle",KBS WORLD
+http://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
+
 #EXTINF:-1 tvg-logo="http://bit.ly/EGGnet" tvg-id="eGG.MACAN" tvg-name="egg network" group-title="Entertainment & Lifestyle",Egg Network
 http://playlist.urfan.web.id/uq2663/h/h22/01.m3u8
 
@@ -917,7 +920,7 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunk
 #EXTINF:-1 tvg-ID="" tvg-name="DUBAI SPORTS 3" tvg-logo="https://4flims.com/upload/source/dubaisports1%D9%86%D8%B3%D8%AE.png" group-title="Sport HD",DUBAI SPORTS 3
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
 
-#EXTINF:-1 group-title="Sport HD", SWISS SPORT TV tvg-logo="https://images02.dosbnewmediacloud.de/mediafiles/6788/5024/9304/95a757488add42e9b14d95c8d2d00678/swiss-sport-tv-ig-profile_300x300.jpg"
+#EXTINF:-1 group-title="Sport HD", SWISS SPORT TV" tvg-logo="https://images02.dosbnewmediacloud.de/mediafiles/6788/5024/9304/95a757488add42e9b14d95c8d2d00678/swiss-sport-tv-ig-profile_300x300.jpg"
 https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist_w1922077967_b2628000.m3u8
 
 #EXTINF:-1 tvg-id="InsightTV.nl" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/7xmaoL0.png" group-title="Sport HD",Insight TV
