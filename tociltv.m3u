@@ -23,7 +23,7 @@ https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=72da7fd6d1302c0a159f6436d01e9eb0446503011668def857b1c03bafabba51
 
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png?v=2.0.0.15",INDOSIAR
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69446503011668def857b1c03bafabba51
+http://tvlive.my.id:25461/kevin/kevin/10
 
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png?v=2.0.0.15",SCTV
 http://tvlive.my.id:25461/kevin/kevin/12
