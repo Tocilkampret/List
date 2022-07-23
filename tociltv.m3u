@@ -853,11 +853,6 @@ https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
 °°° Sports HD °°°
 
 
-#EXTINF:-1 group-title="Sport HD" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/media-upload/1634257286_thumb-spotv.png",SPOTV
-http://tvlive.my.id:25461/kevin/kevin/27
-
-#EXTINF:-1 group-title="Sport HD" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/media-upload/1634257305_thumb-spotv-2.png",SPOTV 2
-http://tvlive.my.id:25461/kevin/kevin/28
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="Sport HD",Astro SuperSport 
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142712.m3u8
