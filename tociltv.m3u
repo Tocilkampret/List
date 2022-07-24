@@ -899,19 +899,19 @@ https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="Sport HD",Astro SuperSport 
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="Sport HD",Astro SuperSport 
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142712.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png" group-title="Sport HD",Astro SuperSport 2
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png" group-title="Sport HD",Astro SuperSport 2
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142713.m3u8
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="Sport HD",Astro SuperSport 3
+EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="Sport HD",Astro SuperSport 3
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142714.m3u8
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="Sport HD",Astro SuperSport 4
+EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="Sport HD",Astro SuperSport 4
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142715.m3u8
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/455_144.png" group-title="Sport HD",Astro SuperSport 5
+EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/455_144.png" group-title="Sport HD",Astro SuperSport 5
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142716.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
