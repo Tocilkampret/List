@@ -964,5 +964,9 @@ https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist_w192207
 #EXTINF:-1 tvg-id="InsightTV.nl" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/7xmaoL0.png" group-title="Sport HD",Insight TV
 https://insighttv-vizio.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IPK9f6h.png" group-title="Sport HD",ASTRO ARENA
+https://lnk.ec/shareext@champ1
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z3fQ87X.png" group-title="Sport HD",Eurosport 1
+https://lnk.ec/shareext@champ2
 
