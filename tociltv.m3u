@@ -54,7 +54,7 @@ http://tvlive.my.id:25461/kevin/kevin/12
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=6c29793a140a811d0c45ce03c1c93a28446503011668def857b1c03bafabba51
 
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/fAbGImS.png",Trans 7
-http://rr.dens.tv/h/h11/index.m3u8
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=e995f98d56967d946471af29d7bf99f1446503011668def857b1c03bafabba51
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
