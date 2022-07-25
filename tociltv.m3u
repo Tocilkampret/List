@@ -448,6 +448,8 @@ https://liveanevia.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
 #EXTINF:-1 group-title="Knowledge" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_206.png",History 
 https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x1sG33k.png" group-title="Knowledge",Indonesiana TV
+https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/1.m3u8
 
 °°° Kids °°°
 
