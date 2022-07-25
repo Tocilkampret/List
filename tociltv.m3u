@@ -910,6 +910,11 @@ https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
 
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IPK9f6h.png" group-title="Sport",Astro Arena
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142710.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5b1X3TT.png" group-title="Sport",Astro Arena 2
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142711.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
