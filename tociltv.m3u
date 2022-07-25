@@ -34,6 +34,11 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png",INDOSIAR
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69446503011668def857b1c03bafabba51
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0328a153c2994b279ab03ab25102fc59&key=2cc69eaaa858fed24c5623654daf8d3d
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png" group-title="TV Nasional",Indosiar FHD
+https://etslive-2-vidio-com.akamaized.net/exp=1658768653~acl=/vp9/9309_stream.mpd!/vp9/9309/*!/vp9/*/9309_stream.mpd!/vp9/*/9309/*~hmac=f050537700d20e544e87093ad1493444a4b340c914d7a8e584248c09e3dc02b0/vp9/9309_stream.mpd
+
 EXTINF:-1 group-title="TV Nasional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png",Indosiar (alt)
 http://tvlive.my.id:25461/kevin/kevin/10
 
