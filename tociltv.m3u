@@ -66,7 +66,7 @@ EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/Al8T2MD.png",T
 http://tvlive.my.id:25461/kevin/kevin/6
 
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/QnU70NI.png",Metro TV
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/manifest.mpd
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=f1c1592588411002af340cbaedd6fc33446503011668def857b1c03bafabba51
 
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/QnU70NI.png",MetroTV (alt)
 http://tvlive.my.id:25461/kevin/kevin/8
