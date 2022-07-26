@@ -68,7 +68,7 @@ http://tvlive.my.id:25461/kevin/kevin/6
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/QnU70NI.png",Metro TV
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/manifest.mpd
 
-EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/QnU70NI.png",MetroTV (alt)
+#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/QnU70NI.png",MetroTV (alt)
 http://tvlive.my.id:25461/kevin/kevin/8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
