@@ -672,7 +672,7 @@ https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/UWCKaJw.png",IMC
 https://liveanevia.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
 
-#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/3B145Ej.png",SINEMA INDONESIA
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/3B145Ej.png",SINEMA INDONESIA
 http://tvlive.my.id:25461/kevin/kevin/51
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
