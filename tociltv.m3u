@@ -838,6 +838,9 @@ https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142711.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/FIGHT_SPORTS_2018.png/revision/latest?cb=20191026180443" group-title="Sport HD",FIGHT SPORTS 
 https://liveanevia.mncnow.id:443/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 
+#EXTINF:-1 group-title="Sport HD" tvg-logo="https://i.imgur.com/nV55veq.png",FIGHT SPORTS
+http://tvlive.my.id:25461/kevin/kevin/65
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VvfnNP7v/Unifi-TV-Logo.png" group-title="Sport HD",Unifi Sports 1
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 
