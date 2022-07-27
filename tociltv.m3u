@@ -827,7 +827,7 @@ https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IPK9f6h.png" group-title="Sport HD",Astro Arena
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142710.m3u8
 
-#EXTINF:-1 group-title="Sport HD" tvg-logo="https://i.imgur.com/IPK9f6h.png",ASTRO ARENA
+EXTINF:-1 group-title="Sport HD" tvg-logo="https://i.imgur.com/IPK9f6h.png",ASTRO ARENA
 http://tvlive.my.id:25461/kevin/kevin/32
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5b1X3TT.png" group-title="Sport HD",Astro Arena 2
@@ -838,7 +838,7 @@ https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142711.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/FIGHT_SPORTS_2018.png/revision/latest?cb=20191026180443" group-title="Sport HD",FIGHT SPORTS 
 https://liveanevia.mncnow.id:443/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 
-#EXTINF:-1 group-title="Sport HD" tvg-logo="https://i.imgur.com/nV55veq.png",FIGHT SPORTS
+EXTINF:-1 group-title="Sport HD" tvg-logo="https://i.imgur.com/nV55veq.png",FIGHT SPORTS
 http://tvlive.my.id:25461/kevin/kevin/65
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VvfnNP7v/Unifi-TV-Logo.png" group-title="Sport HD",Unifi Sports 1
@@ -877,7 +877,7 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunk
 #EXTINF:-1 tvg-ID="" tvg-name="DUBAI SPORTS 3" tvg-logo="https://4flims.com/upload/source/dubaisports1%D9%86%D8%B3%D8%AE.png" group-title="Sport HD",DUBAI SPORTS 3
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
 
-#EXTINF:-1 tvg-logo="https://images02.dosbnewmediacloud.de/mediafiles/6788/5024/9304/95a757488add42e9b14d95c8d2d00678/swiss-sport-tv-ig-profile_300x300.jpg" group-title="Sport HD",SWISS SPORT TV
+EXTINF:-1 tvg-logo="https://images02.dosbnewmediacloud.de/mediafiles/6788/5024/9304/95a757488add42e9b14d95c8d2d00678/swiss-sport-tv-ig-profile_300x300.jpg" group-title="Sport HD",SWISS SPORT TV
 https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist_w1922077967_b2628000.m3u8
 
 #EXTINF:-1 tvg-id="InsightTV.nl" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/7xmaoL0.png" group-title="Sport HD",Insight TV
