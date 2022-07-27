@@ -182,7 +182,7 @@ http://203.77.246.50:5000/udp/239.1.3.76:5000
 #EXTINF:-1 group-title="HBO Group" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png",HBO Hits 
 https://liveanevia.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="HBO Group",HBO Hits FHD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EOAGWnd.png" group-title="HBO Group",HBO Hits FHD
 http://203.77.246.50:5000/udp/239.1.3.82:5000
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
