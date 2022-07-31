@@ -86,7 +86,7 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/fAbGImS.png",TRANS7 
 http://210.210.155.35/uq2663/h/h11/index.m3u8
 
-EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/fAbGImS.png",TRANS7
+#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/fAbGImS.png",TRANS7
 http://tvlive.my.id:25461/kevin/kevin/11
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
