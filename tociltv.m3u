@@ -676,10 +676,10 @@ https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_pix_hd.smil/manife
 
 
 
-#EXTINF:-1 tvg-id="AFV.us" group-title="Entertainment & Lifestyle" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/AFHV_new_logo.png/revision/latest?cb=20151018004917",AFV
+#EXTINF:-1 tvg-id="AFV.us" group-title="Entertainment & Lifestyle" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/AFHV_new_logo.png/revision/latest?cb=20151018004917",Always Funny Video
 https://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AFV.us" group-title="Entertainment & Lifestyle" tvg-logo="https://i.imgur.com/lG3OHxA.png",AFV (Alt)
+#EXTINF:-1 tvg-id="AFV.us" group-title="Entertainment & Lifestyle" tvg-logo="https://i.imgur.com/lG3OHxA.png",Always Funny Video 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e82b55ad0213e00079c509f/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png" group-title="Entertainment & Lifestyle",FASHION TV
