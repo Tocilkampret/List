@@ -56,6 +56,9 @@ http://tvlive.my.id:25461/kevin/kevin/6
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/512px-Antv_logo.svg.png",antv
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=72da7fd6d1302c0a159f6436d01e9eb0446503011668def857b1c03bafabba51
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/512px-Antv_logo.svg.png" group-title="TV Nasional",antv
+https://tvn10.xyz/Meta/master-15.m3u8
+
 EXTINF:-1 group-title="TV Nasional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/512px-Antv_logo.svg.png",antv (alt) tplive
 http://tvlive.my.id:25461/kevin/kevin/14
 
@@ -70,6 +73,9 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2
 
 EXTINF:-1 tvg-logo="https://i.imgur.com/EMmOvnQ.png" group-title="TV Nasional",SCTV
 https://tvn10.xyz/Meta/master-1.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Ochannel.png/512px-Ochannel.png" group-title="TV Nasional",O CHANNEL
+https://tvn10.xyz/Meta/master-13.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -129,6 +135,9 @@ http://210.210.155.37/dr9445/h/h10/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rajawali_tv_id.png" group-title="TV Nasional",rtv FHD
 http://203.77.246.50:5000/udp/239.1.1.70:5000
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rajawali_tv_id.png" group-title="TV Nasional",rtv
+https://tvn10.xyz/Meta/master-16.m3u8
 
 EXTINF:-1 group-title="TV Nasional" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rajawali_tv_id.png",rtv (alt) tplive
 http://tvlive.my.id:25461/kevin/kevin/17
@@ -578,12 +587,14 @@ https://rockentertainment-zoomoo-1-us.samsung.wurl.tv/2000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1wYnA2i.jpg" group-title="Kids",ZOO MOO
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4O_PTYQgv3yE1mc27z8ACiBx5GOuEqbLyKQ&usqp=CAU" group-title="Kids",Zoo Moo
+https://tvn10.xyz/Meta/master-17.m3u8
+
 #EXTINF:-1 tvg-id="BiznetKids.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://www.biznethome.net/bin/images/tv-program/channel/BiznetHomeKids.jpg" group-title="Kids",Biznet Kids 
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=qAri1M2xu_MAlnHwVRtOs24lR8Y_HSDijN2CRNghifUllhYqQSDlkd0qE8CkZwxC&bizkeylivestarttime=0
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eyqdwpr.png" group-title="Kids",Hip Hip Horee!
 https://tvn10.xyz/Meta/master-4.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yPYttfo.png" group-title="Kids",Horee!
 https://tvn10.xyz/Meta/master-6.m3u8
@@ -651,6 +662,9 @@ https://liveanevia.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/512px-Logo_tvN.svg.png",TVN 
 https://liveanevia.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/512px-Logo_tvN.svg.png" group-title="Movies",TVN
+https://tvn10.xyz/Meta/master-18.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -1076,6 +1090,9 @@ https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19936936_ico.png?ts=1654806429" group-title="Music",MUSICA
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=6869efe03b7fbef3b001dc15804bc826446503011668def857b1c03bafabba51
 
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19936936_ico.png?ts=1654806429" group-title="Music",MUSICA
+https://tvn10.xyz/Meta/master-20.m3u8
+
 #EXTINF:-1 tvg-id="Maleo.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://www.lyngsat.com/logo/tv/mm/maleo-id.png" group-title="Music",Maleo
 https://alfa.kugo.id/playout/maleo.stream/chunklist.m3u8
 
@@ -1109,6 +1126,10 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 
 
 
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nMq5CyD.png" group-title="Religi",ajwa TV
+https://tvn10.xyz/Meta/master-14.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
