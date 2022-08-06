@@ -96,7 +96,7 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/fAbGImS.png",TRANS7 
 http://210.210.155.35/uq2663/h/h11/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fAbGImS.png" group-title="TV Nasional", TRANS7
+EXTINF:-1 tvg-logo="https://i.imgur.com/fAbGImS.png" group-title="TV Nasional", TRANS7
 https://tvn10.xyz/Meta/master-28.m3u8
 
 EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/fAbGImS.png",TRANS7 tplive
@@ -104,7 +104,7 @@ http://tvlive.my.id:25461/kevin/kevin/12
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/Al8T2MD.png",tvOne
+EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/Al8T2MD.png",tvOne
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=6e0721b2c6977135b916ef286bcb49ec446503011668def857b1c03bafabba51
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Al8T2MD.png" group-title="TV Nasional", tvOne
@@ -122,7 +122,7 @@ http://210.210.155.35/uq2663/h/h12/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QnU70NI.png" group-title="TV Nasional",METRO TV FHD
 http://203.77.246.50:5000/udp/239.1.1.66:5000
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QnU70NI.png" group-title="TV Nasional", METRO TV
+EXTINF:-1 tvg-logo="https://i.imgur.com/QnU70NI.png" group-title="TV Nasional", METRO TV
 https://tvn10.xyz/Meta/master-30.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -153,7 +153,7 @@ http://tvlive.my.id:25461/kevin/kevin/17
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7a/KOMPAS_TV_%282017%29.png",KOMPAS TV
+EXTINF:-1 group-title="TV Nasional" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7a/KOMPAS_TV_%282017%29.png",KOMPAS TV
 https://liveanevia.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7a/KOMPAS_TV_%282017%29.png" group-title="TV Nasional", KOMPAS TV
@@ -563,7 +563,7 @@ https://legochannel-roku.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXOITYpX3j7YdrBcudY1WUaIfFHcpG0fHbDg&usqp=CAU" group-title="Kids", LEGO TOONS
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22549d5eeee0f5a4094ba/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdBwML359ZZJmZuWuNlqs_FiAtAEzXky8WKw&usqp=CAU" group-title="Kids",Mentari TV
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdBwML359ZZJmZuWuNlqs_FiAtAEzXky8WKw&usqp=CAU" group-title="Kids",Mentari TV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=7dd2ae7db7d18ee7c9425e38df1af5e2446503011668def857b1c03bafabba51
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ka5OY8k.png" group-title="Kids", mentari tv
