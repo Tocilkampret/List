@@ -537,12 +537,12 @@ https://liveanevia.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="Kids" tvg-logo="https://www.mncvision.id/userfiles/image/channel/miawme150x150.jpg",Miao Mi
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/B5MAphH.png",MIAO MI
 https://liveanevia.mncnow.id/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/B5MAphH.png",Miao Mi FHD
+EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/B5MAphH.png",Miao Mi FHD
 https://allanf181.github.io/adaptive-streams/streams/hk/MiaoMi.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROB0zhy5zRU_3uqcFNtdz9HrqTpYw8VFTIVA&usqp=CAU" group-title="Kids",DUCK TV
