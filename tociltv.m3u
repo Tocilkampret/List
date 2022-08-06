@@ -938,19 +938,19 @@ https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142710.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5b1X3TT.png" group-title="Sport HD",Astro Arena 2
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142711.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="Sport HD",Astro SuperSport 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="Sport HD",Astro SUPERSPORT 
 http://ch.riff.id@client-iptvmag.club:8080/per-paulen/qcbDQtgQUx/19170?
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png" group-title="Sport HD",Astro SuperSport 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png" group-title="Sport HD",Astro SUPERSPORT 2
 http://ch.riff.id@client-iptvmag.club:8080/per-paulen/qcbDQtgQUx/19171?
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="Sport HD",Astro SuperSport 3
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="Sport HD",Astro SUPERSPORT 3
 http://ch.riff.id@client-iptvmag.club:8080/per-paulen/qcbDQtgQUx/19172?
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="Sport HD",Astro SuperSport 4
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="Sport HD",Astro SUPERSPORT 4
 http://ch.riff.id@client-iptvmag.club:8080/per-paulen/qcbDQtgQUx/19173?
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/455_144.png" group-title="Sport HD",Astro SuperSport 5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VNvggtc.png" group-title="Sport HD",Astro CRICKET
 http://ch.riff.id@client-iptvmag.club:8080/per-paulen/qcbDQtgQUx/19174?
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
