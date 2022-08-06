@@ -938,6 +938,21 @@ https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142710.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5b1X3TT.png" group-title="Sport HD",Astro Arena 2
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142711.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="Sport HD",Astro SuperSport 1
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142712.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png" group-title="Sport HD",Astro SuperSport 2
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142713.m3u8
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="Sport HD",Astro SuperSport 3
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142714.m3u8
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="Sport HD",Astro SuperSport 4
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142715.m3u8
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/455_144.png" group-title="Sport HD",Astro SuperSport 5
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142716.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/FIGHT_SPORTS_2018.png/revision/latest?cb=20191026180443" group-title="Sport HD",FIGHT SPORTS 
