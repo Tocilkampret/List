@@ -710,6 +710,15 @@ https://tvn10.xyz/Meta/master-19.m3u8
 #EXTINF:-1 tvg-id="MyCinema.id" tvg-country="ID" tvg-language="English" tvg-logo="https://www.lyngsat.com/logo/tv/mm/my-cinema-id.png" group-title="Movies",mycinema
 http://210.210.155.35/uq2663/h/h192/index.m3u8
 
+#EXTINF:-1 group-title="Movies" tvg-logo="https://www.lyngsat.com/logo/tv/mm/my_cinema_europe_kr.png",mycinemaeurope
+http://210.210.155.35/uq2663/h/h18/index.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/MGuWJtn.png",mycinemaasia
+http://210.210.155.35/uq2663/h/h193/index.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://www.lyngsat.com/logo/tv/mm/my-family-id.png",myfamilychannel
+http://210.210.155.35/uq2663/h/h194/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cmouFhf.png" group-title="Movies",STAR MOVIES
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 
