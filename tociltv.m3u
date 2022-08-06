@@ -658,6 +658,9 @@ https://liveanevia.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/Xl7MJnd.png",ZEE BIOSKOP
 https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xl7MJnd.png" group-title="Movies",ZEE BIOSKOP
+https://tvn10.xyz/Meta/master-19.m3u8
+
 #EXTINF:-1 tvg-id="MyCinema.id" tvg-country="ID" tvg-language="English" tvg-logo="https://www.lyngsat.com/logo/tv/mm/my-cinema-id.png" group-title="Movies",mycinema
 http://210.210.155.35/uq2663/h/h192/index.m3u8
 
