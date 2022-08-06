@@ -68,6 +68,9 @@ http://tvlive.my.id:25461/kevin/kevin/11
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/EMmOvnQ.png",SCTV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4446503011668def857b1c03bafabba51
 
+#EXTINF:-1 tvg-logo="test" group-title="TV Nasional",SCTV
+https://tvn10.xyz/Meta/master-1.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/512px-Trans_TV_2013.svg.png",TRANSTV
@@ -609,6 +612,9 @@ https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/UWCKaJw.png",imc
 https://liveanevia.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z1Qzof6.png" group-title="Movies",Citra Bioskop
+https://tvn10.xyz/Meta/master-2.m3u8
+
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/3B145Ej.png",SINEMA INDONESIA
 http://tvlive.my.id:25461/kevin/kevin/51
 
@@ -768,6 +774,9 @@ https://liveanevia.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainm
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="Entertainment & Lifestyle" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_96.png",Infotainment
 https://liveanevia.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainment.mpd
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LSMU9zF.png" group-title="Entertainment & Lifestyle",Citra DRAMA
+https://tvn10.xyz/Meta/master-3.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
