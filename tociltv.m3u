@@ -883,7 +883,6 @@ https://ott-navigator.my.id/000143-356212-986581/vidio33/master.m3u8?channel=cha
 EXTINF:-1 tvg-logo="https://i.imgur.com/EaRVaEX.png" group-title="Sports",CHAMPIONS TV 1
 https://tvn10.xyz/Meta/master-7.m3u8
 
-
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/IgGVlgI.png",CHAMPIONS TV 2 
 https://ott-navigator.my.id/000143-356212-986581/vidionline330/vidio_master.m3u8?channel=championstv2
 
@@ -892,7 +891,6 @@ https://ott-navigator.my.id/000143-356212-986581/vidio33/master.m3u8?channel=cha
 
 EXTINF:-1 tvg-logo="https://i.imgur.com/IgGVlgI.png" group-title="Sports",CHAMPIONS TV 2
 https://tvn10.xyz/Meta/master-8.m3u8
-
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/1MBBBBN.png",CHAMPIONS TV 3
 https://ott-navigator.my.id/000143-356212-986581/vidionline330/vidio_master.m3u8?channel=championstv3
@@ -1087,7 +1085,7 @@ http://tvlive.my.id:25461/kevin/kevin/40
 #EXTINF:-1 group-title="Music" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_111.png",Music TV
 https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19936936_ico.png?ts=1654806429" group-title="Music",MUSICA
+EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19936936_ico.png?ts=1654806429" group-title="Music",MUSICA
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=6869efe03b7fbef3b001dc15804bc826446503011668def857b1c03bafabba51
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19936936_ico.png?ts=1654806429" group-title="Music",MUSICA
