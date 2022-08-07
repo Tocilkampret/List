@@ -658,8 +658,11 @@ https://liveanevia.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/Indo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z1Qzof6.png" group-title="Movies",Citra Bioskop
 https://tvn10.xyz/Meta/master-2.m3u8
 
-#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/3B145Ej.png",SINEMA INDONESIA
+EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/3B145Ej.png",SINEMA INDONESIA
 http://tvlive.my.id:25461/kevin/kevin/51
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3B145Ej.png" group-title="Movies",SINEMA INDONESIA
+http://203.77.246.50:5000/udp/239.1.1.74:5000
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
