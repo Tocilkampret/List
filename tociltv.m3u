@@ -1066,7 +1066,17 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R2dMhYE.png" group-title="Sport HD",SONY TEN 1
 https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten1_hd.smil/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20392732_ico.png?ts=1654805856" group-title="Sport HD",Sony Ten 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
+https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten1_hd.smil/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LwGRMzj.png" group-title="Sport HD",SONY TEN 2
+https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten2_hd.smil/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20392768_ico.png?ts=1654805937" group-title="Sport HD",Sony Ten 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
 https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten2_hd.smil/manifest.mpd
 
 #EXTINF:-1 tvg-ID="" tvg-name="SUKAN RTM" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/Sukan_RTM_1_April.png/revision/latest/scale-to-width-down/300?cb=20210408125347" group-title="Sport HD",SUKAN RTM  
