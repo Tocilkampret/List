@@ -1182,6 +1182,8 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
 #EXTINF:-1 group-title="Music", MTV Yo
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Snn3JUh.png" group-title="Music",Zing
+http://203.77.246.50:5000/udp/239.1.1.232:5000
 
 
 °°° Religi °°°
