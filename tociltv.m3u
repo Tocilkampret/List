@@ -664,7 +664,7 @@ http://tvlive.my.id:25461/kevin/kevin/51
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3B145Ej.png" group-title="Movies",SINEMA INDONESIA
 http://203.77.246.50:5000/udp/239.1.1.74:5000
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Phoenix_HK.svg/512px-Phoenix_HK.svg.png" group-title="Udp1",Phoenix HK
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Phoenix_HK.svg/512px-Phoenix_HK.svg.png" group-title="Movies",Phoenix HK
 http://203.77.246.50:5000/udp/239.1.1.204:5000
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
