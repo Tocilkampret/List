@@ -856,7 +856,7 @@ https://tvn10.xyz/Meta/master-24.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="Entertainment & Lifestyle" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_95.png",OK TV
+#EXTINF:-1 group-title="Entertainment & Lifestyle" tvg-logo="https://i.imgur.com/DCSiN8I.png",OK TV
 https://liveanevia.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -892,7 +892,7 @@ http://210.210.155.37/dr9445/h/h07/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="Entertainment & Lifestyle" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_94.png",Vision Prime
+#EXTINF:-1 group-title="Entertainment & Lifestyle" tvg-logo="https://i.imgur.com/gyzI7aj.png",Vision Prime
 https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
