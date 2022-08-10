@@ -1043,16 +1043,36 @@ https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142710.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5b1X3TT.png" group-title="Sport HD",Astro Arena 2
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142711.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="Sport HD",Astro SUPERSPORT 
+#EXTINF:-1 tvg-id="beINSportsEnglish1.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="Sport HD",astro SUPERSPORT 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium123/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="Sport HD",Astro SUPERSPORT (Alt)
 http://ch.riff.id@client-iptvmag.club:8080/per-paulen/qcbDQtgQUx/19170?
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png" group-title="Sport HD",Astro SUPERSPORT 2
+#EXTINF:-1 tvg-id="beINSportsEnglish1.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png" group-title="Sport HD",astro SUPERSPORT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium124/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png" group-title="Sport HD",Astro SUPERSPORT 2 (Alt)
 http://ch.riff.id@client-iptvmag.club:8080/per-paulen/qcbDQtgQUx/19171?
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="Sport HD",Astro SUPERSPORT 3
+#EXTINF:-1 tvg-id="beINSportsEnglish1.qa" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="Sport HD",astro SUPERSPORT 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium125/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="Sport HD",Astro SUPERSPORT 3 (Alt)
 http://ch.riff.id@client-iptvmag.club:8080/per-paulen/qcbDQtgQUx/19172?
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="Sport HD",Astro SUPERSPORT 4
+#EXTINF:-1 tvg-id="beINSportsEnglish1.qa" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="Sport HD",astro SUPERSPORT 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium126/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="Sport HD",Astro SUPERSPORT 4 (Alt)
 http://ch.riff.id@client-iptvmag.club:8080/per-paulen/qcbDQtgQUx/19173?
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VNvggtc.png" group-title="Sport HD",Astro CRICKET
