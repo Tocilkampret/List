@@ -1115,7 +1115,7 @@ https://insighttv-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L6E4dsq.png" group-title="Sport HD",Premier Sports
 https://lnk.ec/shareext@champ1
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/z3fQ87X.png" group-title="net", EUROSPORT 1 @57
+#EXTINF:-1 tvg-id="beINSportsEnglish1.qa" tvg-logo="https://i.imgur.com/z3fQ87X.png" group-title="Sport HD", EUROSPORT 1 @57
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTVLCOPT:http-referrer=https://player.licenses4.me
 https://networkbest.ru.com/cdn/premium57/tracks-v1a1/mono.m3u8
