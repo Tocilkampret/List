@@ -1188,6 +1188,10 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Snn3JUh.png" group-title="Music",Zing
 http://203.77.246.50:5000/udp/239.1.1.232:5000
 
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20957953_ico.png?ts=1655330333" group-title="Music",molahits tv
+http://ventdelnord.tv:8080/mola/directe.m3u8
+
+
 
 °°° Religi °°°
 
