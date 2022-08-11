@@ -74,7 +74,7 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2
 EXTINF:-1 tvg-logo="https://i.imgur.com/EMmOvnQ.png" group-title="TV Nasional",SCTV
 https://tvn10.xyz/Meta/master-1.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Ochannel.png/512px-Ochannel.png" group-title="TV Nasional",O CHANNEL
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Ochannel.png/512px-Ochannel.png" group-title="TV Nasional",O CHANNEL
 https://tvn10.xyz/Meta/master-13.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -93,10 +93,10 @@ http://tvlive.my.id:25461/kevin/kevin/10
 EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/fAbGImS.png",TRANS7
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=e995f98d56967d946471af29d7bf99f1446503011668def857b1c03bafabba51
 
-EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/fAbGImS.png",TRANS7 
+#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/fAbGImS.png",TRANS7 
 http://210.210.155.35/uq2663/h/h11/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fAbGImS.png" group-title="TV Nasional", TRANS7
+EXTINF:-1 tvg-logo="https://i.imgur.com/fAbGImS.png" group-title="TV Nasional", TRANS7
 https://tvn10.xyz/Meta/master-28.m3u8
 
 EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/fAbGImS.png",TRANS7 tplive
@@ -104,10 +104,10 @@ http://tvlive.my.id:25461/kevin/kevin/12
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/Al8T2MD.png",tvOne
+#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/Al8T2MD.png",tvOne
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=6e0721b2c6977135b916ef286bcb49ec446503011668def857b1c03bafabba51
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Al8T2MD.png" group-title="TV Nasional", tvOne
+EXTINF:-1 tvg-logo="https://i.imgur.com/Al8T2MD.png" group-title="TV Nasional", tvOne
 https://tvn10.xyz/Meta/master-27.m3u8
 
 EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/Al8T2MD.png",tvOne (alt) tplive
@@ -153,10 +153,10 @@ http://tvlive.my.id:25461/kevin/kevin/17
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-EXTINF:-1 group-title="TV Nasional" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7a/KOMPAS_TV_%282017%29.png",KOMPAS TV
+#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7a/KOMPAS_TV_%282017%29.png",KOMPAS TV
 https://liveanevia.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7a/KOMPAS_TV_%282017%29.png" group-title="TV Nasional", KOMPAS TV
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7a/KOMPAS_TV_%282017%29.png" group-title="TV Nasional", KOMPAS TV
 https://tvn10.xyz/Meta/master-26.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -572,10 +572,10 @@ https://legochannel-roku.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/xePwW13.png" group-title="Kids", LEGO TOONS
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22549d5eeee0f5a4094ba/playlist.m3u8
 
-EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdBwML359ZZJmZuWuNlqs_FiAtAEzXky8WKw&usqp=CAU" group-title="Kids",Mentari TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ka5OY8k.png" group-title="Kids",Mentari TV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=7dd2ae7db7d18ee7c9425e38df1af5e2446503011668def857b1c03bafabba51
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ka5OY8k.png" group-title="Kids", mentari tv
+EXTINF:-1 tvg-logo="https://i.imgur.com/Ka5OY8k.png" group-title="Kids", mentari tv
 https://tvn10.xyz/Meta/master-23.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/nuzIBbN.png" group-title="Kids",moonbug Kids
@@ -611,16 +611,16 @@ https://rockentertainment-zoomoo-1-us.samsung.wurl.tv/2000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1wYnA2i.jpg" group-title="Kids",ZOO MOO
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4O_PTYQgv3yE1mc27z8ACiBx5GOuEqbLyKQ&usqp=CAU" group-title="Kids",Zoo Moo
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4O_PTYQgv3yE1mc27z8ACiBx5GOuEqbLyKQ&usqp=CAU" group-title="Kids",Zoo Moo
 https://tvn10.xyz/Meta/master-17.m3u8
 
 #EXTINF:-1 tvg-id="BiznetKids.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://www.biznethome.net/bin/images/tv-program/channel/BiznetHomeKids.jpg" group-title="Kids",B Kids 
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=qAri1M2xu_MAlnHwVRtOs24lR8Y_HSDijN2CRNghifUllhYqQSDlkd0qE8CkZwxC&bizkeylivestarttime=0
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eyqdwpr.png" group-title="Kids",Hip Hip Horee!
+EXTINF:-1 tvg-logo="https://i.imgur.com/eyqdwpr.png" group-title="Kids",Hip Hip Horee!
 https://tvn10.xyz/Meta/master-4.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yPYttfo.png" group-title="Kids",Horee!
+EXTINF:-1 tvg-logo="https://i.imgur.com/yPYttfo.png" group-title="Kids",Horee!
 https://tvn10.xyz/Meta/master-6.m3u8
 
 
@@ -655,7 +655,7 @@ https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/UWCKaJw.png",imc
 https://liveanevia.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z1Qzof6.png" group-title="Movies",Citra Bioskop
+EXTINF:-1 tvg-logo="https://i.imgur.com/Z1Qzof6.png" group-title="Movies",Citra Bioskop
 https://tvn10.xyz/Meta/master-2.m3u8
 
 EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/3B145Ej.png",SINEMA INDONESIA
@@ -693,10 +693,10 @@ https://liveanevia.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/512px-Logo_tvN.svg.png",TVN 
+#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/512px-Logo_tvN.svg.png",tvN 
 https://liveanevia.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/512px-Logo_tvN.svg.png" group-title="Movies",tvN
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/512px-Logo_tvN.svg.png" group-title="Movies",tvN
 https://tvn10.xyz/Meta/master-18.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -716,10 +716,10 @@ https://liveanevia.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/Xl7MJnd.png",ZEE BIOSKOP
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/Xl7MJnd.png",ZEE BIOSKOP
 https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Xl7MJnd.png" group-title="Movies",ZEE BIOSKOP
+EXTINF:-1 tvg-logo="https://i.imgur.com/Xl7MJnd.png" group-title="Movies",ZEE BIOSKOP
 https://tvn10.xyz/Meta/master-19.m3u8
 
 #EXTINF:-1 tvg-id="MyCinema.id" tvg-country="ID" tvg-language="English" tvg-logo="https://www.lyngsat.com/logo/tv/mm/my-cinema-id.png" group-title="Movies",my cinema
@@ -839,19 +839,19 @@ https://liveanevia.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainm
 #EXTINF:-1 group-title="Entertainment & Lifestyle" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_96.png",Infotainment
 https://liveanevia.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainment.mpd
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LSMU9zF.png" group-title="Entertainment & Lifestyle",Citra DRAMA
+EXTINF:-1 tvg-logo="https://i.imgur.com/LSMU9zF.png" group-title="Entertainment & Lifestyle",Citra DRAMA
 https://tvn10.xyz/Meta/master-3.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DPV5Evp.png" group-title="Entertainment & Lifestyle",Citra MUSLIM
+EXTINF:-1 tvg-logo="https://i.imgur.com/DPV5Evp.png" group-title="Entertainment & Lifestyle",Citra MUSLIM
 https://tvn10.xyz/Meta/master-5.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/stnqtvg.png" group-title="Entertainment & Lifestyle",Citra DANGDUT
+EXTINF:-1 tvg-logo="https://i.imgur.com/stnqtvg.png" group-title="Entertainment & Lifestyle",Citra DANGDUT
 https://tvn10.xyz/Meta/master-11.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Q1N6ka8.png" group-title="Entertainment & Lifestyle",Citra ENTERTAINMENT
+EXTINF:-1 tvg-logo="https://i.imgur.com/Q1N6ka8.png" group-title="Entertainment & Lifestyle",Citra ENTERTAINMENT
 https://tvn10.xyz/Meta/master-12.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EuZmCOh.png" group-title="Entertainment & Lifestyle", Citra CULINARY & TRAVEL
+EXTINF:-1 tvg-logo="https://i.imgur.com/EuZmCOh.png" group-title="Entertainment & Lifestyle", Citra CULINARY & TRAVEL
 https://tvn10.xyz/Meta/master-24.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -955,7 +955,7 @@ https://tvn10.xyz/Meta/master-9.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://thumbor.prod.vidiocdn.com/ImgdsL7Wg7GZtinU4PG7Ul0s0Qg=/1660x920/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/9045/champions-tv-goal-cover-e927dc.jpg",CHAMPIONS TV GOAL
 https://ott-navigator.my.id/000143-356212-986581/vidio33/master.m3u8?channel=championstvgoal
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ImgdsL7Wg7GZtinU4PG7Ul0s0Qg=/1660x920/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/9045/champions-tv-goal-cover-e927dc.jpg" group-title="Sports",CHAMPIONS TV GOAL (Alt)
+EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ImgdsL7Wg7GZtinU4PG7Ul0s0Qg=/1660x920/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/9045/champions-tv-goal-cover-e927dc.jpg" group-title="Sports",CHAMPIONS TV GOAL (Alt)
 https://tvn10.xyz/Meta/master-10.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/BeIN_Sports.png/512px-BeIN_Sports.png" group-title="Sports",beIN Sports
@@ -1165,10 +1165,10 @@ http://tvlive.my.id:25461/kevin/kevin/40
 #EXTINF:-1 group-title="Music" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_111.png",Music TV
 https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 
-EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19936936_ico.png?ts=1654806429" group-title="Music",MUSICA
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19936936_ico.png?ts=1654806429" group-title="Music",MUSICA
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=6869efe03b7fbef3b001dc15804bc826446503011668def857b1c03bafabba51
 
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19936936_ico.png?ts=1654806429" group-title="Music",MUSICA
+EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19936936_ico.png?ts=1654806429" group-title="Music",MUSICA
 https://tvn10.xyz/Meta/master-20.m3u8
 
 #EXTINF:-1 tvg-id="Maleo.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://www.lyngsat.com/logo/tv/mm/maleo-id.png" group-title="Music",Maleo
@@ -1183,16 +1183,16 @@ http://203.77.246.50:5000/udp/239.1.1.144:5000
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/512px-Channel_V_Logo.svg.png" group-title="Music",Channel V
 http://203.77.246.50:5000/udp/239.1.1.162:5000
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVQWaavwUIG9-_3DZ9IsB5F3QmN2blwUatxQ&usqp=CAU" group-title="Music", NAGASWARA
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVQWaavwUIG9-_3DZ9IsB5F3QmN2blwUatxQ&usqp=CAU" group-title="Music", NAGASWARA
 https://tvn10.xyz/Meta/master-21.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGZnY_WE0OOO4IE7NMNzYJRzMO2e2EVgEOvA&usqp=CAU" group-title="Music", CAKRA FM
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGZnY_WE0OOO4IE7NMNzYJRzMO2e2EVgEOvA&usqp=CAU" group-title="Music", CAKRA FM
 https://tvn10.xyz/Meta/master-22.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWbWTEk0gDcaVQhLuUYTH2gGyTienwQ7S4mg&usqp=CAU" group-title="Music", RAMA FM
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWbWTEk0gDcaVQhLuUYTH2gGyTienwQ7S4mg&usqp=CAU" group-title="Music", RAMA FM
 https://tvn10.xyz/Meta/master-25.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG0iRFuQ7qlSiDUjsQ_FZUlRiDSu12wBhn1A&usqp=CAU" group-title="Music", DAHLIA FM
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG0iRFuQ7qlSiDUjsQ_FZUlRiDSu12wBhn1A&usqp=CAU" group-title="Music", DAHLIA FM
 https://tvn10.xyz/Meta/master-29.m3u8
 
 #EXTINF:-1 group-title="Music", MTV Biggest Pop
@@ -1226,7 +1226,7 @@ https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nMq5CyD.png" group-title="Religi",ajwa TV
+EXTINF:-1 tvg-logo="https://i.imgur.com/nMq5CyD.png" group-title="Religi",ajwa TV
 https://tvn10.xyz/Meta/master-14.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
