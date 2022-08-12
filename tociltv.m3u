@@ -1,4 +1,7 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml, https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml, https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml, https://macan.tv/xmltv.php?username=epg&password=epg"  refresh="3600"
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml, 
+https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml, 
+https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml, 
+https://macan.tv/xmltv.php?username=epg&password=epg"  refresh="3600"
 
 
 
@@ -1140,13 +1143,13 @@ https://lnk.ec/shareext@champ1
 #EXTVLCOPT:http-referrer=https://player.licenses4.me
 https://networkbest.ru.com/cdn/premium57/tracks-v1a1/mono.m3u8
 
-EXTINF:-1 tvg-logo="https://i.imgur.com/z3fQ87X.png" group-title="Sport HD",Eurosport 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z3fQ87X.png" group-title="Sport HD",Eurosport 1
 https://lnk.ec/shareext@champ2
 
 EXTINF:-1 group-title="Sport HD" tvg-logo="https://i.imgur.com/z3fQ87X.png",EUROSPORT 1 tplive
 http://tvlive.my.id:25461/kevin/kevin/33
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/z3fQ87X.png" group-title="Sport HD",Eurosport 
+EXTINF:-1 tvg-logo="https://i.imgur.com/z3fQ87X.png" group-title="Sport HD",Eurosport 
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142726.m3u8
 
 EXTINF:-1 group-title="Sport HD" tvg-logo="https://i.imgur.com/CKnSeT7.png",ONE GOLF
