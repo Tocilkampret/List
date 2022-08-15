@@ -79,6 +79,9 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-4
 http://210.210.155.35/uq2663/h/h12/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QnU70NI.png" group-title="TV Nasional",METROTV FHD
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=d3d9446802a44259755d38e6d163e820dfdded94c48ea6229c48edefa9ec1c9f
+
+EXTINF:-1 tvg-logo="https://i.imgur.com/QnU70NI.png" group-title="TV Nasional",METROTV FHD
 http://203.77.246.50:5000/udp/239.1.1.66:5000
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
