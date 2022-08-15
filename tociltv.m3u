@@ -208,6 +208,9 @@ http://203.77.246.50:5000/udp/239.1.3.74:5000
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/INews.png/512px-INews.png",iNews
 https://liveanevia.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/INews.png/512px-INews.png" group-title="News",@ 126 iNews FHD
+https://m3u-editor.com/serve/4853a990-00b0-11ed-8830-395cb43f41cb/595176126
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/LUHw740.png",MNC News
