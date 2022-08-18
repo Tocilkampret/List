@@ -921,21 +921,6 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8
 
 ##########################
 
-#EXTINF:-1 tvg-id="BEIN Sports 1" tvg-name="BEIN Sports 1" tvg-logo="https://i.imgur.com/cPRsf28.png" group-title="Sports",BEIN Sports 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://93.152.174.144:4000/play/bein1ar/index.m3u8
-
-#EXTINF:-1 tvg-id="BEIN Sports 2" tvg-name="BEIN Sports 2" tvg-logo="https://i.imgur.com/Df7gSFQ.png" group-title="Sports",BEIN Sports 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://93.152.174.144:4000/play/bein2fr/index.m3u8
-
-#EXTINF:-1 tvg-id="BEIN Sports 3" tvg-name="BEIN Sports 3" tvg-logo="https://i.imgur.com/4I3ePkw.png" group-title="Sports",BEIN Sports 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://93.152.174.144:4000/play/bein3ar/index.m3u8
-
-#EXTINF:-1 tvg-id="BEIN Sports 4" tvg-name="BEIN Sports 4" tvg-logo="https://i.imgur.com/Pswp6AE.png" group-title="Sports",BEIN Sports 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://93.152.174.144:4000/play/bein4ar/index.m3u8
 
 #EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-name="Sky Sports Premier League" tvg-logo="https://i.imgur.com/wA3DieO.png" group-title="Sports",Sky Sports Premier League
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
