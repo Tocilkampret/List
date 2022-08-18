@@ -161,7 +161,7 @@ EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HB
 http://203.77.246.50:5000/udp/239.1.3.84:5000
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="HBO Group FHD",HBO 
-https://nonton.site:8443/live/mustakim/mustakim/11492.m3u8
+https://nonton.site:8443/live/mustakim/mustakim/1496.m3u8
 
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/512px-HBO_Family_Asia_logo.svg.png" group-title="HBO Group FHD",HBo family 
 http://203.77.246.50:5000/udp/239.1.3.76:5000
