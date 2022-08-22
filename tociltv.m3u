@@ -853,7 +853,7 @@ https://otto.my.id/000143-356212-986581/vidionline330/vidio_master.m3u8?channel=
 https://otto.my.id/000143-356212-986581/vidionline330/vidio_master.m3u8?channel=championstv3
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://thumbor.prod.vidiocdn.com/ImgdsL7Wg7GZtinU4PG7Ul0s0Qg=/1660x920/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/9045/champions-tv-goal-cover-e927dc.jpg",CHAMPIONS TV GOAL
-https://otto.my.id/000143-356212-986581/vidio33/master.m3u8?channel=championstvgoal
+https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650327
 
 #EXTINF:-1 tvg-id="Erz.Assp3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/BeIN_Sports.png/512px-BeIN_Sports.png" tvg-name"" group-title="Sports",beIN SPORTS 
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live13.m3u8
@@ -873,9 +873,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf500092
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ImjhA9L.png" group-title="Sports",beIN SPORTS XTRA en Español
 https://linear-256.frequency.stream/256/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_PREMIUM_Digital_Mono.png" group-title="Sports",beIN SPORTS PREMIUM 1
-http://tvn.x10.mx/vidio/master.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -972,6 +969,12 @@ https://insighttv-vizio.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-name="TVRI" tvg-logo="https://i.imgur.com/7hVLCeq.png" group-title="Sports",TVRI SPORT
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/0y6DWtYs/usee-Sport.png",Usee Sports
+http://iptvid.my.id/hmm/useetl1.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.useetv.com/pimages/logo_useesports2_big.png?v=1",Usee Sports 2
+http://iptvid.my.id/hmm/useetl2.m3u8
 
 ##########################
 
