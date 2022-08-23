@@ -874,34 +874,14 @@ http://172.96.160.37:9138/stream/live/c20414.m3u8
 https://linears-playback.astro.com.my/vsgN/41EYOIqwRu3ux82k6lgqo-_XgPCzHjC44Z7RMBJ4zgPts=ZtLk/dash-wv/jitp-linearwm/601/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/601/default_ott.mpd
 
-EXTINF:-1 tvg-id="812" group-title="Sports" tvg-logo="",astro SUPERSPORT 2 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-https://networkbest.ru.com/cdn/premium124/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 2 HD TH MY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png" group-title="Sports",astro SUPERSPORT 2
-http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115616
+http://clientportal.link:80/SvenAkeDK/6KoUBk6610/23452
 
-EXTINF:-1 tvg-id="813" group-title="Sports" tvg-logo="",astro SUPERSPORT 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-https://networkbest.ru.com/cdn/premium125/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 3 HD TH MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="Sports",astro SUPERSPORTS 3
-http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115617
-
-EXTINF:-1 tvg-id="814" group-title="Sports" tvg-logo="",astro SUPERSPORT 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-https://networkbest.ru.com/cdn/premium126/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 3 HD TH MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="Sports",astro SUPERSPORT 3
+http://clientportal.link:80/SvenAkeDK/6KoUBk6610/23451
 
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 4 HD TH MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="Sports",astro SUPERSPORT 4
-http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115618
-
-EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/ebpvrUx.png" group-title="Sports",astro SUPERSPORT 5
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-#EXTVLCOPT:http-user-agent=android-R+
-https://best2.globalweb.ru.com/cdn/premium43/mono.m3u8
+http://clientportal.link:80/SvenAkeDK/6KoUBk6610/33973
 
 #EXTINF:-1 tvg-id="Erz.Assp3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/BeIN_Sports.png/512px-BeIN_Sports.png" tvg-name"" group-title="Sports",beIN SPORTS 
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live13.m3u8
