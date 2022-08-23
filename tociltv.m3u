@@ -1017,23 +1017,16 @@ http://iptvid.my.id/hmm/useetl2.m3u8
 
 
 #EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-name="Sky Sports Premier League" tvg-logo="https://i.imgur.com/wA3DieO.png" group-title="Sports",Sky Sports Premier League
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://srv.vhls.ru.com/cdn/premium130/playlist.m3u8|referer=https://player.licenses4.me/
+http://clientportal.link:80/SvenAkeDK/6KoUBk6610/14742
 
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://rndcdn.dstv.com/dstvcms/2021/08/09/SS_Logo_PremiereLeague_4-3_005_xlrg.png" group-title="Sports",SuperSport Premier League
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-#EXTVLCOPT:http-user-agent=android-R+
-https://best2.globalweb.ru.com/cdn/premium414/mono.m3u8
+http://legendtvs.com:80/anwar123/12345/391206
 
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://rndcdn.dstv.com/dstvcms/2021/08/09/SS_Logo_Football_4-3_005_xlrg.png" group-title="Sports",SuperSport Football
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-#EXTVLCOPT:http-user-agent=android-R+
-https://best2.globalweb.ru.com/cdn/premium56/mono.m3u8
+http://legendtvs.com:80/anwar123/12345/391208
 
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://rndcdn.dstv.com/dstvcms/2021/08/09/SS_Logo_LaLiga_4-3_005_xlrg.png" group-title="Sports",SuperSport La Liga
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-#EXTVLCOPT:http-user-agent=android-R+
-https://best.globalweb.ru.com/cdn/premium415/mono.m3u8
+http://legendtvs.com:80/anwar123/12345/391157
 
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://rndcdn.dstv.com/dstvcms/2020/09/01/SS_Logo_Action_4-3_001_xlrg.png" group-title="Sports",SuperSport Action
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
