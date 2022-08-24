@@ -58,7 +58,7 @@ http://tvn.x10.mx/vidio/master.m3u8
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/EMmOvnQ.png",SCTV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4446503011668def857b1c03bafabba51
 
-#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/EMmOvnQ.png",SCTV 
+EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/EMmOvnQ.png",SCTV 
 https://nonton.site:8443/live/mustakim/mustakim/931.m3u8
 
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2022/08/14/932587078.jpg",moji
@@ -440,7 +440,7 @@ https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/1.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/512px-Nickelodeon_2009_logo.svg.png" group-title="Kids",nickelodeon
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/512px-Nickelodeon_2009_logo.svg.png" group-title="Kids",nickelodeon
 https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=28
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -867,7 +867,7 @@ https://otto.my.id/000143-356212-986581/vidio33269/master.m3u8?channel=champions
 http://tvn.x10.mx/vidio/master-10.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO SUPERSPORTS 1 FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Astro_SuperSport_UHD.png/revision/latest?cb=20220415221642" group-title="Sports",astro SUPERSPORT UHD
-http://server.sibfungold.info:8080/Audi27092018_ertfg/Porsche2018_2609hfgt/52859
+http://ky-iptv.com:80/robertd/robertd/1391035.ts
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=6d2d84310d3fb9230404a1fbf5b33d10&key=8be93a0a6b41efad87096080bc55211a
