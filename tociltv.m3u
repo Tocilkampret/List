@@ -855,16 +855,16 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/EaRVaEX.png",CHAMPIONS TV 1
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650324
+https://otto.my.id/000143-356212-986581/vidionline33069/vidio_master.m3u8?channel=championstv1
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/IgGVlgI.png",CHAMPIONS TV 2 
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650325
+https://otto.my.id/000143-356212-986581/vidionline33069/vidio_master.m3u8?channel=championstv2
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/1MBBBBN.png",CHAMPIONS TV 3
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650326
+https://otto.my.id/000143-356212-986581/vidionline33069/vidio_master.m3u8?channel=championstv3
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://thumbor.prod.vidiocdn.com/ImgdsL7Wg7GZtinU4PG7Ul0s0Qg=/1660x920/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/9045/champions-tv-goal-cover-e927dc.jpg",CHAMPIONS TV GOAL
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650327
+https://otto.my.id/000143-356212-986581/vidionline33069/vidio_master.m3u8?channel=championstvgoal
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=6d2d84310d3fb9230404a1fbf5b33d10&key=8be93a0a6b41efad87096080bc55211a
