@@ -56,9 +56,10 @@ http://kunyak.my.id/underground-iptv-team/indosiar.m3u8
 http://tvn.x10.mx/vidio/master.m3u8
 
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/EMmOvnQ.png",SCTV
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4446503011668def857b1c03bafabba51
+#http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4446503011668def857b1c03bafabba51
+http://tvlive.my.id:25461/mat/mat/13
 
-EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/EMmOvnQ.png",SCTV 
+#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/EMmOvnQ.png",SCTV 
 https://nonton.site:8443/live/mustakim/mustakim/931.m3u8
 
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2022/08/14/932587078.jpg",moji
