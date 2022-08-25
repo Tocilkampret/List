@@ -1057,13 +1057,13 @@ https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 
 #EXTINF:-1 tvg-id="SporTV" tvg-name="SporTV" tvg-logo="https://i.imgur.com/iweh0Li.png" group-title="Sports",SporTV
-http://acsa.ws:80/Jr123/Jr321/131188.ts
+http://acsa.ws:80/Jr123/Jr321/72329.ts
 
 #EXTINF:-1 tvg-id="SporTV 2" tvg-name="SporTV 2" tvg-logo="https://i.imgur.com/AAdoNsr.png" group-title="Sports",SporTV 2
-http://acsa.ws:80/Jr123/Jr321/103472.ts
+http://acsa.ws:80/Jr123/Jr321/72321.ts
 
 #EXTINF:-1 tvg-id="SporTV 3" tvg-name="SporTV 3" tvg-logo="https://i.imgur.com/RcpUcYG.png" group-title="Sports",SporTV 3
-http://acsa.ws:80/Jr123/Jr321/72326.ts
+http://acsa.ws:80/Jr123/Jr321/72325.ts
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/iKZvKyP.png",MATCH!
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
