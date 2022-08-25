@@ -856,13 +856,13 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/EaRVaEX.png",CHAMPIONS TV 1
-https://otto.my.id/000143-356212-986581/vidio33269/master.m3u8?channel=championstv1
+http://tv.zonanime.my.id/vidio/championstv1.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/IgGVlgI.png",CHAMPIONS TV 2 
-https://otto.my.id/000143-356212-986581/vidio33269/master.m3u8?channel=championstv2
+http://tv.zonanime.my.id/vidio/championstv2.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/1MBBBBN.png",CHAMPIONS TV 3
-https://otto.my.id/000143-356212-986581/vidio33269/master.m3u8?channel=championstv3
+http://tv.zonanime.my.id/vidio/championstv3.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://thumbor.prod.vidiocdn.com/ImgdsL7Wg7GZtinU4PG7Ul0s0Qg=/1660x920/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/9045/champions-tv-goal-cover-e927dc.jpg",CHAMPIONS TV GOAL
 http://tvn.x10.mx/vidio/master-10.m3u8
@@ -887,8 +887,11 @@ http://ky-iptv.com:80/robertd/robertd/1391037.ts
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="Sports",astro SUPERSPORT 4
 http://ky-iptv.com:80/robertd/robertd/1391038.ts
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/5/55/BeIN_SPORTS_4K_Logo.jpg",beIN SPORTS 4K
+EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/5/55/BeIN_SPORTS_4K_Logo.jpg",beIN SPORTS 4K
 http://ch.riff.id@client-iptvmag.club:8080/per-paulen/qcbDQtgQUx/19170?
+
+#EXTINF:-1 tvg-logo="https://truevisions.co.th/static/07c607f1-f827-4ecc-8e85-fee084bc6821.png" group-title="Sports",beIN SPORTS 1
+http://4digital.ddns.net:11222/ts/0
 
 #EXTINF:-1 tvg-id="Erz.Assp3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/BeIN_Sports.png/512px-BeIN_Sports.png" tvg-name"" group-title="Sports",beIN SPORTS 
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live13.m3u8
@@ -1084,6 +1087,15 @@ http://95.183.43.237:8080/259/index.m3u8
 #EXTINF:-1 tvg-id="Маtch Futbol 3" tvg-name="Маtch Futbol 3" tvg-logo="https://i.imgur.com/H9o21TM.png" group-title="Sports",Маtch Futbol 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://95.183.43.237:8080/260/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.img09.xyz/assets/img/ch_logo/doomovie-epl1.png" group-title="Sports",true PREMIER FOOTBALL HD1
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/191791
+
+#EXTINF:-1 tvg-logo="https://www.img09.xyz/assets/img/ch_logo/doomovie-epl2.png" group-title="Sports",true PREMIER FOOTBALL HD2
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/191788
+
+#EXTINF:-1 tvg-logo="https://www.img09.xyz/assets/img/ch_logo/doomovie-epl3.png" group-title="Sports",rue PREMIER FOOTBALL HD3
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/191784
 
 
 
