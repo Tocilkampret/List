@@ -969,15 +969,15 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
-#EXTINF:-1 tvg-logo="https://i.imgur.com/R2dMhYE.png" group-title="Sports",SONY TEN 1
+EXTINF:-1 tvg-logo="https://i.imgur.com/R2dMhYE.png" group-title="Sports",SONY TEN 1
 https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten1_hd.smil/manifest.mpd
 
-#EXINF:-1 tvg-logo="https://i.imgur.com/R2dMhYE.png" group-title="Sports",SONY TEN 1 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R2dMhYE.png" group-title="Sports",SONY TEN 1
 https://m3u-editor.com/serve/048feb20-21c5-11ed-80f4-4df2cd90d9ff/621652143
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LwGRMzj.png" group-title="Sports",SONY TEN 2
+EXTINF:-1 tvg-logo="https://i.imgur.com/LwGRMzj.png" group-title="Sports",SONY TEN 2
 https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten2_hd.smil/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LwGRMzj.png" group-title="Sports",SONY TEN 2
