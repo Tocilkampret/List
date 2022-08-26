@@ -690,13 +690,13 @@ https://fashiontv-fashiontv-2-es.samsung.wurl.com/manifest/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CGzC3fK.png" group-title="Entertainment & Lifestyle",Fashion TV L'Original
-https://fash2043.cloudycdn.services/slive/ftv_ftv_asia_ada_xiv_42149_default_137_hls.smil/playlist.m3u8
+http://fashs043.cloudycdn.services/scte/sftv_adapt/sftv_1080p_chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CGzC3fK.png" group-title="Entertainment & Lifestyle",Fashion TV Asia
 https://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lMSp60D.png" group-title="Entertainment & Lifestyle",Fashion TV Midnite Secret
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7ZQRdle.png" group-title="Entertainment & Lifestyle",A3 Bikini Network
 https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
