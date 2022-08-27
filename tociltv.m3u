@@ -934,6 +934,9 @@ https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-w
 #EXTINF: -1 tvg-logo="https://i.imgur.com/hWdxcRX.png" group-title="Sports",LFCTV
 https://m3u-editor.com/serve/048feb20-21c5-11ed-80f4-4df2cd90d9ff/621652198
 
+#EXTINF:-1 xui-id="77943" tvg-id="BARCATV" tvg-name="|ES| BARCA TV FHD" tvg-logo="https://i.imgur.com/E2VDORP.png" group-title="Sports",BARCA TV
+http://protocol.solanaflix.com:8080/play/ELc-0FLpyYjhLyNiQx-UIMvoPwLYKUlAU9XtliINfQmB_l1SguDWi_rKDw_LdBdh
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 EXTINF:-1 group-title="Sports" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/media-upload/1634257286_thumb-spotv.png",SPOTV
@@ -976,18 +979,24 @@ EXTINF:-1 tvg-logo="https://i.imgur.com/R2dMhYE.png" group-title="Sports",SONY T
 https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten1_hd.smil/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R2dMhYE.png" group-title="Sports",SONY TEN 1
-https://m3u-editor.com/serve/048feb20-21c5-11ed-80f4-4df2cd90d9ff/621652143
+#https://m3u-editor.com/serve/048feb20-21c5-11ed-80f4-4df2cd90d9ff/621652143
+http://103.179.246.243:8000/play/a00e
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
 EXTINF:-1 tvg-logo="https://i.imgur.com/LwGRMzj.png" group-title="Sports",SONY TEN 2
 https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten2_hd.smil/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mmX4kPb.png" group-title="Sports",SONY SIX
+http://103.179.246.243:8000/play/a00f
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LwGRMzj.png" group-title="Sports",SONY TEN 2
-https://m3u-editor.com/serve/048feb20-21c5-11ed-80f4-4df2cd90d9ff/621652144
+#https://m3u-editor.com/serve/048feb20-21c5-11ed-80f4-4df2cd90d9ff/621652144
+http://103.179.246.243:8000/play/a01a
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z0f2olV.png" group-title="Sports",SONY TEN 3
-https://m3u-editor.com/serve/048feb20-21c5-11ed-80f4-4df2cd90d9ff/621652145
+#https://m3u-editor.com/serve/048feb20-21c5-11ed-80f4-4df2cd90d9ff/621652145
+http://103.179.246.243:8000/play/a00k
 
 #EXTINF:-1 tvg-ID="" tvg-name="SUKAN RTM" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/Sukan_RTM_1_April.png/revision/latest/scale-to-width-down/300?cb=20210408125347" group-title="Sports",SUKAN RTM  
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b4596000_slENG.m3u8
@@ -1043,11 +1052,14 @@ http://legendtvs.com:80/anwar123/12345/391157
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://rndcdn.dstv.com/dstvcms/2020/09/01/SS_Logo_Action_4-3_001_xlrg.png" group-title="Sports",SuperSport Action
 http://server.sibfungold.info:8080/Audi27092018_ertfg/Porsche2018_2609hfgt/52300
 
-#EXTINF:-1 tvg-id="Eurosport1" tvg-name="Eurosport1" tvg-logo="https://i.imgur.com/qzebaLa.png" group-title="Sports",EUROSPORT 1
-http://jadetv.de:80/eagleiptv/SsFAljPDDi/159591
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Eurosport_hd_%282011-2015%29.png" group-title="Sports",EuroSports HD
+http://103.179.246.243:8000/play/a00r
 
-#EXTINF:-1 tvg-id="Eurosport2" tvg-name="Eurosport2" tvg-logo="https://i.imgur.com/qzebaLa.png" group-title="Sports",EUROSPORT 2
-http://jadetv.de:80/eagleiptv/SsFAljPDDi/159590
+#EXTINF:-1 tvg-id="Eurosport1" tvg-name="Eurosport1" tvg-logo="https://i.imgur.com/qzebaLa.png" group-title="Sports",EUROSPORT 1
+http://main-url.glass-iptv.xyz:39512/live/Almir@BIBERKIC/dusqcMAX52rM/338.ts
+
+#EXTINF:-1 tvg-id="Eurosport2" tvg-name="Eurosport2" tvg-logo="https://i.imgur.com/0xpN9B6.png" group-title="Sports",EUROSPORT 2
+http://main-url.glass-iptv.xyz:39512/live/Almir@BIBERKIC/dusqcMAX52rM/344.ts
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/512px-NBA_TV.svg.png" group-title="Sports",NBA TV
 https://m3u-editor.com/serve/048feb20-21c5-11ed-80f4-4df2cd90d9ff/621652175
