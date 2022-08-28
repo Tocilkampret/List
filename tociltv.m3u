@@ -146,11 +146,11 @@ https://cdn3.wowza.com/1/NEtzTTZ4c1FTTUN2/SkJBbVJs/hls/live/playlist.m3u8
 EXTINF:-1 group-title="HBO Group FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",CINEMAX
 https://nonton.site:8443/live/mustakim/mustakim/30185.m3u8
 
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="HBO Group FHD",HBO 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="HBO Group FHD",HBO 
 #https://nonton.site:8443/live/mustakim/mustakim/1496.m3u8
 http://203.77.246.50:5000/udp/239.1.3.84:5000
 
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/512px-HBO_Family_Asia_logo.svg.png" group-title="HBO Group FHD",HBO family 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/512px-HBO_Family_Asia_logo.svg.png" group-title="HBO Group FHD",HBO family 
 #https://nonton.site:8443/live/mustakim/mustakim/11492.m3u8
 http://203.77.246.50:5000/udp/239.1.3.76:5000
 
@@ -846,7 +846,7 @@ http://tv.zonanime.my.id/vidio/championstv3.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/AcBSHlM.png",CHAMPIONS TV GOAL
 http://tvn.x10.mx/vidio/master-10.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO SUPERSPORTS 1 FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Astro_SuperSport_UHD.png/revision/latest?cb=20220415221642" group-title="Sports",astro SUPERSPORT UHD
+EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO SUPERSPORTS 1 FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Astro_SuperSport_UHD.png/revision/latest?cb=20220415221642" group-title="Sports",astro SUPERSPORT UHD
 http://ky-iptv.com:80/robertd/robertd/1391035.ts
 #https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621652633
 
