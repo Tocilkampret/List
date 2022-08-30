@@ -402,7 +402,7 @@ https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/1.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/512px-Nickelodeon_2009_logo.svg.png" group-title="Kids",nickelodeon
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/512px-Nickelodeon_2009_logo.svg.png" group-title="Kids",nickelodeon
 http://pprotv.com:80/97887222/97887222/39462
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -418,7 +418,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c
 #EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/512px-Boomerang_2014_logo.svg.png",BOOMERANG
 https://liveanevia.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/DreamWorks_Channel_Logo.svg/512px-DreamWorks_Channel_Logo.svg.png" group-title="Kids",DREAMWORKS
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/DreamWorks_Channel_Logo.svg/512px-DreamWorks_Channel_Logo.svg.png" group-title="Kids",DREAMWORKS
 http://pprotv.com:80/97887222/97887222/39460
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1043,10 +1043,10 @@ http://server.sibfungold.info:8080/Audi27092018_ertfg/Porsche2018_2609hfgt/52300
 http://103.179.246.243:8000/play/a00r
 
 #EXTINF:-1 tvg-id="Eurosport1" tvg-name="Eurosport1" tvg-logo="https://i.imgur.com/z3fQ87X.png" group-title="Sports",EUROSPORT 1
-http://main-url.glass-iptv.xyz:39512/live/Almir@BIBERKIC/dusqcMAX52rM/338.ts
+http://test.extraott-iptv.com:88/2630211552/3287801764/633
 
 #EXTINF:-1 tvg-id="Eurosport2" tvg-name="Eurosport2" tvg-logo="https://i.imgur.com/0xpN9B6.png" group-title="Sports",EUROSPORT 2
-http://main-url.glass-iptv.xyz:39512/live/Almir@BIBERKIC/dusqcMAX52rM/344.ts
+http://test.extraott-iptv.com:88/2630211552/3287801764/634
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/512px-NBA_TV.svg.png" group-title="Sports",NBA TV
 https://m3u-editor.com/serve/048feb20-21c5-11ed-80f4-4df2cd90d9ff/621652175
