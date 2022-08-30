@@ -403,8 +403,7 @@ https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/1.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/512px-Nickelodeon_2009_logo.svg.png" group-title="Kids",nickelodeon
-https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=28
-#http://pprotv.com:80/97887222/97887222/39462
+http://pprotv.com:80/97887222/97887222/39462
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -420,8 +419,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c
 https://liveanevia.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/DreamWorks_Channel_Logo.svg/512px-DreamWorks_Channel_Logo.svg.png" group-title="Kids",DREAMWORKS
-https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=23
-#http://pprotv.com:80/97887222/97887222/39460
+http://pprotv.com:80/97887222/97887222/39460
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -876,13 +874,13 @@ https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650889
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="Sports",astro SUPERSPORT 4
 #http://ky-iptv.com:80/robertd/robertd/1391038.ts
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650890
-#https://nonton.site:8443/mustakim/mustakim/46416
+#https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650890
+https://nonton.site:8443/mustakim/mustakim/46416
 
 #EXTINF:-1 tvg-id="NBT2.th" tvg-logo="https://i.imgur.com/ebpvrUx.png" group-title="Sports",astro SUPERSPORT 5
 #http://n2086.securepoint.io:25461/bGHneAydPw/HIYbObxdD1/197518
-#http://ky-iptv.com:80/robertd/robertd/1391039.ts
-https://nonton.site:8443/mustakim/mustakim/46417
+http://ky-iptv.com:80/robertd/robertd/1391039.ts
+
 
 EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/5/55/BeIN_SPORTS_4K_Logo.jpg",beIN SPORTS 4K
 http://ch.riff.id@client-iptvmag.club:8080/per-paulen/qcbDQtgQUx/19170?
