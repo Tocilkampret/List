@@ -914,7 +914,7 @@ https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/hWdxcRX.png" group-title="Sports",LFCTV
-https://m3u-editor.com/serve/048feb20-21c5-11ed-80f4-4df2cd90d9ff/621652198
+#https://m3u-editor.com/serve/048feb20-21c5-11ed-80f4-4df2cd90d9ff/621652198
 
 #EXTINF:-1 xui-id="77943" tvg-id="BARCATV" tvg-name="|ES| BARCA TV FHD" tvg-logo="https://i.imgur.com/E2VDORP.png" group-title="Sports",BARCA TV
 http://protocol.solanaflix.com:8080/play/ELc-0FLpyYjhLyNiQx-UIMvoPwLYKUlAU9XtliINfQmB_l1SguDWi_rKDw_LdBdh
@@ -1042,7 +1042,7 @@ http://server.sibfungold.info:8080/Audi27092018_ertfg/Porsche2018_2609hfgt/52300
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Eurosport_hd_%282011-2015%29.png" group-title="Sports",EuroSports HD
 http://103.179.246.243:8000/play/a00r
 
-#EXTINF:-1 tvg-id="Eurosport1" tvg-name="Eurosport1" tvg-logo="https://i.imgur.com/qzebaLa.png" group-title="Sports",EUROSPORT 1
+#EXTINF:-1 tvg-id="Eurosport1" tvg-name="Eurosport1" tvg-logo="https://i.imgur.com/z3fQ87X.png" group-title="Sports",EUROSPORT 1
 http://main-url.glass-iptv.xyz:39512/live/Almir@BIBERKIC/dusqcMAX52rM/338.ts
 
 #EXTINF:-1 tvg-id="Eurosport2" tvg-name="Eurosport2" tvg-logo="https://i.imgur.com/0xpN9B6.png" group-title="Sports",EUROSPORT 2
@@ -1092,13 +1092,15 @@ http://95.183.43.237:8080/259/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://95.183.43.237:8080/260/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.img09.xyz/assets/img/ch_logo/doomovie-epl1.png" group-title="Sports",true PREMIER FOOTBALL HD1
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/191791
+#EXTINF:-1 tvg-logo="https://www.img09.xyz/assets/img/ch_logo/doomovie-epl1.png" group-title="Sports",true PREMIER FOOTBALL 1
+#http://mag.d60.co:2082/buzz_268444/MDmaKynE/191791
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/162591
 
-#EXTINF:-1 tvg-logo="https://www.img09.xyz/assets/img/ch_logo/doomovie-epl2.png" group-title="Sports",true PREMIER FOOTBALL HD2
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/191788
+#EXTINF:-1 tvg-logo="https://www.img09.xyz/assets/img/ch_logo/doomovie-epl2.png" group-title="Sports",true PREMIER FOOTBALL 2
+#http://mag.d60.co:2082/buzz_268444/MDmaKynE/191788
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/162592
 
-#EXTINF:-1 tvg-logo="https://www.img09.xyz/assets/img/ch_logo/doomovie-epl3.png" group-title="Sports",true PREMIER FOOTBALL HD3
+#EXTINF:-1 tvg-logo="https://www.img09.xyz/assets/img/ch_logo/doomovie-epl3.png" group-title="Sports",true PREMIER FOOTBALL 3
 http://mag.d60.co:2082/buzz_268444/MDmaKynE/191784
 
 
