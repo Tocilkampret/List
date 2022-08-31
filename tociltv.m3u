@@ -1042,6 +1042,15 @@ http://legendtvs.com:80/anwar123/12345/391157
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://rndcdn.dstv.com/dstvcms/2020/09/01/SS_Logo_Action_4-3_001_xlrg.png" group-title="Sports",SuperSport Action
 http://server.sibfungold.info:8080/Audi27092018_ertfg/Porsche2018_2609hfgt/52300
 
+#EXTINF:-1 tvg-ID="" tvg-name="UK_BT_Sport_1_HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bt-sport-1-uk.png" group-title="Sports",BT SPORT 1
+http://server.sibfungold.info:8080/Audi27092018_ertfg/Porsche2018_2609hfgt/52241
+
+#EXTINF:-1 tvg-ID="" tvg-name="UK_BT_Sport_2_HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bt-sport-2-uk.png" group-title="Sporta",BT SPORT 2
+http://server.sibfungold.info:8080/Audi27092018_ertfg/Porsche2018_2609hfgt/52240
+
+#EXTINF:-1 tvg-ID="" tvg-name="UK_BT_Sport_3_HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bt-sport-3-uk.png" group-title="Sports",BT SPORT 3
+http://server.sibfungold.info:8080/Audi27092018_ertfg/Porsche2018_2609hfgt/52239
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Eurosport_hd_%282011-2015%29.png" group-title="Sports",EuroSports HD
 http://103.179.246.243:8000/play/a00r
 
@@ -1052,7 +1061,7 @@ http://test.extraott-iptv.com:88/2630211552/3287801764/633
 http://test.extraott-iptv.com:88/2630211552/3287801764/634
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/512px-NBA_TV.svg.png" group-title="Sports",NBA TV
-https://m3u-editor.com/serve/048feb20-21c5-11ed-80f4-4df2cd90d9ff/621652175
+http://toxic-panel.com:8080/ZoranCro/Restream2001_2021/227159
 
 #EXTINF:-1 tvg-id="EDGEsport.th" tvg-name="EDGEsport Channel" tvg-logo="https://i.imgur.com/zRugmb9.png" group-title="Sports",EDGE SPORT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
