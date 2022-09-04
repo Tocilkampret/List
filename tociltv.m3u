@@ -1035,12 +1035,14 @@ http://iptvid.my.id/hmm/useetl2.m3u8
 
 
 #EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-name="Sky Sports Premier League" tvg-logo="https://i.imgur.com/wA3DieO.png" group-title="Sports",sky sports premier league
-#http://jadetv.de:80/eagleiptv/SsFAljPDDi/95009
-https://m3u-editor.com/serve/048feb20-21c5-11ed-80f4-4df2cd90d9ff/621652095
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/95009
+#https://m3u-editor.com/serve/048feb20-21c5-11ed-80f4-4df2cd90d9ff/621652095
+#http://ky-iptv.com:80/robertd/robertd/1821337.ts
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rsT6Cu2.png" group-title="Sports",sky sports football
-#https://m3u-editor.com/serve/048feb20-21c5-11ed-80f4-4df2cd90d9ff/621652190
-https://m3u-editor.com/serve/048feb20-21c5-11ed-80f4-4df2cd90d9ff/621652098
+https://m3u-editor.com/serve/048feb20-21c5-11ed-80f4-4df2cd90d9ff/621652190
+#https://m3u-editor.com/serve/048feb20-21c5-11ed-80f4-4df2cd90d9ff/621652098
+#http://ky-iptv.com:80/robertd/robertd/1846775.ts
 
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://rndcdn.dstv.com/dstvcms/2021/08/09/SS_Logo_PremiereLeague_4-3_005_xlrg.png" group-title="Sports",SuperSport Premier League
 http://5gfksa.ltd:2052/991155/551199/174608
