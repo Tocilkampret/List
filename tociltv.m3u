@@ -567,9 +567,9 @@ https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650451
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbSvWbvP5aGJAq2bfRqWULVUtK9s0bOSvT4r8ttIc&s" group-title="Movies",FLIK 
-https://nonton.site:8443/live/mustakim/mustakim/29592
+https://nonton.site:8443/mustakim/mustakim/29592
 #http://iptvid.my.id/hmm/flik.m3u8
-$http://pprotv.com:80/97887222/97887222/39508
+#http://pprotv.com:80/97887222/97887222/39508
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -860,16 +860,16 @@ https://otto.my.id/000143-356212-936581/vidio33269/master.m3u8?channel=champions
 #http://tvn.x10.mx/live/master-10.m3u8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/71_144.png" group-title="Sports",astro SUPERSPORT
-#http://ky-iptv.com:80/robertd/robertd/1391035.ts
+http://ky-iptv.com:80/robertd/robertd/1391035.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png" group-title="Sports",astro SUPERSPORT 2
-#http://ky-iptv.com:80/robertd/robertd/1391036.ts
+http://ky-iptv.com:80/robertd/robertd/1391036.ts
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="Sports",astro SUPERSPORT 3
-#http://ky-iptv.com:80/robertd/robertd/1391037.ts
+http://ky-iptv.com:80/robertd/robertd/1391037.ts
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="Sports",astro SUPERSPORT 4
-#http://ky-iptv.com:80/robertd/robertd/1391038.ts
+http://ky-iptv.com:80/robertd/robertd/1391038.ts
 
 #EXTINF:-1 tvg-id="Erz.Assp3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/BeIN_Sports.png/512px-BeIN_Sports.png" tvg-name"" group-title="Sports",beIN SPORTS 
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live13.m3u8
