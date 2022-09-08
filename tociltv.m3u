@@ -965,7 +965,7 @@ https://liveanevia.mncnow.id:443/live/eds/FightSports/sa_dash_vmx/FightSports.mp
 #EXTINF:-1 tvg-ID="" tvg-name="UK_BoxNation_FHD" tvg-logo="https://i.imgur.com/XCIBf7u.png" group-title="Sports",BOX NATION
 http://ky-iptv.com:80/robertd/robertd/189910.ts
 
-#EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/605e13c8d9eb3e1df47db303" group-title="Sports",IMPACT! Wrestling
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/59b722526996084038c01e1b/colorLogoPNG.png" group-title="Sports",IMPACT! Wrestling
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VvfnNP7v/Unifi-TV-Logo.png" group-title="Sports",Unifi Sports 1
@@ -1117,9 +1117,9 @@ http://quality-restream.com:8080/single-ed8969/6554d47b5f/162591
 #http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115758
 
 #EXTINF:-1 tvg-logo="https://www.img09.xyz/assets/img/ch_logo/doomovie-epl2.png" group-title="Sports",true PREMIER FOOTBALL 2
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/162592
+#http://quality-restream.com:8080/single-ed8969/6554d47b5f/162592
 #http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/115516.m3u8
-#http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115762
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115762
 
 #EXTINF:-1 tvg-logo="https://www.img09.xyz/assets/img/ch_logo/doomovie-epl3.png" group-title="Sports",true PREMIER FOOTBALL 3
 http://mag.d60.co:2082/buzz_268444/MDmaKynE/191784
