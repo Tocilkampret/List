@@ -857,16 +857,20 @@ http://stream.semerutv.link:7780/freebies/EOti98qsWH/48
 #http://tvn.x10.mx/live/master-10.m3u8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/71_144.png" group-title="Sports",astro SUPERSPORT
-http://ky-iptv.com:80/robertd/robertd/1391035.ts
+#http://ky-iptv.com:80/robertd/robertd/1391035.ts
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115615
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png" group-title="Sports",astro SUPERSPORT 2
-http://ky-iptv.com:80/robertd/robertd/1391036.ts
+#http://ky-iptv.com:80/robertd/robertd/1391036.ts
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115616
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="Sports",astro SUPERSPORT 3
-http://ky-iptv.com:80/robertd/robertd/1391037.ts
+#http://ky-iptv.com:80/robertd/robertd/1391037.ts
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115617
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="Sports",astro SUPERSPORT 4
-http://ky-iptv.com:80/robertd/robertd/1391038.ts
+#http://ky-iptv.com:80/robertd/robertd/1391038.ts
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115618
 
 #EXTINF:-1 tvg-id="Erz.Assp3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/BeIN_Sports.png/512px-BeIN_Sports.png" tvg-name"" group-title="Sports",beIN SPORTS 
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live13.m3u8
@@ -888,27 +892,24 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf500092
 https://linear-256.frequency.stream/256/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="beINSportsEnglish1.qa" tvg-logo="https://i.imgur.com/fA1VMU6.png" group-title="Sports",beIN SPORTS English 1
-http://31.172.87.52:2200//EX/bein11sd-ar/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|user-agent=REDLINECLIENT
+http://channels227070.clientportal.link:80/peYWNNRdGm813/Pkwdu7284/15000
 
 #EXTINF:-1 tvg-id="beINSportsEnglish2.qa" tvg-logo="https://i.imgur.com/CuTvIIo.png" group-title="Sports",beIN SPORTS English 2
-http://31.172.87.52:2200//EX/bein12sd-ar/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|User-agent=REDLINECLIENT
+http://channels227070.clientportal.link:80/peYWNNRdGm813/Pkwdu7284/15001
 
 #EXTINF:-1 tvg-id="beINSportsEnglish3.qa" tvg-logo="https://i.imgur.com/qUfw7db.png" group-title="Sports",beIN SPORTS English 3
-http://31.172.87.52:2200//EX/bein13sd-ar/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|User-agent=REDLINECLIENT
+http://channels227070.clientportal.link:80/peYWNNRdGm813/Pkwdu7284/21517
 
 #EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_01_PREMIUM_HD" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_PREMIUM_Digital_Mono.png" group-title="Sports",beIN SPORTS PREMIUM 1
 #http://kuchini.site:8080/livetvchannel2021/fe326fcc/109
-#http://31.172.87.52:2200//EX/bein8sd-ar/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|user-agent=REDLINECLIENT
 http://channels227070.clientportal.link:80/peYWNNRdGm813/Pkwdu7284/91334
 
 #EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_02_PREMIUM_HD" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_PREMIUM_Digital_Mono.png" group-title="Sports",beIN SPORTS PREMIUM 2
 #http://kuchini.site:8080/livetvchannel2021/fe326fcc/280145
-#http://31.172.87.52:2200//EX/bein9sd-ar/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|user-agent=REDLINECLIENT
 http://channels227070.clientportal.link:80/peYWNNRdGm813/Pkwdu7284/91336
 
 #EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_03_PREMIUM_HD" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_PREMIUM_Digital_Mono.png" group-title="Sports",beIN SPORTS PREMIUM 3
 #http://kuchini.site:8080/livetvchannel2021/fe326fcc/280249
-#http://31.172.87.52:2200//EX/bein10sd-ar/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|user-agent=REDLINECLIENT
 http://channels227070.clientportal.link:80/peYWNNRdGm813/Pkwdu7284/91338
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
