@@ -44,8 +44,8 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png" group-title="TV Nasional",INDOSIAR
 http://kunyak.my.id/underground-iptv-team/indosiar.m3u8
 
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png" group-title="TV Nasional",INDOSIAR
-http://tvn.x10.mx/vidio/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png" group-title="TV Nasional",INDOSIAR FHD
+http://tvn.x10.mx/live/master.m3u8
 
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/EMmOvnQ.png",SCTV
 #https://nonton.site:8443/live/mustakim/mustakim/931.m3u8
@@ -144,28 +144,28 @@ https://cdn3.wowza.com/1/NEtzTTZ4c1FTTUN2/SkJBbVJs/hls/live/playlist.m3u8
 
 
 #EXTINF:-1 group-title="HBO Group FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",CINEMAX
-#https://nonton.site:8443/live/mustakim/mustakim/30185.m3u8
+https://nonton.site:8443/mustakim/mustakim/30185
 #http://103.105.213.251:8443/live/RX5KlkfmIvgPs3YnbTPDcw/1661926854/16.m3u8
-https://otto.my.id/000143-356212-936581/LIV3ZE/eds/fuck_you_asshole_maling_playlist/mnc-cinemax2.m3u8
+#https://otto.my.id/000143-356212-936581/LIV3ZE/eds/fuck_you_asshole_maling_playlist/mnc-cinemax2.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="HBO Group FHD",HBO 
-#https://nonton.site:8443/live/mustakim/mustakim/1496.m3u8
+https://nonton.site:8443/mustakim/mustakim/1496
 #http://203.77.246.50:5000/udp/239.1.3.84:5000
-https://otto.my.id/000143-356212-936581/LIV3ZE/eds/fuck_you_asshole_maling_playlist/mnc-hbo.m3u8
+#https://otto.my.id/000143-356212-936581/LIV3ZE/eds/fuck_you_asshole_maling_playlist/mnc-hbo.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/512px-HBO_Family_Asia_logo.svg.png" group-title="HBO Group FHD",HBO family 
-#https://nonton.site:8443/live/mustakim/mustakim/11492.m3u8
+https://nonton.site:8443/mustakim/mustakim/11492
 #http://203.77.246.50:5000/udp/239.1.3.76:5000
-https://otto.my.id/000143-356212-936581/LIV3ZE/eds/fuck_you_asshole_maling_playlist/mnc-hbofamily2.m3u8
+#https://otto.my.id/000143-356212-936581/LIV3ZE/eds/fuck_you_asshole_maling_playlist/mnc-hbofamily2.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="HBO Group FHD",HBO Hits 
-#http://203.77.246.50:5000/udp/239.1.3.82:5000
-https://otto.my.id/000143-356212-936581/LIV3ZE/eds/fuck_you_asshole_maling_playlist/mnc-hbohits2.m3u8
+http://203.77.246.50:5000/udp/239.1.3.82:5000
+#https://otto.my.id/000143-356212-936581/LIV3ZE/eds/fuck_you_asshole_maling_playlist/mnc-hbohits2.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/HBO_Signature_Asia.png/512px-HBO_Signature_Asia.png" group-title="HBO Group FHD",HBO Signature 
-#https://nonton.site:8443/live/mustakim/mustakim/1498.m3u8
+https://nonton.site:8443/mustakim/mustakim/1498
 #http://203.77.246.50:5000/udp/239.1.3.74:5000
-https://otto.my.id/000143-356212-936581/LIV3ZE/eds/fuck_you_asshole_maling_playlist/mnc-hbosignature2.m3u8
+#https://otto.my.id/000143-356212-936581/LIV3ZE/eds/fuck_you_asshole_maling_playlist/mnc-hbosignature2.m3u8
 
 
 °°° HBO Group HD °°°
