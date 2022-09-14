@@ -35,11 +35,11 @@ http://203.77.246.50:5000/udp/239.1.3.78:5000
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/512px-Antv_logo.svg.png" group-title="TV Nasional",antv
 https://liveanevia.mncnow.id:443/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
-EXTINF:-1 tvg-id=""ANTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/512px-Antv_logo.svg.png" group-title="TV Nasional",antv
+#EXTINF:-1 tvg-id=""ANTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/512px-Antv_logo.svg.png" group-title="TV Nasional",antv
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=72da7fd6d1302c0a159f6436d01e9eb0446503011668def857b1c03bafabba51
 
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/512px-Antv_logo.svg.png",antv
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/31
+#https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/31
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png" group-title="TV Nasional",INDOSIAR
 #http://kunyak.my.id/underground-iptv-team/indosiar.m3u8
@@ -50,8 +50,8 @@ http://103.226.232.199:8008/play/a083/index.m3u8
 https://lnk.ec/shareext@indosiarHD.m3u8
 
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.ibb.co/5hYVmZj/SCTV.png",SCTV
-#http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4446503011668def857b1c03bafabba51
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/931
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4446503011668def857b1c03bafabba51
+#https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/931
 
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/EMmOvnQ.png",SCTV FHD
 #http://tvlive.my.id:25461/mat/mat/13
@@ -75,8 +75,8 @@ http://203.77.246.50:5000/udp/239.1.1.100:5000
 http://210.210.155.35/uq2663/h/h11/index.m3u8
 
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/fAbGImS.png",TRANS7 FHD
-#http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=3416a75f4cea9109507cacd8e2f2aefc268ef7e5a44f541a7cbde7626ef57566
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/930
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=3416a75f4cea9109507cacd8e2f2aefc268ef7e5a44f541a7cbde7626ef57566
+#https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/930
 
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/Al8T2MD.png",tvOne
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=6e0721b2c6977135b916ef286bcb49ec446503011668def857b1c03bafabba51
@@ -157,28 +157,28 @@ https://cdn3.wowza.com/1/NEtzTTZ4c1FTTUN2/SkJBbVJs/hls/live/playlist.m3u8
 
 
 #EXTINF:-1 group-title="HBO Group FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",CINEMAX
-#https://nonton.site:8443/mustakim/mustakim/30185
+https://nonton.site:8443/mustakim/mustakim/30185
 #http://103.105.213.251:8443/live/RX5KlkfmIvgPs3YnbTPDcw/1661926854/16.m3u8
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/30185
+#https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/30185
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="HBO Group FHD",HBO 
-#https://nonton.site:8443/mustakim/mustakim/1496
+https://nonton.site:8443/mustakim/mustakim/1496
 #http://203.77.246.50:5000/udp/239.1.3.84:5000
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/1496
+#https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/1496
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/512px-HBO_Family_Asia_logo.svg.png" group-title="HBO Group FHD",HBO family 
-#https://nonton.site:8443/mustakim/mustakim/11492
+https://nonton.site:8443/mustakim/mustakim/11492
 #http://203.77.246.50:5000/udp/239.1.3.76:5000
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/30184
+#https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/30184
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="HBO Group FHD",HBO Hits 
 http://203.77.246.50:5000/udp/239.1.3.82:5000
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/HBO_Signature_Asia.png/512px-HBO_Signature_Asia.png" group-title="HBO Group FHD",HBO Signature 
-#https://nonton.site:8443/mustakim/mustakim/1498
+https://nonton.site:8443/mustakim/mustakim/1498
 #http://203.77.246.50:5000/udp/239.1.3.74:5000
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/1498
+#https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/1498
 
 
 
@@ -579,15 +579,15 @@ https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png",Paramount Network
-#https://nonton.site:8443/live/mustakim/mustakim/98.m3u8
+https://nonton.site:8443/live/mustakim/mustakim/98.m3u8
 #http://iptvid.my.id/hmm/paramount.m3u8
 ##https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650451
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/98
+#https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/98
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbSvWbvP5aGJAq2bfRqWULVUtK9s0bOSvT4r8ttIc&s" group-title="Movies",FLIK 
-##https://nonton.site:8443/mustakim/mustakim/29592
+https://nonton.site:8443/mustakim/mustakim/29592
 ##http://iptvid.my.id/hmm/flik.m3u8
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/29592
+#https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/29592
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -598,7 +598,7 @@ https://liveanevia.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/Indo
 https://nonton.site:8443/mustakim/mustakim/37457
 
 #EXTINF:-1 tvg-id="BioskopIndonesia.id" tvg-name="Bioskop Indonesia" tvg-logo="https://i.imgur.com/tThW9R1.png" group-title="Movies",BIOSKOP INDONESIA
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/908
+#https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/908
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3B145Ej.png" group-title="Movies",SINEMA INDONESIA
 http://203.77.246.50:5000/udp/239.1.1.74:5000
