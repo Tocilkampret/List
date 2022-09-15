@@ -50,12 +50,13 @@ http://103.226.232.199:8008/play/a083/index.m3u8
 https://lnk.ec/shareext@indosiarHD.m3u8
 
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.ibb.co/5hYVmZj/SCTV.png",SCTV
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4446503011668def857b1c03bafabba51
-#https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/931
+#http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4446503011668def857b1c03bafabba51
+https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/931
 
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/EMmOvnQ.png",SCTV FHD
-#http://tvlive.my.id:25461/mat/mat/13
-https://nonton.site:8443/mustakim/mustakim/931
+http://tvlive.my.id:25461/mat/mat/13
+#https://nonton.site:8443/mustakim/mustakim/931
+#http://stream.semerutv.link:7780/freebies/EOti98qsWH/1
 
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2022/08/14/932587078.jpg",moji
 https://m3u-editor.com/serve/4853a990-00b0-11ed-8830-395cb43f41cb/595176128
