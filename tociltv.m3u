@@ -961,7 +961,7 @@ https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/hWdxcRX.png" group-title="Sports",LFCTV
-#https://m3u-editor.com/serve/048feb20-21c5-11ed-80f4-4df2cd90d9ff/621652198
+http://king-tv.online:8080/gisle@/FDPWGufCmY/5436.ts
 
 #EXTINF:-1 xui-id="77943" tvg-id="BARCATV" tvg-name="|ES| BARCA TV FHD" tvg-logo="https://i.imgur.com/E2VDORP.png" group-title="Sports",BARCA TV
 http://protocol.solanaflix.com:8080/play/ELc-0FLpyYjhLyNiQx-UIMvoPwLYKUlAU9XtliINfQmB_l1SguDWi_rKDw_LdBdh
@@ -1094,6 +1094,9 @@ http://31.172.87.52:2200/EX/UKSD_BT_Sport_2_SD-uk/tracks-v1a1/mono.m3u8?token=RE
 
 #EXTINF:-1 tvg-ID="" tvg-name="UK_BT_Sport_3_HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bt-sport-3-uk.png" group-title="Sports",BT SPORT 3
 http://31.172.87.52:2200/EX/UKSD_BT_Sport_3_SD-uk/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-ID="" tvg-name="UK_BT_Sport_4_HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bt-sport-4-uk.png" group-title="Sports",BT SPORT 4
+http://31.172.87.52:2200/EX/UKSD_BT_Sport_4_SD-uk/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Eurosport_hd_%282011-2015%29.png" group-title="Sports",EuroSports HD
 http://103.179.246.243:8000/play/a00r
