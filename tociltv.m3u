@@ -882,16 +882,16 @@ http://tv.zonanime.my.id/vidio/championstv3.m3u8
 http://tvn.x10.mx/live/master-10.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://thumbor.prod.vidiocdn.com/6C6WbxMiGJSzDf9xWJEiQVhzF4c=/372x211/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9430/champions-tv-world-cup-1-fb2314.jpg",CHAMPIONS TV World Cup 1
-https://production-drm-vidio-com-ctv-wc-1.akamaized.net/out/v1/cabfe9d2e23e4a958fcd390012891d79/index.mpd
+#https://production-drm-vidio-com-ctv-wc-1.akamaized.net/out/v1/cabfe9d2e23e4a958fcd390012891d79/index.mpd
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://thumbor.prod.vidiocdn.com/O_mhyf8dMZwtINTRDzecFWydTM4=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9431/champions-tv-world-cup-2-9c7fc1.jpg",CHAMPIONS TV World Cup 2
-https://production-drm-vidio-com-ctv-wc-2.akamaized.net/out/v1/816782c75a1b481c93b1c920a3124581/index.mpd
+#https://production-drm-vidio-com-ctv-wc-2.akamaized.net/out/v1/816782c75a1b481c93b1c920a3124581/index.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20101201 Firefox/31.0 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://dukun.masuk.id/drm/tv1
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/9WhthSV/slazzer-edit-image-modified.png" group-title="Sports",CHAMPIONS TV World Cup 1 
-https://production-drm-vidio-com-ctv-wc-1.akamaized.net/out/v1/cabfe9d2e23e4a958fcd390012891d79/index.mpd 
+#https://production-drm-vidio-com-ctv-wc-1.akamaized.net/out/v1/cabfe9d2e23e4a958fcd390012891d79/index.mpd 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20101201 Firefox/31.0 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
@@ -1121,14 +1121,14 @@ http://31.172.87.52:2200/EX/UKSD_BT_Sport_3_SD-uk/tracks-v1a1/mono.m3u8?token=RE
 #EXTINF:-1 tvg-ID="" tvg-name="UK_BT_Sport_4_HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bt-sport-4-uk.png" group-title="Sports",BT SPORT 4
 https://lb.privatevps.org/play/O3vIZOmm1zgeSrMUAT-iOYbdSaDIhjwcuIvGYpVstJI
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Eurosport_hd_%282011-2015%29.png" group-title="Sports",EuroSports HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s4jDnJh.png" group-title="Sports",EUROSPORT
 https://lb.privatevps.org/play/O3vIZOmm1zgeSrMUAT-iOYnrj4Fas_seTxsZ4fhkbXbCBPmOaqtES81RtLCkObqj
 
 #EXTINF:-1 tvg-id="Eurosport1" tvg-name="Eurosport1" tvg-logo="https://i.imgur.com/z3fQ87X.png" group-title="Sports",EUROSPORT 1
-https://lb.privatevps.org/play/O3vIZOmm1zgeSrMUAT-iOZK7RUapQHkTvkFlOqm3MEby3-_R54gE5BMWvmeaDOOP
+http://lemon.catchmeifyo.com:8000/818160669791/042501144982/37459
 
 #EXTINF:-1 tvg-id="Eurosport2" tvg-name="Eurosport2" tvg-logo="https://i.imgur.com/0xpN9B6.png" group-title="Sports",EUROSPORT 2
-https://lb.privatevps.org/play/O3vIZOmm1zgeSrMUAT-iOYx9-4dgJRfbepc97Z4H1piI1RIOht6jvtb0OnlCgp3D
+http://lemon.catchmeifyo.com:8000/818160669791/042501144982/37711
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/512px-NBA_TV.svg.png" group-title="Sports",NBA TV
 http://main-url.glass-iptv.xyz:39512/live/Almir@BIBERKIC/dusqcMAX52rM/359.ts
