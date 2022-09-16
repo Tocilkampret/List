@@ -440,7 +440,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c
 https://liveanevia.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/DreamWorks_Channel_Logo.svg/512px-DreamWorks_Channel_Logo.svg.png" group-title="Kids",DREAMWORKS
-https://nonton.site:8443/mustakim/mustakim/32529
+https://lb.privatevps.org/play/O3vIZOmm1zgeSrMUAT-iORJCSbU53U8NtWoY6GiWY2U
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -1081,7 +1081,7 @@ http://ky-iptv.com:80/robertd/robertd/1846775.ts
 http://5gfksa.ltd:2052/991155/551199/174608
 
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://rndcdn.dstv.com/dstvcms/2021/08/09/SS_Logo_Football_4-3_005_xlrg.png" group-title="Sports",SuperSport Football
-http://legendtvs.com:80/anwar123/12345/391208
+https://lb.privatevps.org/play/O3vIZOmm1zgeSrMUAT-iOfX3qCtgpiWUOn_0b3oCGag_5KyjLmGarccsuPF-prp5
 
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://rndcdn.dstv.com/dstvcms/2021/08/09/SS_Logo_LaLiga_4-3_005_xlrg.png" group-title="Sports",SuperSport La Liga
 http://5gfksa.ltd:2052/991155/551199/174607
@@ -1099,7 +1099,7 @@ http://31.172.87.52:2200/EX/UKSD_BT_Sport_2_SD-uk/tracks-v1a1/mono.m3u8?token=RE
 http://31.172.87.52:2200/EX/UKSD_BT_Sport_3_SD-uk/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-ID="" tvg-name="UK_BT_Sport_4_HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bt-sport-4-uk.png" group-title="Sports",BT SPORT 4
-http://31.172.87.52:2200/EX/UKSD_BT_Sport_4_SD-uk/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
+https://lb.privatevps.org/play/O3vIZOmm1zgeSrMUAT-iOYbdSaDIhjwcuIvGYpVstJI
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Eurosport_hd_%282011-2015%29.png" group-title="Sports",EuroSports HD
 http://103.179.246.243:8000/play/a00r
