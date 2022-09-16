@@ -920,9 +920,8 @@ http://ky-iptv.com:80/robertd/robertd/1391038.ts
 #EXTINF:-1 tvg-id="astrosupersport5.my" tvg-name="MY| Astro SuperSport 5 FHD" tvg-logo="https://i.imgur.com/ebpvrUx.png" group-title="Sports",astro SUPERSPORT 5
 http://king-tv.online:8080/gisle@/FDPWGufCmY/379986.ts
 
-#EXTINF:-1 tvg-id="Erz.Assp3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/BeIN_Sports.png/512px-BeIN_Sports.png" tvg-name"" group-title="Sports",beIN SPORTS 
-#https://unifi-live05.secureswiftcontent.com/UnifiHD/live13.m3u8
-http://king-tv.online:8080/gisle@/FDPWGufCmY/379996.ts
+#EXTINF:-1 tvg-id="Erz.Assp3" tvg-logo="https://www.citypng.com/public/uploads/preview/hd-bein-sports-hd-logo-png-116408184160mybrquevy.png" tvg-name"" group-title="Sports",beIN SPORTS HD
+https://lb.privatevps.org/play/O3vIZOmm1zgeSrMUAT-iOcM5Db0QP_qLF7G6TDBYjcI
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -985,7 +984,7 @@ https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/hWdxcRX.png" group-title="Sports",LFCTV
-http://king-tv.online:8080/gisle@/FDPWGufCmY/5436.ts
+http://lemon.catchmeifyo.com:8000/818160669791/042501144982/103308
 
 #EXTINF:-1 xui-id="77943" tvg-id="BARCATV" tvg-name="|ES| BARCA TV FHD" tvg-logo="https://i.imgur.com/E2VDORP.png" group-title="Sports",BARCA TV
 http://protocol.solanaflix.com:8080/play/ELc-0FLpyYjhLyNiQx-UIMvoPwLYKUlAU9XtliINfQmB_l1SguDWi_rKDw_LdBdh
@@ -1389,7 +1388,6 @@ https://alhijrahmedia.com/tv-alhijrah-live-streaming/
 
 EXTINF:-1 tvg-id="011" tvg-name="" tvg-country="MY" tvg-language="Malay" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Saluran_Berita_RTM.png/revision/latest/scale-to-width-down/250?cb=20200914155210" tvg-url="" group-title="Malaysia",RTM Berita
 https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
-
 
 
 
