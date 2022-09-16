@@ -879,12 +879,14 @@ http://tv.zonanime.my.id/vidio/championstv3.m3u8
 http://tvn.x10.mx/live/master-10.m3u8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/71_144.png" group-title="Sports",astro SUPERSPORT
-http://ky-iptv.com:80/robertd/robertd/1391035.ts
-#http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115615
+#http://ky-iptv.com:80/robertd/robertd/1391035.ts
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115615
+#https://lb.privatevps.org/play/O3vIZOmm1zgeSrMUAT-iOfHd-l9NiY6zRsdZVKdFDIMtHDJ14GnGRs0AR9RoUum1
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png" group-title="Sports",astro SUPERSPORT 2
-http://ky-iptv.com:80/robertd/robertd/1391036.ts
-#http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115616
+#http://ky-iptv.com:80/robertd/robertd/1391036.ts
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115616
+#https://lb.privatevps.org/play/O3vIZOmm1zgeSrMUAT-iOQChYcHX93fybmde-Yd0whsQVu8EB6uHl-_iZ7mkXqx7
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="Sports",astro SUPERSPORT 3
 http://ky-iptv.com:80/robertd/robertd/1391037.ts
