@@ -937,7 +937,7 @@ https://liveanevia.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x8049OP.png" group-title="Sports",beIN SPORTS XTRA
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c82b290-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=672c13ed-c11c-4ba2-b749-117f2f0aab45&userId=&serverSideAds=true
+#http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c82b290-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=672c13ed-c11c-4ba2-b749-117f2f0aab45&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ImjhA9L.png" group-title="Sports",beIN SPORTS XTRA en Español
 https://linear-256.frequency.stream/256/hls/master/playlist.m3u8
@@ -1101,25 +1101,25 @@ http://ky-iptv.com:80/robertd/robertd/1821337.ts
 http://ky-iptv.com:80/robertd/robertd/1846775.ts
 
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://rndcdn.dstv.com/dstvcms/2021/08/09/SS_Logo_PremiereLeague_4-3_005_xlrg.png" group-title="Sports",SuperSport Premier League
-http://king-tv.online:8080/gisle@/FDPWGufCmY/119524.ts
+
 
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://rndcdn.dstv.com/dstvcms/2021/08/09/SS_Logo_Football_4-3_005_xlrg.png" group-title="Sports",SuperSport Football
-http://king-tv.online:8080/gisle@/FDPWGufCmY/183104.ts
+
 
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://rndcdn.dstv.com/dstvcms/2021/08/09/SS_Logo_LaLiga_4-3_005_xlrg.png" group-title="Sports",SuperSport LaLiga
-http://king-tv.online:8080/gisle@/FDPWGufCmY/183127.ts
+
 
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://rndcdn.dstv.com/dstvcms/2020/09/01/SS_Logo_Action_4-3_001_xlrg.png" group-title="Sports",SuperSport Action
-http://5gfksa.ltd:2052/991155/551199/174601
+
 
 #EXTINF:-1 tvg-ID="" tvg-name="UK_BT_Sport_1_HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bt-sport-1-uk.png" group-title="Sports",BT SPORT 1
-http://31.172.87.52:2200/EX/UKSD_BT_Sport_1_SD-uk/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
+http://ky-iptv.com:80/robertd/robertd/1846762.ts
 
 #EXTINF:-1 tvg-ID="" tvg-name="UK_BT_Sport_2_HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bt-sport-2-uk.png" group-title="Sports",BT SPORT 2
-http://31.172.87.52:2200/EX/UKSD_BT_Sport_2_SD-uk/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
+http://ky-iptv.com:80/robertd/robertd/1846768.ts
 
 #EXTINF:-1 tvg-ID="" tvg-name="UK_BT_Sport_3_HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bt-sport-3-uk.png" group-title="Sports",BT SPORT 3
-http://31.172.87.52:2200/EX/UKSD_BT_Sport_3_SD-uk/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
+http://ky-iptv.com:80/robertd/robertd/1846764.ts
 
 #EXTINF:-1 tvg-ID="" tvg-name="UK_BT_Sport_4_HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bt-sport-4-uk.png" group-title="Sports",BT SPORT 4
 
@@ -1134,7 +1134,7 @@ http://31.172.87.52:2200/EX/UKSD_BT_Sport_3_SD-uk/tracks-v1a1/mono.m3u8?token=RE
 
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/512px-NBA_TV.svg.png" group-title="Sports",NBA TV
-http://main-url.glass-iptv.xyz:39512/live/Almir@BIBERKIC/dusqcMAX52rM/359.ts
+http://ky-iptv.com:80/robertd/robertd/395217.ts
 
 #EXTINF:-1 tvg-id="EDGEsport.th" tvg-name="EDGEsport Channel" tvg-logo="https://i.imgur.com/zRugmb9.png" group-title="Sports",EDGE SPORT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
