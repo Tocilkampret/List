@@ -444,7 +444,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c
 https://liveanevia.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/DreamWorks_Channel_Logo.svg/512px-DreamWorks_Channel_Logo.svg.png" group-title="Kids",DREAMWORKS
-https://lb.privatevps.org/play/O3vIZOmm1zgeSrMUAT-iORJCSbU53U8NtWoY6GiWY2U
+https://nonton.site:8443/mustakim/mustakim/32529
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -902,12 +902,11 @@ https://production-drm-vidio-com-ctv-wc-2.akamaized.net/out/v1/816782c75a1b481c9
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/71_144.png" group-title="Sports",astro SUPERSPORT
 #http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115615
-https://lb.privatevps.org/play/O3vIZOmm1zgeSrMUAT-iOfHd-l9NiY6zRsdZVKdFDIMtHDJ14GnGRs0AR9RoUum1
+http://king-tv.online:8080/gisle@/FDPWGufCmY/379978.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png" group-title="Sports",astro SUPERSPORT 2
 http://ky-iptv.com:80/robertd/robertd/1391036.ts
 #http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115616
-#https://lb.privatevps.org/play/O3vIZOmm1zgeSrMUAT-iOQChYcHX93fybmde-Yd0whsQVu8EB6uHl-_iZ7mkXqx7
 #https://m3u-editor.com/serve/8f7d7f50-3343-11ed-a319-8174b8937637/638029804
 #http://tvlive.my.id:25461/mat/mat/33
 
@@ -925,7 +924,7 @@ http://ky-iptv.com:80/robertd/robertd/1391038.ts
 https://m3u-editor.com/serve/8f7d7f50-3343-11ed-a319-8174b8937637/638029794
 
 #EXTINF:-1 tvg-id="Erz.Assp3" tvg-logo="https://www.citypng.com/public/uploads/preview/hd-bein-sports-hd-logo-png-116408184160mybrquevy.png" tvg-name"" group-title="Sports",beIN SPORTS HD
-https://lb.privatevps.org/play/O3vIZOmm1zgeSrMUAT-iOcM5Db0QP_qLF7G6TDBYjcI
+http://ky-iptv.com:80/robertd/robertd/220395.ts
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -988,7 +987,7 @@ https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/hWdxcRX.png" group-title="Sports",LFCTV
-http://lemon.catchmeifyo.com:8000/818160669791/042501144982/36156
+http://ky-iptv.com:80/robertd/robertd/189963.ts
 
 #EXTINF:-1 xui-id="77943" tvg-id="BARCATV" tvg-name="|ES| BARCA TV FHD" tvg-logo="https://i.imgur.com/E2VDORP.png" group-title="Sports",BARCA TV
 http://protocol.solanaflix.com:8080/play/ELc-0FLpyYjhLyNiQx-UIMvoPwLYKUlAU9XtliINfQmB_l1SguDWi_rKDw_LdBdh
@@ -1093,9 +1092,8 @@ https://m3u-editor.com/serve/8f7d7f50-3343-11ed-a319-8174b8937637/638011493
 
 
 #EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-name="Sky Sports Premier League" tvg-logo="https://i.imgur.com/wA3DieO.png" group-title="Sports",sky sports premier league
-http://jadetv.de:80/eagleiptv/SsFAljPDDi/95009
 #https://m3u-editor.com/serve/048feb20-21c5-11ed-80f4-4df2cd90d9ff/621652095
-#http://ky-iptv.com:80/robertd/robertd/1821337.ts
+http://ky-iptv.com:80/robertd/robertd/1821337.ts
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rsT6Cu2.png" group-title="Sports",sky sports football
 #https://m3u-editor.com/serve/048feb20-21c5-11ed-80f4-4df2cd90d9ff/621652190
@@ -1103,16 +1101,16 @@ http://jadetv.de:80/eagleiptv/SsFAljPDDi/95009
 http://ky-iptv.com:80/robertd/robertd/1846775.ts
 
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://rndcdn.dstv.com/dstvcms/2021/08/09/SS_Logo_PremiereLeague_4-3_005_xlrg.png" group-title="Sports",SuperSport Premier League
-http://lemon.catchmeifyo.com:8000/818160669791/042501144982/37622
+http://king-tv.online:8080/gisle@/FDPWGufCmY/119524.ts
 
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://rndcdn.dstv.com/dstvcms/2021/08/09/SS_Logo_Football_4-3_005_xlrg.png" group-title="Sports",SuperSport Football
-https://lb.privatevps.org/play/O3vIZOmm1zgeSrMUAT-iOfX3qCtgpiWUOn_0b3oCGag_5KyjLmGarccsuPF-prp5
+http://king-tv.online:8080/gisle@/FDPWGufCmY/183104.ts
 
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://rndcdn.dstv.com/dstvcms/2021/08/09/SS_Logo_LaLiga_4-3_005_xlrg.png" group-title="Sports",SuperSport La Liga
-http://lemon.catchmeifyo.com:8000/818160669791/042501144982/37620
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://rndcdn.dstv.com/dstvcms/2021/08/09/SS_Logo_LaLiga_4-3_005_xlrg.png" group-title="Sports",SuperSport LaLiga
+http://king-tv.online:8080/gisle@/FDPWGufCmY/183127.ts
 
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://rndcdn.dstv.com/dstvcms/2020/09/01/SS_Logo_Action_4-3_001_xlrg.png" group-title="Sports",SuperSport Action
-http://lemon.catchmeifyo.com:8000/818160669791/042501144982/37625
+http://5gfksa.ltd:2052/991155/551199/174601
 
 #EXTINF:-1 tvg-ID="" tvg-name="UK_BT_Sport_1_HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bt-sport-1-uk.png" group-title="Sports",BT SPORT 1
 http://31.172.87.52:2200/EX/UKSD_BT_Sport_1_SD-uk/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
@@ -1124,16 +1122,16 @@ http://31.172.87.52:2200/EX/UKSD_BT_Sport_2_SD-uk/tracks-v1a1/mono.m3u8?token=RE
 http://31.172.87.52:2200/EX/UKSD_BT_Sport_3_SD-uk/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-ID="" tvg-name="UK_BT_Sport_4_HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bt-sport-4-uk.png" group-title="Sports",BT SPORT 4
-https://lb.privatevps.org/play/O3vIZOmm1zgeSrMUAT-iOYbdSaDIhjwcuIvGYpVstJI
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s4jDnJh.png" group-title="Sports",EUROSPORT
-https://lb.privatevps.org/play/O3vIZOmm1zgeSrMUAT-iOYnrj4Fas_seTxsZ4fhkbXbCBPmOaqtES81RtLCkObqj
+
 
 #EXTINF:-1 tvg-id="Eurosport1" tvg-name="Eurosport1" tvg-logo="https://i.imgur.com/z3fQ87X.png" group-title="Sports",EUROSPORT 1
-http://lemon.catchmeifyo.com:8000/818160669791/042501144982/37459
+
 
 #EXTINF:-1 tvg-id="Eurosport2" tvg-name="Eurosport2" tvg-logo="https://i.imgur.com/0xpN9B6.png" group-title="Sports",EUROSPORT 2
-http://lemon.catchmeifyo.com:8000/818160669791/042501144982/37711
+
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/512px-NBA_TV.svg.png" group-title="Sports",NBA TV
 http://main-url.glass-iptv.xyz:39512/live/Almir@BIBERKIC/dusqcMAX52rM/359.ts
