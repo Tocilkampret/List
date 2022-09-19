@@ -1099,17 +1099,20 @@ http://ky-iptv.com:80/robertd/robertd/1821337.ts
 #https://m3u-editor.com/serve/048feb20-21c5-11ed-80f4-4df2cd90d9ff/621652098
 http://ky-iptv.com:80/robertd/robertd/1846775.ts
 
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://rndcdn.dstv.com/dstvcms/2021/08/09/SS_Logo_PremiereLeague_4-3_005_xlrg.png" group-title="Sports",SuperSport Premier League
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gCTAxBl.png" group-title="Sports",SPORT TV+
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342107
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HrZbL1l.png" group-title="Sports",SPORT TV1
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342104
 
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://rndcdn.dstv.com/dstvcms/2021/08/09/SS_Logo_Football_4-3_005_xlrg.png" group-title="Sports",SuperSport Football
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vlHIPhm.png" group-title="Sports",SPORT TV2
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342101
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ff6jT2Q.png" group-title="Sports",SPORT TV3
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342099
 
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://rndcdn.dstv.com/dstvcms/2021/08/09/SS_Logo_LaLiga_4-3_005_xlrg.png" group-title="Sports",SuperSport LaLiga
-
-
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://rndcdn.dstv.com/dstvcms/2020/09/01/SS_Logo_Action_4-3_001_xlrg.png" group-title="Sports",SuperSport Action
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/znSJhFV.png" group-title="Sports",SPORT TV4
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342097
 
 #EXTINF:-1 tvg-ID="" tvg-name="UK_BT_Sport_1_HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bt-sport-1-uk.png" group-title="Sports",BT SPORT 1
 http://ky-iptv.com:80/robertd/robertd/1846762.ts
@@ -1123,14 +1126,23 @@ http://ky-iptv.com:80/robertd/robertd/1846764.ts
 #EXTINF:-1 tvg-ID="" tvg-name="UK_BT_Sport_4_HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bt-sport-4-uk.png" group-title="Sports",BT SPORT 4
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/s4jDnJh.png" group-title="Sports",EUROSPORT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/STN37zd.png" group-title="Sports",ELEVEN 1
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342089
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bGRgFwo.png" group-title="Sports",ELEVEN 2
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342088
 
-#EXTINF:-1 tvg-id="Eurosport1" tvg-name="Eurosport1" tvg-logo="https://i.imgur.com/z3fQ87X.png" group-title="Sports",EUROSPORT 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lrcWrFs.png" group-title="Sports",ELEVEN 3
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/338375
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OUGHmuH.png" group-title="Sports",ELEVEN 4
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/338377
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rw8Qr1l.png" group-title="Sports",ELEVEN 5
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/338379
 
-#EXTINF:-1 tvg-id="Eurosport2" tvg-name="Eurosport2" tvg-logo="https://i.imgur.com/0xpN9B6.png" group-title="Sports",EUROSPORT 2
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0dAM5uT.png" group-title="Sports",ELEVEN 6
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/338381
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/512px-NBA_TV.svg.png" group-title="Sports",NBA TV
 http://ky-iptv.com:80/robertd/robertd/395217.ts
