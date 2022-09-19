@@ -1178,10 +1178,10 @@ http://95.183.43.237:8080/259/index.m3u8
 http://95.183.43.237:8080/260/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.img09.xyz/assets/img/ch_logo/doomovie-epl1.png" group-title="Sports",true PREMIER FOOTBALL 1
-http://king-tv.online:8080/live/gisle@/FDPWGufCmY/204632.ts
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/115758
 
 #EXTINF:-1 tvg-logo="https://www.img09.xyz/assets/img/ch_logo/doomovie-epl2.png" group-title="Sports",true PREMIER FOOTBALL 2
-http://king-tv.online:8080/live/gisle@/FDPWGufCmY/204633.ts
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/115508
 
 #EXTINF:-1 tvg-logo="https://www.img09.xyz/assets/img/ch_logo/doomovie-epl3.png" group-title="Sports",true PREMIER FOOTBALL 3
 http://king-tv.online:8080/live/gisle@/FDPWGufCmY/204634.ts
