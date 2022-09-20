@@ -900,27 +900,30 @@ http://tvn.x10.mx/live/master-10.m3u8
 https://production-drm-vidio-com-ctv-wc-2.akamaized.net/out/v1/816782c75a1b481c93b1c920a3124581/index.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/71_144.png" group-title="Sports",astro SUPERSPORT
-http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115615
-#https://webui.vhls.ru.com/lb/premium123/index.m3u8
+#http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115615
+https://webui.vhls.ru.com/lb/premium123/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png" group-title="Sports",astro SUPERSPORT 2
 #http://ky-iptv.com:80/robertd/robertd/1391036.ts
-http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115616
+#http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115616
 #https://m3u-editor.com/serve/8f7d7f50-3343-11ed-a319-8174b8937637/638029804
 #http://tvlive.my.id:25461/mat/mat/33
+https://webui.vhls.ru.com/lb/premium124/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="Sports",astro SUPERSPORT 3
-http://ky-iptv.com:80/robertd/robertd/1391037.ts
-
+#http://ky-iptv.com:80/robertd/robertd/1391037.ts
+https://webui.vhls.ru.com/lb/premium125/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="Sports",astro SUPERSPORT 4
 #http://ky-iptv.com:80/robertd/robertd/1391038.ts
-http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115618
+#http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115618
 #http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/115618
+https://webui.vhls.ru.com/lb/premium126/index.m3u8
 
 #EXTINF:-1 tvg-id="astrosupersport5.my" tvg-name="MY| Astro SuperSport 5 FHD" tvg-logo="https://i.imgur.com/ebpvrUx.png" group-title="Sports",astro SUPERSPORT 5
 #http://king-tv.online:8080/gisle@/FDPWGufCmY/379986.ts
 https://m3u-editor.com/serve/8f7d7f50-3343-11ed-a319-8174b8937637/638029794
+#https://webui.vhls.ru.com/lb/premium43/index.m3u8
 
 #EXTINF:-1 tvg-id="Erz.Assp3" tvg-logo="https://www.citypng.com/public/uploads/preview/hd-bein-sports-hd-logo-png-116408184160mybrquevy.png" tvg-name"" group-title="Sports",beIN SPORTS HD
 http://ky-iptv.com:80/robertd/robertd/220395.ts
