@@ -156,6 +156,7 @@ https://cdn3.wowza.com/1/NEtzTTZ4c1FTTUN2/SkJBbVJs/hls/live/playlist.m3u8
 
 °°° HBO Group FHD °°°
 
+#EXTINF:-1 tvg-id="cinemax" tvg-logo="http://koceng.my.id/Pangsit/logo/max.png" group-title="HBO FHD", HBO Cinemax #EXTVLCOPT:http-user-agent=LanggananHub089505066686 https://koceng.my.id/Pangsit/y.m3u8?koceng=h-371 
 
 #EXTINF:-1 group-title="HBO Group FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",CINEMAX
 #EXTVLCOPT:http-user-agent=LanggananHub089505066686 
