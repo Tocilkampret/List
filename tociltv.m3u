@@ -874,25 +874,8 @@ http://tv.zonanime.my.id/vidio/championstv3.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/AcBSHlM.png",CHAMPIONS TV GOAL
 #http://stream.semerutv.link:7780/freebies/EOti98qsWH/48
-http://tvn.x10.mx/live/master-10.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://thumbor.prod.vidiocdn.com/6C6WbxMiGJSzDf9xWJEiQVhzF4c=/372x211/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9430/champions-tv-world-cup-1-fb2314.jpg",CHAMPIONS TV World Cup 1
-#https://production-drm-vidio-com-ctv-wc-1.akamaized.net/out/v1/cabfe9d2e23e4a958fcd390012891d79/index.mpd
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://thumbor.prod.vidiocdn.com/O_mhyf8dMZwtINTRDzecFWydTM4=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9431/champions-tv-world-cup-2-9c7fc1.jpg",CHAMPIONS TV World Cup 2
-#https://production-drm-vidio-com-ctv-wc-2.akamaized.net/out/v1/816782c75a1b481c93b1c920a3124581/index.mpd
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20101201 Firefox/31.0 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://dukun.masuk.id/drm/tv1
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/9WhthSV/slazzer-edit-image-modified.png" group-title="Sports",CHAMPIONS TV World Cup 1 
-#https://production-drm-vidio-com-ctv-wc-1.akamaized.net/out/v1/cabfe9d2e23e4a958fcd390012891d79/index.mpd 
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20101201 Firefox/31.0 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://dukun.masuk.id/drm/tv2 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/J7rtjtc/slazzer-edit-image-1-modified.png" group-title="Sports",CHAMPIONS TV World Cup 2 
-https://production-drm-vidio-com-ctv-wc-2.akamaized.net/out/v1/816782c75a1b481c93b1c920a3124581/index.mpd
+#http://tvn.x10.mx/live/master-10.m3u8
+https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/champgoaletdahlluapainnih|user-agent=d91821I1
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/71_144.png" group-title="Sports",astro SUPERSPORT
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/115615
@@ -974,7 +957,7 @@ https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/hWdxcRX.png" group-title="Sports",LFCTV
-http://ky-iptv.com:80/robertd/robertd/189963.ts
+
 
 #EXTINF:-1 xui-id="77943" tvg-id="BARCATV" tvg-name="|ES| BARCA TV FHD" tvg-logo="https://i.imgur.com/E2VDORP.png" group-title="Sports",BARCA TV
 http://protocol.solanaflix.com:8080/play/ELc-0FLpyYjhLyNiQx-UIMvoPwLYKUlAU9XtliINfQmB_l1SguDWi_rKDw_LdBdh
@@ -1010,7 +993,7 @@ https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/
 https://liveanevia.mncnow.id:443/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 
 #EXTINF:-1 tvg-ID="" tvg-name="UK_BoxNation_FHD" tvg-logo="https://i.imgur.com/XCIBf7u.png" group-title="Sports",BOX NATION
-http://ky-iptv.com:80/robertd/robertd/189910.ts
+
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/MMATV_logo_dark.png" group-title="SPORTS",MMA TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=819&livestream=1&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&custom4=plex&gdpr=0&device_make=&device_model=&coppa=1&us_privacy=1---&custom_6=Rs19sdFRTfJdn9Wyxa4f&custom_7=60ecb878ebef9d002c4d0a11&is_lat=0
@@ -1067,12 +1050,12 @@ https://insighttv-vizio.amagi.tv/playlist.m3u8
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/0y6DWtYs/usee-Sport.png",Usee Sports
-http://stream.semerutv.link:7780/freebies/EOti98qsWH/49
+http://iptvid.my.id/hmm/useetl1.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.useetv.com/pimages/logo_useesports2_big.png?v=1",Usee Sports 2
-#http://iptvid.my.id/hmm/useetl2.m3u8
-#http://tvlive.my.id:25461/mat/mat/33
-https://m3u-editor.com/serve/8f7d7f50-3343-11ed-a319-8174b8937637/638011493
+http://iptvid.my.id/hmm/useetl2.m3u8
+
+
 
 
 ##########################
@@ -1080,12 +1063,12 @@ https://m3u-editor.com/serve/8f7d7f50-3343-11ed-a319-8174b8937637/638011493
 
 #EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-name="Sky Sports Premier League" tvg-logo="https://i.imgur.com/wA3DieO.png" group-title="Sports",sky sports premier league
 #https://m3u-editor.com/serve/048feb20-21c5-11ed-80f4-4df2cd90d9ff/621652095
-http://ky-iptv.com:80/robertd/robertd/1821337.ts
+
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rsT6Cu2.png" group-title="Sports",sky sports football
 #https://m3u-editor.com/serve/048feb20-21c5-11ed-80f4-4df2cd90d9ff/621652190
 #https://m3u-editor.com/serve/048feb20-21c5-11ed-80f4-4df2cd90d9ff/621652098
-http://ky-iptv.com:80/robertd/robertd/1846775.ts
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gCTAxBl.png" group-title="Sports",SPORT TV+
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342107
@@ -1103,13 +1086,13 @@ http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342099
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342097
 
 #EXTINF:-1 tvg-ID="" tvg-name="UK_BT_Sport_1_HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bt-sport-1-uk.png" group-title="Sports",BT SPORT 1
-http://ky-iptv.com:80/robertd/robertd/1846762.ts
+
 
 #EXTINF:-1 tvg-ID="" tvg-name="UK_BT_Sport_2_HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bt-sport-2-uk.png" group-title="Sports",BT SPORT 2
-http://ky-iptv.com:80/robertd/robertd/1846768.ts
+
 
 #EXTINF:-1 tvg-ID="" tvg-name="UK_BT_Sport_3_HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bt-sport-3-uk.png" group-title="Sports",BT SPORT 3
-http://ky-iptv.com:80/robertd/robertd/1846764.ts
+
 
 #EXTINF:-1 tvg-ID="" tvg-name="UK_BT_Sport_4_HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bt-sport-4-uk.png" group-title="Sports",BT SPORT 4
 
@@ -1133,7 +1116,7 @@ http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/338379
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/338381
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/512px-NBA_TV.svg.png" group-title="Sports",NBA TV
-http://ky-iptv.com:80/robertd/robertd/395217.ts
+
 
 #EXTINF:-1 tvg-id="EDGEsport.th" tvg-name="EDGEsport Channel" tvg-logo="https://i.imgur.com/zRugmb9.png" group-title="Sports",EDGE SPORT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
