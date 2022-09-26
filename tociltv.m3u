@@ -906,7 +906,7 @@ https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 #http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c82b290-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=672c13ed-c11c-4ba2-b749-117f2f0aab45&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ImjhA9L.png" group-title="Sports",beIN SPORTS XTRA en Español
-https://linear-256.frequency.stream/256/hls/master/playlist.m3u8
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8?shareext.ts
 
 #EXTINF:-1 tvg-id="beINSportsEnglish1.qa" tvg-logo="https://i.imgur.com/fA1VMU6.png" group-title="Sports",beIN SPORTS English 1
 http://channels227070.clientportal.link:80/peYWNNRdGm813/Pkwdu7284/15000
@@ -1082,13 +1082,13 @@ http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342099
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342097
 
 #EXTINF:-1 tvg-ID="" tvg-name="UK_BT_Sport_1_HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bt-sport-1-uk.png" group-title="Sports",BT SPORT 1
-
+http://31.172.87.52:2200/EX/UKSD_BT_Sport_1_SD-uk/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-ID="" tvg-name="UK_BT_Sport_2_HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bt-sport-2-uk.png" group-title="Sports",BT SPORT 2
 
 
 #EXTINF:-1 tvg-ID="" tvg-name="UK_BT_Sport_3_HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bt-sport-3-uk.png" group-title="Sports",BT SPORT 3
-
+http://31.172.87.52:2200/EX/UKSD_BT_Sport_3_SD-uk/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-ID="" tvg-name="UK_BT_Sport_4_HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bt-sport-4-uk.png" group-title="Sports",BT SPORT 4
 
@@ -1112,7 +1112,8 @@ http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/338379
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/338381
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/512px-NBA_TV.svg.png" group-title="Sports",NBA TV
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/243
+#https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/243
+http://iptvid.my.id/hmm/nba.m3u8
 
 #EXTINF:-1 tvg-id="EDGEsport.th" tvg-name="EDGEsport Channel" tvg-logo="https://i.imgur.com/zRugmb9.png" group-title="Sports",EDGE SPORT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
