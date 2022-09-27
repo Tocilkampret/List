@@ -575,13 +575,10 @@ https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png",Paramount Network
-https://nonton.site:8443/live/mustakim/mustakim/98.m3u8
 #http://iptvid.my.id/hmm/paramount.m3u8
-##https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650451
 https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/98
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbSvWbvP5aGJAq2bfRqWULVUtK9s0bOSvT4r8ttIc&s" group-title="Movies",FLIK 
-#https://nonton.site:8443/mustakim/mustakim/29592
 ##http://iptvid.my.id/hmm/flik.m3u8
 https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/29592
 
@@ -591,7 +588,7 @@ https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/29592
 https://liveanevia.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
  
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/404_300.png/revision/latest/scale-to-width-down/200?cb=20171225070136" group-title="Movies",BOO
-https://nonton.site:8443/mustakim/mustakim/37457
+https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/37457
 
 #EXTINF:-1 tvg-id="BioskopIndonesia.id" tvg-name="Bioskop Indonesia" tvg-logo="https://i.imgur.com/tThW9R1.png" group-title="Movies",BIOSKOP INDONESIA
 https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/908
@@ -611,8 +608,7 @@ https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClas
 http://210.210.155.35/dr9445/h/h14/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch139_160_115" group-title="Movies",Star Chinese Movies 
-https://nonton.site:8443/live/mustakim/mustakim/780.m3u8
-#http://pprotv.com:80/97887222/97887222/39516
+https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/780
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9FHWBPcG/gem.png" group-title="Movies",GEM 
 http://203.77.246.50:5000/udp/239.1.2.238:5000
