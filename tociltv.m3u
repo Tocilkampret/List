@@ -46,14 +46,15 @@ https://liveanevia.mncnow.id:443/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png" group-title="TV Nasional",INDOSIAR
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/2
 
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png" group-title="TV Nasional",INDOSIAR FHD
-
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png" group-title="TV Nasional",INDOSIAR 
+http://tv.zonanime.my.id/vidio/indosiar.m3u8
 
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.ibb.co/5hYVmZj/SCTV.png",SCTV
 
 
-#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/EMmOvnQ.png",SCTV FHD
+#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/EMmOvnQ.png",SCTV 
 http://stream.semerutv.link:7780/freebies/EOti98qsWH/1
 
 
@@ -69,6 +70,7 @@ http://tvn.x10.mx/1/master-13.m3u8?dl=1
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/512px-Trans_TV_2013.svg.png" group-title="TV Nasional",TRANSTV FHD
 #http://203.77.246.50:5000/udp/239.1.1.100:5000
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/15
 
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png",TRANS7 
 http://210.210.155.35/uq2663/h/h11/index.m3u8
@@ -77,7 +79,7 @@ http://210.210.155.35/uq2663/h/h11/index.m3u8
 http://stream.semerutv.link:7780/freebies/EOti98qsWH/14
 
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/Al8T2MD.png",tvOne
-
+http://tvn.x10.mx/1/master-25.m3u8?dl=1
 
 EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/QnU70NI.png",METRO TV
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/manifest.mpd
