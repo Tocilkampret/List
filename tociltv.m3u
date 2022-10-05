@@ -13,7 +13,7 @@
 https://stream-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/RCTI_2015.svg/512px-RCTI_2015.svg.png",RCTI FHD
-http://203.77.246.50:5000/udp/239.1.3.80:5000
+#http://203.77.246.50:5000/udp/239.1.3.80:5000
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -22,7 +22,7 @@ http://203.77.246.50:5000/udp/239.1.3.80:5000
 https://stream-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/jjuKnYs.png",GTV FHD
-http://203.77.246.50:5000/udp/239.1.3.68:5000
+#http://203.77.246.50:5000/udp/239.1.3.68:5000
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -31,7 +31,7 @@ http://203.77.246.50:5000/udp/239.1.3.68:5000
 https://stream-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SK8pjQy.png" group-title="TV Nasional",MNCTV FHD
-http://203.77.246.50:5000/udp/239.1.3.78:5000
+#http://203.77.246.50:5000/udp/239.1.3.78:5000
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -46,7 +46,6 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2
 #https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/31
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png" group-title="TV Nasional",INDOSIAR
-#http://tvn.x10.mx/live/master.m3u8
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69446503011668def857b1c03bafabba51
 
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png" group-title="TV Nasional",INDOSIAR FHD
@@ -73,7 +72,7 @@ http://tvn.x10.mx/1/master-13.m3u8?dl=1
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=6c29793a140a811d0c45ce03c1c93a28446503011668def857b1c03bafabba51
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/512px-Trans_TV_2013.svg.png" group-title="TV Nasional",TRANSTV FHD
-http://203.77.246.50:5000/udp/239.1.1.100:5000
+#http://203.77.246.50:5000/udp/239.1.1.100:5000
 
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png",TRANS7 
 http://210.210.155.35/uq2663/h/h11/index.m3u8
@@ -93,13 +92,13 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-4
 http://210.210.155.35/uq2663/h/h12/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QnU70NI.png" group-title="TV Nasional",METROTV FHD
-http://203.77.246.50:5000/udp/239.1.1.66:5000
+#http://203.77.246.50:5000/udp/239.1.1.66:5000
 
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19515910_ico.png?ts=1654729037",rtv
 http://210.210.155.37/dr9445/h/h10/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rajawali_tv_id.png" group-title="TV Nasional",rtv FHD
-http://203.77.246.50:5000/udp/239.1.1.70:5000
+#http://203.77.246.50:5000/udp/239.1.1.70:5000
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -148,7 +147,7 @@ https://stream-cdn.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
 https://stream-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RPT8O12.png" group-title="TV Nasional",NET. FHD
-http://203.77.246.50:5000/udp/239.1.1.72:5000
+#http://203.77.246.50:5000/udp/239.1.1.72:5000
 
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.imgur.com/fXc15Jf.png" group-title="TV Nasional",UseePRIME
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/manifest.mpd
@@ -163,21 +162,21 @@ https://cdn3.wowza.com/1/NEtzTTZ4c1FTTUN2/SkJBbVJs/hls/live/playlist.m3u8
 °°° HBO Group FHD °°°
 
 #EXTINF:-1 group-title="HBO Group FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",CINEMAX
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/30185
+#https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/30185
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="HBO Group FHD",HBO 
-http://203.77.246.50:5000/udp/239.1.3.84:5000
+#http://203.77.246.50:5000/udp/239.1.3.84:5000
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/512px-HBO_Family_Asia_logo.svg.png" group-title="HBO Group FHD",HBO family 
-http://203.77.246.50:5000/udp/239.1.3.76:5000
+#http://203.77.246.50:5000/udp/239.1.3.76:5000
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="HBO Group FHD",HBO Hits 
-http://203.77.246.50:5000/udp/239.1.3.82:5000
+#http://203.77.246.50:5000/udp/239.1.3.82:5000
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/HBO_Signature_Asia.png/512px-HBO_Signature_Asia.png" group-title="HBO Group FHD",HBO Signature 
-http://203.77.246.50:5000/udp/239.1.3.74:5000
+#http://203.77.246.50:5000/udp/239.1.3.74:5000
 
 
 
@@ -291,7 +290,7 @@ https://liveanevia.mncnow.id/live/eds/Bloomberg/sa_dash_vmx/Bloomberg.mpd
 https://liveanevia.mncnow.id/live/eds/CGTN/sa_dash_vmx/CGTN.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/512px-CNA_new_logo.svg.png" group-title="News",cna
-http://203.77.246.50:5000/udp/239.1.1.170:5000
+#http://203.77.246.50:5000/udp/239.1.1.170:5000
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -333,7 +332,7 @@ https://liveanevia.mncnow.id/live/eds/France24/sa_dash_vmx/France24.mpd
 http://210.210.155.35/uq2663/h/h23/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png" group-title="News",NHK WORLD JAPAN FHD
-http://203.77.246.50:5000/udp/239.1.2.2:5000
+#http://203.77.246.50:5000/udp/239.1.2.2:5000
  
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -421,7 +420,7 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 https://stream-cdn.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="Knowledge",CGTN Documentary
-http://203.77.246.50:5000/udp/239.1.2.6:5000
+#http://203.77.246.50:5000/udp/239.1.2.6:5000
  
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -632,10 +631,10 @@ https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/37457
 https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/908
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3B145Ej.png" group-title="Movies",SINEMA INDONESIA
-http://203.77.246.50:5000/udp/239.1.1.74:5000
+#http://203.77.246.50:5000/udp/239.1.1.74:5000
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Phoenix_HK.svg/512px-Phoenix_HK.svg.png" group-title="Movies",Phoenix HK
-http://203.77.246.50:5000/udp/239.1.1.204:5000
+#http://203.77.246.50:5000/udp/239.1.1.204:5000
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -649,7 +648,7 @@ http://210.210.155.35/dr9445/h/h14/index.m3u8
 https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/780
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9FHWBPcG/gem.png" group-title="Movies",GEM 
-http://203.77.246.50:5000/udp/239.1.2.238:5000
+#http://203.77.246.50:5000/udp/239.1.2.238:5000
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0403e654ddab419db6cc72bb3fa51248&key=9d43bcc51f3750550d321cdc37e57cc9
@@ -775,7 +774,7 @@ EXTINF:-1 group-title="Entertainment & Lifestyle" tvg-logo="https://www.mncvisio
 https://liveanevia.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Arirang.svg/512px-Arirang.svg.png" group-title="Entertainment & Lifestyle",arirang
-http://203.77.246.50:5000/udp/239.1.2.4:5000
+#http://203.77.246.50:5000/udp/239.1.2.4:5000
  
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -876,7 +875,7 @@ http://playlist.urfan.web.id/uq2663/h/h22/01.m3u8
 http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=jgDKPclcGdZfvrIDxfMdpT7v_srMWCbubntGo9cCYWpcBBQalMlLQxHswm43PbVR&bizkeylivestarttime=0
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Snn3JUh.png" group-title="Entertainment & Lifestyle",Zing
-http://203.77.246.50:5000/udp/239.1.1.232:5000
+#http://203.77.246.50:5000/udp/239.1.1.232:5000
 
 
 
@@ -1225,7 +1224,7 @@ https://alfa.kugo.id/playout/maleo.stream/chunklist.m3u8
 http://bravo.kugo.id:1935/dangduttivi/udp.stream_360p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/512px-Channel_V_Logo.svg.png" group-title="Music",Channel V
-http://203.77.246.50:5000/udp/239.1.1.144:5000
+#http://203.77.246.50:5000/udp/239.1.1.144:5000
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K7fnRKH.jpg" group-title="Music",MTV LIVE
 https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=66
