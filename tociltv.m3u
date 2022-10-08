@@ -510,7 +510,7 @@ https://stream-cdn.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
 https://stream-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
 
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19558942_ico.png?ts=1660522506" group-title="Kids",ToonzKids
-http://210.210.155.37/x6bnqe/s/s81/index.m3u8|User-Agent=Lavf/56.15.102
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -528,7 +528,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60faf9ddfcc1f200070
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c7e39ba5-77f8-11ec-8df7-e1b1a799e6b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=79e029d0-007c-4513-a784-dd479e643365&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/62oo8Bx.png" group-title="Kids",EBS Kids
-http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/chunklist_w2046056257.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xePwW13.png" group-title="Kids",LEGO CHANNEL
 https://legochannel-roku.amagi.tv/playlist.m3u8
@@ -555,7 +555,7 @@ https://tinyurl.com/SuperToons
 
 #EXTINF:-1 tvg-id="TOMANDJERRY" tvg-name="TOM & JERRY" tvg-logo="https://i.imgur.com/Iga79tm.png" group-title="Kids",TOM & JERRY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://pstrem.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=PX2wegQtnBQ
+
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5a/Teletubbies_Logo.png" group-title="Kids",Teletubbies
 https://tinyurl.com/TiviMe-Teletubbies
@@ -567,10 +567,10 @@ https://tinyurl.com/TiviMe-ToonGoogles
 https://siloh.pluto.tv/lilo/production/Nick/02/master_1.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7kaHaWLIHiKuvYZhEX_pSk06Ernja-oULsg&usqp=CAU" group-title="Kids",YAAAS!
-https://tinyurl.com/TiviMe-YAAAS
+#https://tinyurl.com/TiviMe-YAAAS
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_zoomoo_m.png" group-title="Kids",ZOO MOO
-https://rockentertainment-zoomoo-1-us.samsung.wurl.tv/2000.m3u8
+#https://rockentertainment-zoomoo-1-us.samsung.wurl.tv/2000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1wYnA2i.jpg" group-title="Kids",ZOO MOO
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
