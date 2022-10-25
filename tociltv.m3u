@@ -52,7 +52,7 @@ https://liveanevia.mncnow.id:443/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 http://tv.zonanime.my.id/vidio/indosiar.m3u8
 
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.ibb.co/5hYVmZj/SCTV.png",SCTV
-http://103.186.200.4:8000/play/a005
+http://tvn.x10.mx/1/master-12.m3u8?dl=1
 
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/EMmOvnQ.png",SCTV 
 #http://stream.semerutv.link:7780/freebies/EOti98qsWH/1
