@@ -52,11 +52,10 @@ https://liveanevia.mncnow.id:443/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 http://tv.zonanime.my.id/vidio/indosiar.m3u8
 
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.ibb.co/5hYVmZj/SCTV.png",SCTV
-http://tvn.x10.mx/1/master-1.m3u8?dl=1
+http://103.186.200.4:8000/play/a005
 
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/EMmOvnQ.png",SCTV 
 #http://stream.semerutv.link:7780/freebies/EOti98qsWH/1
-
 
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2022/08/14/932587078.jpg",moji
 https://m3u-editor.com/serve/4853a990-00b0-11ed-8830-395cb43f41cb/595176128
@@ -79,8 +78,7 @@ http://210.210.155.35/uq2663/h/h11/index.m3u8
 #http://stream.semerutv.link:7780/freebies/EOti98qsWH/14
 
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/Al8T2MD.png",tvOne
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/c/tvOneNews/live
-#http://tvn.x10.mx/1/master-25.m3u8?dl=1
+http://103.186.200.4:8000/play/a00c
 
 EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/QnU70NI.png",METRO TV
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/manifest.mpd
