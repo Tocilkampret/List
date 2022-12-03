@@ -915,7 +915,7 @@ http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/115618
 https://m3u-editor.com/serve/8f7d7f50-3343-11ed-a319-8174b8937637/638029794
 
 #EXTINF:-1 tvg-id="Erz.Assp3" tvg-logo="https://www.citypng.com/public/uploads/preview/hd-bein-sports-hd-logo-png-116408184160mybrquevy.png" tvg-name"" group-title="Sports",beIN SPORTS HD
-
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/53185
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -934,22 +934,22 @@ https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8?shareext.ts
 
 #EXTINF:-1 tvg-id="beINSportsEnglish1.qa" tvg-logo="https://i.imgur.com/fA1VMU6.png" group-title="Sports",beIN SPORTS English 1
-http://channels227070.clientportal.link:80/peYWNNRdGm813/Pkwdu7284/15000
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/1136.ts
 
 #EXTINF:-1 tvg-id="beINSportsEnglish2.qa" tvg-logo="https://i.imgur.com/CuTvIIo.png" group-title="Sports",beIN SPORTS English 2
 http://channels227070.clientportal.link:80/peYWNNRdGm813/Pkwdu7284/15001
 
 #EXTINF:-1 tvg-id="beINSportsEnglish3.qa" tvg-logo="https://i.imgur.com/qUfw7db.png" group-title="Sports",beIN SPORTS English 3
-http://channels227070.clientportal.link:80/peYWNNRdGm813/Pkwdu7284/21517
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/1138.ts
 
 #EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_01_PREMIUM_HD" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_PREMIUM_Digital_Mono.png" group-title="Sports",beIN SPORTS PREMIUM 1
-http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test&v=697229347
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/94498
 
 #EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_02_PREMIUM_HD" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_PREMIUM_Digital_Mono.png" group-title="Sports",beIN SPORTS PREMIUM 2
-http://62.182.82.104/L_2_PREMIUM/index.m3u8?token=test&v=697229347
+http://jokeriptv.cf:8080/fifa2022/3ZvjYbKF8Yum/4045
 
 #EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_03_PREMIUM_HD" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_PREMIUM_Digital_Mono.png" group-title="Sports",beIN SPORTS PREMIUM 3
-http://62.182.82.104/L_3_PREMIUM/index.m3u8?token=test&v=697229347
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/94489
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -1041,7 +1041,7 @@ http://103.179.246.243:8000/play/a01a
 http://103.179.246.243:8000/play/a00k
 
 #EXTINF:-1 tvg-ID="" tvg-name="SUKAN RTM" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/Sukan_RTM_1_April.png/revision/latest/scale-to-width-down/300?cb=20210408125347" group-title="Sports",SUKAN RTM  
-https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b4596000_slENG.m3u8
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 
 #EXTINF:-1 tvg-ID="" tvg-name="ABU DHABI SPORTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Ad_sport_1.png" group-title="Sports",ABU DHABI SPORTS 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8   
