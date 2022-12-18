@@ -573,7 +573,7 @@ http://iptvid.my.id/hmm/flik.m3u8
 https://av-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
  
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/404_300.png/revision/latest/scale-to-width-down/200?cb=20171225070136" group-title="Movies",BOO
-
+http://50.7.220.74:8278/Boo/playlist.m3u8?tid=m13c9739e046716729882&ct=17910&tsum=385e1887564e255d1164e639259d5793
 
 #EXTINF:-1 tvg-id="BioskopIndonesia.id" tvg-name="Bioskop Indonesia" tvg-logo="https://i.imgur.com/tThW9R1.png" group-title="Movies",BIOSKOP INDONESIA
 
@@ -854,19 +854,19 @@ http://tv.zonanime.my.id/vidio/championstv3.m3u8
 https://ott-navigator.my.id/000143-356212-936581/vidionodes2/master.m3u8?channel=9045
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/71_144.png" group-title="Sports",astro SUPERSPORT
-http://alienstreams.fi/aleskoland@gmail.com/G3zDgaJ78f/97438.ts
+https://webdi.openhd.lol/lb/premium123/index.m3u8|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png" group-title="Sports",astro SUPERSPORT 2
-http://alienstreams.fi/aleskoland@gmail.com/G3zDgaJ78f/97437.ts
+https://webdi.openhd.lol/lb/premium124/index.m3u8|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="Sports",astro SUPERSPORT 3
-http://alienstreams.fi/aleskoland@gmail.com/G3zDgaJ78f/97436.ts
+https://webdi.openhd.lol/lb/premium125/index.m3u8|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="Sports",astro SUPERSPORT 4
-http://alienstreams.fi/aleskoland@gmail.com/G3zDgaJ78f/97435.ts
+https://webdi.openhd.lol/lb/premium126/index.m3u8|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-id="astrosupersport5.my" tvg-name="MY| Astro SuperSport 5 FHD" tvg-logo="https://i.imgur.com/ebpvrUx.png" group-title="Sports",astro SUPERSPORT 5
-http://alienstreams.fi/aleskoland@gmail.com/G3zDgaJ78f/97434.ts
+https://webdi.openhd.lol/lb/premium43/index.m3u8|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-id="Erz.Assp3" tvg-logo="https://www.citypng.com/public/uploads/preview/hd-bein-sports-hd-logo-png-116408184160mybrquevy.png" tvg-name"" group-title="Sports",beIN SPORTS HD
 http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/53185
