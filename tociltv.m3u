@@ -58,20 +58,14 @@ https://m3u-editor.com/serve/4853a990-00b0-11ed-8830-395cb43f41cb/595176128
 #http://iptvid.my.id/hmm/ochannel.m3u8
 http://tvn.x10.mx/1/master-13.m3u8?dl=1
 
-#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20235430_ico.png?ts=1654801607",TRANS TV
-http://iptvtree.net:8080/ace2524d/15a571c413/162503
+#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/512px-Trans_TV_2013.svg.png",TRANS TV
+https://anv-livechannel-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/512px-Trans_TV_2013.svg.png" group-title="TV Nasional",TRANSTV FHD
-#http://203.77.246.50:5000/udp/239.1.1.100:5000
-
-#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png",TRANS7 
-http://210.210.155.35/uq2663/h/h11/index.m3u8
-
-#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/fAbGImS.png",TRANS7 FHD
-#http://stream.semerutv.link:7780/freebies/EOti98qsWH/14
+#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/fAbGImS.png",TRANS7 
+https://anv-livechannel-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/Al8T2MD.png",tvOne
-http://103.186.200.4:8000/play/a00c
+https://anv-livechannel-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
 
 EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/QnU70NI.png",METRO TV
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/manifest.mpd
@@ -596,12 +590,12 @@ http://210.210.155.35/dr9445/h/h14/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9FHWBPcG/gem.png" group-title="Movies",GEM 
-#http://203.77.246.50:5000/udp/239.1.2.238:5000
+https://cdn09jtedge.indihometv.com/dvr/139/sgem/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0403e654ddab419db6cc72bb3fa51248&key=9d43bcc51f3750550d321cdc37e57cc9
 #EXTINF:-1 tvg-id="gem" tvg-name="gem" group-title="Movies" tvg-logo="https://telegra.ph/file/56b2a633e795a19f9b1d8.png",GEM
-https://tglmp01.akamaized.net/out/v1/acd34a6d1e2540f888793461457b77e1/manifest.mpd
+#https://tglmp01.akamaized.net/out/v1/acd34a6d1e2540f888793461457b77e1/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -848,10 +842,10 @@ https://ott-navigator.my.id/000143-356212-936581/vidionline33o69-tocil-tv-maling
 https://ott-navigator.my.id/000143-356212-936581/vidionline33o69-tocil-tv-maling/vidio_master.m3u8?channel=championstv2
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/1MBBBBN.png",CHAMPIONS TV 3
-https://ott-navigator.my.id/000143-356212-936581/vidionline33o69-tocil-tv-maling/vidio_master.m3u8?channel=championstv3
+#https://ott-navigator.my.id/000143-356212-936581/vidionline33o69-tocil-tv-maling/vidio_master.m3u8?channel=championstv3
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/AcBSHlM.png",CHAMPIONS TV GOAL
-https://ott-navigator.my.id/000143-356212-936581/vidionline33o69-tocil-tv-maling/vidio_master.m3u8?channel=championstvgoal
+#https://ott-navigator.my.id/000143-356212-936581/vidionline33o69-tocil-tv-maling/vidio_master.m3u8?channel=championstvgoal
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/71_144.png" group-title="Sports",astro SUPERSPORT
 https://webdi.openhd.lol/lb/premium123/index.m3u8|referer=https://streamservicehd.click/
