@@ -837,22 +837,22 @@ http://alstv.xyz/usee/bein2.m3u8
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8?shareext.ts
 
 #EXTINF:-1 tvg-id="beINSportsEnglish1.qa" tvg-logo="https://i.imgur.com/fA1VMU6.png" group-title="Sports",beIN SPORTS English 1
-https://webdi.openhd.lol/lb/premium61/index.m3u8|referer=https://streamservicehd.click/
+http://vip.tvxvip.com:25443/live/V578HLKQ67bh/Y2VGScCbdo/9153.m3u8
 
 #EXTINF:-1 tvg-id="beINSportsEnglish2.qa" tvg-logo="https://i.imgur.com/CuTvIIo.png" group-title="Sports",beIN SPORTS English 2
-https://webdi.openhd.lol/lb/premium90/index.m3u8|referer=https://streamservicehd.click/
+http://vip.tvxvip.com:25443/live/V578HLKQ67bh/Y2VGScCbdo/9154.m3u8
 
 #EXTINF:-1 tvg-id="beINSportsEnglish3.qa" tvg-logo="https://i.imgur.com/qUfw7db.png" group-title="Sports",beIN SPORTS English 3
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/1138.ts
+http://vip.tvxvip.com:25443/live/V578HLKQ67bh/Y2VGScCbdo/9155.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_01_PREMIUM_HD" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_PREMIUM_Digital_Mono.png" group-title="Sports",beIN SPORTS PREMIUM 1
-https://webdi.openhd.lol/lb/premium98/index.m3u8|referer=https://streamservicehd.click/
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_PREMIUM_Digital_Mono.png" group-title="Sports",beIN SPORTS PREMIUM 1
+http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=94496&extension=ts&play_token=TQ6cftyhX8
 
-#EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_02_PREMIUM_HD" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_PREMIUM_Digital_Mono.png" group-title="Sports",beIN SPORTS PREMIUM 2
-https://webdi.openhd.lol/lb/premium99/index.m3u8|referer=https://streamservicehd.click/
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_PREMIUM_Digital_Mono.png" group-title="Sports",beIN SPORTS PREMIUM 2
+http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=94492&extension=ts&play_token=TQ6cftyhX8
 
-#EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_03_PREMIUM_HD" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_PREMIUM_Digital_Mono.png" group-title="Sports",beIN SPORTS PREMIUM 3
-https://webdi.openhd.lol/lb/premium100/index.m3u8|referer=https://streamservicehd.click/
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_PREMIUM_Digital_Mono.png" group-title="Sports",beIN SPORTS PREMIUM 3
+http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=94488&extension=ts&play_token=TQ6cftyhX8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FjWQjdy.png" group-title="Sports",beIN SPORTS MAX 1
 https://webdi.openhd.lol/lb/premium296/index.m3u8|referer=https://streamservicehd.click/
@@ -938,19 +938,16 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mmX4kPb.png" group-title="Sports",SONY SIX
-http://103.179.246.243:8000/play/a00f
+https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_six_hd.smil/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R2dMhYE.png" group-title="Sports",SONY TEN 1
-#https://m3u-editor.com/serve/048feb20-21c5-11ed-80f4-4df2cd90d9ff/621652143
-http://103.179.246.243:8000/play/a00e
+https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten1_hd.smil/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LwGRMzj.png" group-title="Sports",SONY TEN 2
-#https://m3u-editor.com/serve/048feb20-21c5-11ed-80f4-4df2cd90d9ff/621652144
-http://103.179.246.243:8000/play/a01a
+https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten2_hd.smil/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z0f2olV.png" group-title="Sports",SONY TEN 3
-#https://m3u-editor.com/serve/048feb20-21c5-11ed-80f4-4df2cd90d9ff/621652145
-http://103.179.246.243:8000/play/a00k
+https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten3_hd.smil/manifest.mpd
 
 #EXTINF:-1 tvg-ID="" tvg-name="SUKAN RTM" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/Sukan_RTM_1_April.png/revision/latest/scale-to-width-down/300?cb=20210408125347" group-title="Sports",SUKAN RTM  
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
@@ -1090,13 +1087,13 @@ http://95.183.43.237:8080/259/index.m3u8
 http://95.183.43.237:8080/260/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.img09.xyz/assets/img/ch_logo/doomovie-epl1.png" group-title="Sports",true PREMIER FOOTBALL 1
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/115758
+https://sport.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
 
 #EXTINF:-1 tvg-logo="https://www.img09.xyz/assets/img/ch_logo/doomovie-epl2.png" group-title="Sports",true PREMIER FOOTBALL 2
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/115508
+https://sport.livedoomovies.com:4431/02_PremierHD2_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
 
 #EXTINF:-1 tvg-logo="https://www.img09.xyz/assets/img/ch_logo/doomovie-epl3.png" group-title="Sports",true PREMIER FOOTBALL 3
-http://king-tv.online:8080/live/gisle@/FDPWGufCmY/204634.ts
+https://sport.livedoomovies.com:4431/02_PremierHD3_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
 
 
 
