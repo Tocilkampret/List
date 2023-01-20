@@ -807,21 +807,6 @@ https://ott-navigator.my.id/000143-356212-936581/vidionline33o69-tocil-tv-maling
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/AcBSHlM.png",CHAMPIONS TV GOAL
 #https://ott-navigator.my.id/000143-356212-936581/vidionline33o69-tocil-tv-maling/vidio_master.m3u8?channel=championstvgoal
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/71_144.png" group-title="Sports",astro SUPERSPORT
-https://webdi.openhd.lol/lb/premium123/index.m3u8|referer=https://streamservicehd.click/
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png" group-title="Sports",astro SUPERSPORT 2
-https://webdi.openhd.lol/lb/premium124/index.m3u8|referer=https://streamservicehd.click/
-
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="Sports",astro SUPERSPORT 3
-https://webdi.openhd.lol/lb/premium125/index.m3u8|referer=https://streamservicehd.click/
-
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="Sports",astro SUPERSPORT 4
-https://webdi.openhd.lol/lb/premium126/index.m3u8|referer=https://streamservicehd.click/
-
-#EXTINF:-1 tvg-id="astrosupersport5.my" tvg-name="MY| Astro SuperSport 5 FHD" tvg-logo="https://i.imgur.com/ebpvrUx.png" group-title="Sports",astro SUPERSPORT 5
-https://webdi.openhd.lol/lb/premium43/index.m3u8|referer=https://streamservicehd.click/
-
 #EXTINF:-1 tvg-id="Erz.Assp3" tvg-logo="https://www.citypng.com/public/uploads/preview/hd-bein-sports-hd-logo-png-116408184160mybrquevy.png" tvg-name"" group-title="Sports",beIN SPORTS HD
 http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/53185
 
@@ -938,16 +923,24 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VvfnNP7v/Unifi-TV-Logo.png" group-title="Sports",Unifi Sports 2
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mmX4kPb.png" group-title="Sports",SONY SIX
+#EXTINF:-1 tvg-id="SonyTen1.in" tvg-logo="https://i.imgur.com/mmX4kPb.png" group-title="Sports",SONY SIX
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ce17264b317db108f19cdc11aa1a9e66:a21188aee8fc5c56d016fcffcc6b2295
 https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_six_hd.smil/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/R2dMhYE.png" group-title="Sports",SONY TEN 1
+#EXTINF:-1 tvg-id="SonyTen1.in" tvg-logo="https://i.imgur.com/R2dMhYE.png" group-title="Sports",SONY TEN 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ce17264b317db108f19cdc11aa1a9e66:a21188aee8fc5c56d016fcffcc6b2295
 https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten1_hd.smil/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LwGRMzj.png" group-title="Sports",SONY TEN 2
+#EXTINF:-1 tvg-id="SonyTen1.in" tvg-logo="https://i.imgur.com/LwGRMzj.png" group-title="Sports",SONY TEN 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ce17264b317db108f19cdc11aa1a9e66:a21188aee8fc5c56d016fcffcc6b2295
 https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten2_hd.smil/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/z0f2olV.png" group-title="Sports",SONY TEN 3
+#EXTINF:-1 tvg-id="SonyTen1.in" tvg-logo="https://i.imgur.com/z0f2olV.png" group-title="Sports",SONY TEN 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ce17264b317db108f19cdc11aa1a9e66:a21188aee8fc5c56d016fcffcc6b2295
 https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten3_hd.smil/manifest.mpd
 
 #EXTINF:-1 tvg-ID="" tvg-name="SUKAN RTM" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/Sukan_RTM_1_April.png/revision/latest/scale-to-width-down/300?cb=20210408125347" group-title="Sports",SUKAN RTM  
@@ -1062,33 +1055,34 @@ https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 
 #EXTINF:-1 tvg-id="SporTV" tvg-name="SporTV" tvg-logo="https://i.imgur.com/iweh0Li.png" group-title="Sports",SporTV
-http://acsa.ws:80/Jr123/Jr321/72329.ts
+https://newtest.webtv1.lol/lb/premium78/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-id="SporTV 2" tvg-name="SporTV 2" tvg-logo="https://i.imgur.com/AAdoNsr.png" group-title="Sports",SporTV 2
-http://acsa.ws:80/Jr123/Jr321/72321.ts
+https://newtest.webtv1.lol/lb/premium79/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-id="SporTV 3" tvg-name="SporTV 3" tvg-logo="https://i.imgur.com/RcpUcYG.png" group-title="Sports",SporTV 3
-http://acsa.ws:80/Jr123/Jr321/72325.ts
+https://newtest.webtv1.lol/lb/premium80/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/iKZvKyP.png",MATCH!
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/&Origin=https://player.licenses4.me
 https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Маtch Futbol 1" tvg-name="Маtch Futbol 1" tvg-logo="https://i.imgur.com/feOuhdq.png" group-title="Sports",Маtch Futbol 1
+#EXTINF:-1 tvg-id="Маtch Futbol 1" tvg-name="Маtch Futbol 1" tvg-logo="https://i.imgur.com/feOuhdq.png" group-title="Sports",MATCH Futbol 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://95.183.43.237:8080/258/index.m3u8
+https://newtest.webtv1.lol/lb/premium136/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
-#EXTINF:-1 tvg-id="Маtch Futbol 2" tvg-name="Маtch Futbol 2" tvg-logo="https://i.imgur.com/WhdGfSo.png" group-title="Sports",Маtch Futbol 2
+#EXTINF:-1 tvg-id="Маtch Futbol 2" tvg-name="Маtch Futbol 2" tvg-logo="https://i.imgur.com/WhdGfSo.png" group-title="Sports",МATCH Futbol 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://95.183.43.237:8080/259/index.m3u8
+https://newtest.webtv1.lol/lb/premium137/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
-#EXTINF:-1 tvg-id="Маtch Futbol 3" tvg-name="Маtch Futbol 3" tvg-logo="https://i.imgur.com/H9o21TM.png" group-title="Sports",Маtch Futbol 3
+#EXTINF:-1 tvg-id="Маtch Futbol 3" tvg-name="Маtch Futbol 3" tvg-logo="https://i.imgur.com/H9o21TM.png" group-title="Sports",МATCH Futbol 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://95.183.43.237:8080/260/index.m3u8
+https://newtest.webtv1.lol/lb/premium138/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://www.img09.xyz/assets/img/ch_logo/doomovie-epl1.png" group-title="Sports",true PREMIER FOOTBALL 1
-https://sport.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+https://youdooball.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.img09.xyz/assets/img/ch_logo/doomovie-epl2.png" group-title="Sports",true PREMIER FOOTBALL 2
 https://sport.livedoomovies.com:4431/02_PremierHD2_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
