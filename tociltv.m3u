@@ -512,10 +512,10 @@ https://av-live-cdn.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 #EXTINF:-1 group-title="Movies" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png",HITS MOVIES
 https://av-live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 
-#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png", Citra Bioskop
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/KK1ipNk.png", Citra Bioskop
 https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/6684.m3u8
 
-#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/KK1ipNk.png",Paramount Network
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/HcIihFY.png",Paramount Network
 #http://iptvid.my.id/hmm/paramount.m3u8
 http://alstv.xyz/usee/paramount.mpd
 
@@ -555,7 +555,7 @@ http://210.210.155.35/dr9445/h/h14/index.m3u8
 https://cdn09jtedge.indihometv.com/dvr/139/sgem/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://telegra.ph/file/56b2a633e795a19f9b1d8.png" group-title="Movies", GEM
-https://cdn09jtedge.indihometv.com/dvr/139/sgem/manifest.mpd
+https://tglmp01.akamaized.net/out/v1/acd34a6d1e2540f888793461457b77e1/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0403e654ddab419db6cc72bb3fa51248&key=9d43bcc51f3750550d321cdc37e57cc9
