@@ -978,20 +978,18 @@ https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=us
 #https://m3u-editor.com/serve/048feb20-21c5-11ed-80f4-4df2cd90d9ff/621652098
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gCTAxBl.png" group-title="Sports",SPORT TV+
-#http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342107
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HrZbL1l.png" group-title="Sports",SPORT TV1
-https://webdi.openhd.lol/lb/premium49/index.m3u8|referer=https://streamservicehd.click/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HrZbL1l.png" group-title="Sports",SPORT TV 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium49/index.m3u8|referer=https://streamservicehd.click/
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vlHIPhm.png" group-title="Sports",SPORT TV2
-https://webdi.openhd.lol/lb/premium74/index.m3u8|referer=https://streamservicehd.click/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vlHIPhm.png" group-title="Sports",SPORT TV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium74/index.m3u8|referer=https://streamservicehd.click/
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ff6jT2Q.png" group-title="Sports",SPORT TV3
-https://webdi.openhd.lol/lb/premium454/index.m3u8|referer=https://streamservicehd.click/
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/znSJhFV.png" group-title="Sports",SPORT TV4
-#http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342097
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ff6jT2Q.png" group-title="Sports",SPORT TV 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium454/index.m3u8|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-id="BTSport1.uk" tvg-logo="https://i.imgur.com/Wi7rhPs.png"  group-title="Sports",BT SPORT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -1026,12 +1024,12 @@ http://he11o.akadatel.com/iptv/47PC7ECLXZM7EV/2533/index.m3u8
 http://he11o.akadatel.com/iptv/47PC7ECLXZM7EV/2534/index.m3u8
 
 #EXTINF:-1 tvg-id="ElevenSports1Portugal.pt" tvg-logo="https://i.imgur.com/rw8Qr1l.png" group-title="Sports", ELEVEN 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.37 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://he11o.akadatel.com/iptv/47PC7ECLXZM7EV/2531/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://he11o.akadatel.com/iptv/47PC7ECLXZM7EV/2535/index.m3u8
 
 #EXTINF:-1 tvg-id="ElevenSports2Portugal.pt" tvg-logo="https://i.imgur.com/0dAM5uT.png" group-title="Sports", ELEVEN 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.38 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://he11o.akadatel.com/iptv/47PC7ECLXZM7EV/2532/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://he11o.akadatel.com/iptv/47PC7ECLXZM7EV/2536/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/512px-NBA_TV.svg.png" group-title="Sports",NBA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
