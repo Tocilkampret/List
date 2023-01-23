@@ -480,9 +480,6 @@ https://siloh.pluto.tv/lilo/production/Nick/02/master_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1wYnA2i.jpg" group-title="Kids",ZOO MOO
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BiznetKids.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="http://www.biznetvideo.net/images/video/poster/bizkids.jpg" group-title="Kids",B Kids 
-http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=qAri1M2xu_MAlnHwVRtOs24lR8Y_HSDijN2CRNghifUllhYqQSDlkd0qE8CkZwxC&bizkeylivestarttime=0
-
 
 °°° Movies °°°
 
@@ -770,9 +767,6 @@ http://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/EGG_Network_Logo_used_since_2016.png" tvg-id="eGG.MACAN" tvg-name="egg network" group-title="Entertainment & Lifestyle",Egg Network
 http://playlist.urfan.web.id/uq2663/h/h22/01.m3u8
 
-#EXTINF:-1 tvg-id="BiznetLifestyle.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="http://www.biznetvideo.net/images/video/poster/bizlifestyle.jpg" group-title="Entertainment & Lifestyle",Biznet Lifestyle
-http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=jgDKPclcGdZfvrIDxfMdpT7v_srMWCbubntGo9cCYWpcBBQalMlLQxHswm43PbVR&bizkeylivestarttime=0
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Snn3JUh.png" group-title="Entertainment & Lifestyle",Zing
 #http://203.77.246.50:5000/udp/239.1.1.232:5000
 
@@ -808,10 +802,11 @@ https://ott-navigator.my.id/000143-356212-936581/vidionline33o69-tocil-tv-maling
 http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/53185
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/Vtk2cGI.png",beIN SPORTS 1
-http://194.233.71.141:5566/play/Bein1-U/index.m3u8
+#http://194.233.71.141:5566/play/Bein1-U/index.m3u8
+http://103.167.167.5:8111/play/a02m/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/UYSMao3.png",beIN SPORTS 3
-http://alstv.xyz/usee/bein2.m3u8
+http://103.167.167.5:8111/play/a02n/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x8049OP.png" group-title="Sports",beIN SPORTS XTRA
 #http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c82b290-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=672c13ed-c11c-4ba2-b749-117f2f0aab45&userId=&serverSideAds=true
