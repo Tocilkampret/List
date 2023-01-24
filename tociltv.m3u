@@ -409,6 +409,10 @@ http://208.86.19.13:81/14.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/512px-Disney_Junior.svg.png" group-title="Kids",DISNEY JUNIOR
 http://sverigeplay.tv/play/live.php?mac=00:1A:79:41:98:CF&stream=16770&extension=ts&play_token=kfWzTSKetQ
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/512px-Disney_XD_-_2015.svg.png" group-title="Kids" tvg-rec="3", Disney XD
+#EXTGRP:USA
+http://a0bn5xro.rostelekom.xyz/iptv/Y4TCLSTRUETTUS/1082/index.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/YtKEGk4.png",Baby TV 
@@ -773,13 +777,8 @@ https://av-live-cdn.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
 http://210.210.155.35/uq2663/h/h08/01.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/512px-KBS_World_%282009%29.svg.png" group-title="Entertainment & Lifestyle",KBS WORLD
-http://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/EGG_Network_Logo_used_since_2016.png" tvg-id="eGG.MACAN" tvg-name="egg network" group-title="Entertainment & Lifestyle",Egg Network
-http://playlist.urfan.web.id/uq2663/h/h22/01.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Snn3JUh.png" group-title="Entertainment & Lifestyle",Zing
-#http://203.77.246.50:5000/udp/239.1.1.232:5000
 
 
 
