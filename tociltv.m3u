@@ -17,12 +17,14 @@ http://103.167.167.5:8111/play/a01c/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/jjuKnYs.png",GTV
 #https://liveanevia.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
-https://av-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+#https://av-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+http://103.167.167.5:8111/play/a014/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/SK8pjQy.png",MNCTV 
-https://av-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+#https://av-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+http://103.167.167.5:8111/play/a011/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -30,10 +32,12 @@ https://av-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 https://av-live-cdn.mncnow.id:443/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png" group-title="TV Nasional",INDOSIAR
-http://mpwtv.my.id/vidioye/205-indosiar.m3u8
+#http://mpwtv.my.id/vidioye/205-indosiar.m3u8
+http://103.167.167.5:8111/play/a00r/index.m3u8
 
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/EMmOvnQ.png",SCTV 
-http://mpwtv.my.id/vidioye/204-sctv.m3u8
+#http://mpwtv.my.id/vidioye/204-sctv.m3u8
+http://103.167.167.5:8111/play/a00o/index.m3u8
 
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2022/08/14/932587078.jpg",moji
 #https://m3u-editor.com/serve/4853a990-00b0-11ed-8830-395cb43f41cb/595176128
@@ -50,8 +54,8 @@ https://devds.site/api/v.m3u8?ch=transtv
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/fAbGImS.png",TRANS7 
-http://liveaneviadev.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
-#https://devds.site/api/v.m3u8?ch=trans7
+#http://liveaneviadev.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
+https://devds.site/api/v.m3u8?ch=trans7
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -60,11 +64,12 @@ http://liveaneviadev.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 https://devds.site/api/v.m3u8?ch=tvone
 
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/QnU70NI.png",METRO TV
-#https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/manifest.mpd
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/manifest.mpd
 
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/QnU70NI.png",METRO TV 
 #http://210.210.155.35/uq2663/h/h12/index.m3u8
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+#http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+http://103.167.167.5:8111/play/a00c/index.m3u8
 
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rajawali_tv_id.png",rtv
 http://210.210.155.37/dr9445/h/h10/index.m3u8
@@ -839,15 +844,6 @@ http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=94492&extens
 
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_PREMIUM_Digital_Mono.png" group-title="Sports",beIN SPORTS PREMIUM 3
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=94488&extension=ts&play_token=TQ6cftyhX8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FjWQjdy.png" group-title="Sports",beIN SPORTS MAX 1
-https://webdi.openhd.lol/lb/premium296/index.m3u8|referer=https://streamservicehd.click/
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5dBc5rn.png" group-title="Sports",beIN SPORTS MAX 2
-https://webdi.openhd.lol/lb/premium297/index.m3u8|referer=https://streamservicehd.click/
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ThcM2LE.png" group-title="Sports",beIN SPORTS MAX 3
-https://webdi.openhd.lol/lb/premium299/index.m3u8|referer=https://streamservicehd.click/
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
