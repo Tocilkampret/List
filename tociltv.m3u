@@ -64,7 +64,7 @@ https://devds.site/api/v.m3u8?ch=trans7
 https://devds.site/api/v.m3u8?ch=tvone
 
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/QnU70NI.png",METRO TV
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/manifest.mpd
+#https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/manifest.mpd
 
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/QnU70NI.png",METRO TV 
 #http://210.210.155.35/uq2663/h/h12/index.m3u8
@@ -410,7 +410,6 @@ http://208.86.19.13:81/14.stream/index.m3u8
 http://sverigeplay.tv/play/live.php?mac=00:1A:79:41:98:CF&stream=16770&extension=ts&play_token=kfWzTSKetQ
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/512px-Disney_XD_-_2015.svg.png" group-title="Kids" tvg-rec="3", Disney XD
-#EXTGRP:USA
 http://a0bn5xro.rostelekom.xyz/iptv/Y4TCLSTRUETTUS/1082/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
