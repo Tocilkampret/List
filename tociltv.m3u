@@ -538,7 +538,8 @@ https://av-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/Ind
 http://50.7.220.74:8278/Boo/playlist.m3u8?tid=m13c9739e046716729882&ct=17910&tsum=385e1887564e255d1164e639259d5793
 
 #EXTINF:-1 tvg-id="BioskopIndonesia.id" tvg-name="Bioskop Indonesia" tvg-logo="https://i.imgur.com/tThW9R1.png" group-title="Movies",BIOSKOP INDONESIA
-https://cdn09jtedge.indihometv.com/atemedvr/1673923997/0/BIOSKOPINDO_AT/BIOSKOPINDO_AT.mpd
+#KODIPROP:inputstream.adaptive.license_key=http://alstv.xyz/proxy?live=bioskopindonesia&type=drm 
+http://alstv.xyz/usee/bioskopindonesia.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3B145Ej.png" group-title="Movies",SINEMA INDONESIA
 #http://203.77.246.50:5000/udp/239.1.1.74:5000
