@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/vidio.com.xml, https://iptv-org.github.io/epg/guides/id/useetv.com.xml, https://iptv-org.github.io/epg/guides/id/mncvision.id.xml, https://iptv-org.github.io/epg/guides/ms/astro.com.my.xml, https://iptv-org.github.io/epg/guides/id/transvision.co.id.xml, https://raw.githubusercontent.com/awiouy/webgrabplus/master/config/siteini.pack/USA/tv.com.channels.xml, https://macan.tv/xmltv.php?username=epg&password=epg" refresh="3600"
 
-
+#EXTM3U billed-msg="🔥 WELCOME 🔥" 
 
 °°° TV Nasional °°°
 
@@ -312,7 +312,8 @@ https://av-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.m
 http://103.167.167.5:8111/play/a01d/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/512px-Love_Nature_TV.png" group-title="Knowledge",LOVe NaTURe
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dd6b1da79e4d0007309455/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dd6b1da79e4d0007309455/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+http://iptvtree.net:8080/SBTV/Ysw3NTUryCBjUcfu/78665
 
 #EXTINF:-1 tvg-id="LoveNature.uk" tvg-name="LOVE NATURE4K" tvg-logo="https://i.imgur.com/oDacp1F.png" group-title="Knowledge",LOVe NaTURe 4K
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -784,7 +785,7 @@ https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/QDZrBDi.png",MOTORVISIONTV
 http://210.210.155.35:80/uq2663/h/h09/01.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://z-m-scontent.fcgk3-2.fna.fbcdn.net/v/t39.30808-6/307117640_426912059548645_3473990586616213803_n.png?_nc_cat=103&ccb=1-7&_nc_sid=85a577&efg=eyJpIjoibyJ9&_nc_eui2=AeEpijrUlPZWOINw462PSAwIkTxXUHETWMSRPFdQcRNYxGGSXHBwX8s6Y_b17Q-T1EAMZ4tegwB2n87KoEKsoTFz&_nc_ohc=MsDWRkL117YAX9bn2u6&_nc_ad=z-m&_nc_cid=1101&_nc_eh=3a765718e0bed08b2ad67fbc11e4794f&_nc_zt=23&_nc_rml=0&_nc_ht=z-m-scontent.fcgk3-2.fna&oh=00_AT-2qiSgVHPcAALp0dLPbmeq1whaJh5ExywHA7oG74FgyQ&oe=63467CA9" group-title="Sports",mOTOR RaCING
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/c5315a189195023bf96bd76161880f5a.png" group-title="Sports",mOTOR RaCING
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/047f241e-6a2f-4d8a-baac-3d0eb93758aa/2.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/7NeBmWX.jpg",Red Bull TV
@@ -948,10 +949,10 @@ https://insighttv-vizio.amagi.tv/playlist.m3u8
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/0y6DWtYs/usee-Sport.png",Usee Sports
-http://alstv.xyz/usee/useesport.mpd
+https://iplogger.org/USEE1-shareext
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/jJY4VIw.png",Usee Sports 2
-http://alstv.xyz/usee/useesports2.mpd
+https://iplogger.org/USEE2-shareext
 
 
 
