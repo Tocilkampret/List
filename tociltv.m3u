@@ -956,11 +956,13 @@ https://iplogger.org/USEE2-shareext
 
 #EXTINF:-1 tvg-id="UseeSports.dukun" tvg-logo="https://i.postimg.cc/0y6DWtYs/usee-Sport.png" group-title="Sports", Usee Sports 1 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=http://alstv.xyz/proxy?live=useesport&type=drm http://alstv.xyz/usee/useesport.mpd 
+#KODIPROP:inputstream.adaptive.license_key=http://alstv.xyz/proxy?live=useesport&type=drm 
+http://alstv.xyz/usee/useesport.mpd 
 
 #EXTINF:-1 tvg-id="UseeSports2.dukun" tvg-logo="https://i.imgur.com/jJY4VIw.png" group-title="Sports", Usee Sports 2 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=http://alstv.xyz/proxy?live=useesports2&type=drm http://alstv.xyz/usee/useesports2.mpd
+#KODIPROP:inputstream.adaptive.license_key=http://alstv.xyz/proxy?live=useesports2&type=drm 
+http://alstv.xyz/usee/useesports2.mpd
 
 ##########################
 
