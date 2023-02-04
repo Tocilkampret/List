@@ -1061,9 +1061,6 @@ https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="Sportv 4K " tvg-logo="https://i.imgur.com/eHJ8Vm3.png" group-title="Sports",Sportv 4K
-http://pdsrv.io:80/Janainarodrigues/21964894529/100330
-
 #EXTINF:-1 tvg-id="SporTV" tvg-name="SporTV" tvg-logo="https://i.imgur.com/iweh0Li.png" group-title="Sports",sportv
 https://newtest.webtv1.lol/lb/premium78/index.m3u8|referer=https://widevine.licenses4.me/
 
@@ -1093,9 +1090,6 @@ https://newtest.webtv1.lol/lb/premium137/index.m3u8?|referer=https://widevine.li
 #EXTINF:-1 tvg-id="Маtch Futbol 3" tvg-name="Маtch Futbol 3" tvg-logo="https://i.imgur.com/H9o21TM.png" group-title="Sports",МATCH Futbol 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://newtest.webtv1.lol/lb/premium138/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-
-#EXTINF:-1 tvg-id="espn.brasil.br" tvg-name="ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/512px-ESPN_4_logo.svg.png" group-title="Sports", ESPN 4 
-http://pdsrv.io:80/Janainarodrigues/21964894529/97492
 
 #EXTINF:1 tvg-id="TruePremierFootball1.th" tvg-logo="https://i.imgur.com/goTVVel.png" group-title="Sports", true PREMIER FOOTBALL 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
