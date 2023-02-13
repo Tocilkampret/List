@@ -514,12 +514,13 @@ https://av-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
 https://av-live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/KK1ipNk.png", Citra Bioskop
-https://is.gd/ZIBXS7
+#https://is.gd/ZIBXS7
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbSvWbvP5aGJAq2bfRqWULVUtK9s0bOSvT4r8ttIc&s" group-title="Movies",FLIK 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=http://alstv.xyz/proxy?live=flik&type=drm 
-http://alstv.xyz/usee/flik.mpd
+#http://alstv.xyz/usee/flik.mpd
+http://iptvid.my.id/hmm/flik.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -634,7 +635,8 @@ http://210.210.155.35/dr9445/h/h16/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/HcIihFY.png",Paramount Network
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=http://alstv.xyz/proxy?live=paramount&type=drm 
-http://alstv.xyz/usee/paramount.mpd
+#http://alstv.xyz/usee/paramount.mpd
+http://iptvid.my.id/hmm/paramount.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -928,7 +930,7 @@ http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/41
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_PREMIUM_Digital_Mono.png" group-title="Sports+",beIN SPORTS PREMIUM 3
 http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/42
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ImjhA9L.png" group-title="Sports+",beIN SPORTS XTRA en Español
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ImjhA9L.png" group-title="Sports+",beIN SPORTS XTRA ñ
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8?shareext.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png" group-title="Sports+", ESPN
@@ -1255,7 +1257,6 @@ https://alhijrahmedia.com/tv-alhijrah-live-streaming/
 
 EXTINF:-1 tvg-id="011" tvg-name="" tvg-country="MY" tvg-language="Malay" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Saluran_Berita_RTM.png/revision/latest/scale-to-width-down/250?cb=20200914155210" tvg-url="" group-title="Malaysia",RTM Berita
 https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
-
 
 
 
