@@ -35,7 +35,6 @@ http://103.167.167.5:8111/play/a00r/index.m3u8
 
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/EMmOvnQ.png",SCTV 
 http://mpwtv.my.id/vidioye/204-sctv.m3u8
-#http://103.167.167.5:8111/play/a00o/index.m3u8
 
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2022/08/14/932587078.jpg",moji
 #https://m3u-editor.com/serve/4853a990-00b0-11ed-8830-395cb43f41cb/595176128
@@ -54,7 +53,8 @@ http://mpwtv.my.id/vidioye/733-trans.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #https://avi-live-channel-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
-http://mpwtv.my.id/vidioye/734-trans7.m3u8
+#http://mpwtv.my.id/vidioye/734-trans7.m3u8
+http://103.167.167.5:8111/play/a00o/index.m3u8
 
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/Al8T2MD.png",tvOne
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -76,8 +76,8 @@ http://210.210.155.37/dr9445/h/h10/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #https://av-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
-#https://video.jixie.media/live-test/kompastv.m3u8
-http://203.29.26.22:8000/play/a05n/index.m3u8
+https://video.jixie.media/live-test/kompastv.m3u8
+#http://203.29.26.22:8000/play/a05n/index.m3u8
 
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png",TVRI Nasional
 #http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/index.m3u8
