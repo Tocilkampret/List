@@ -17,8 +17,8 @@ https://nxanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/jjuKnYs.png",GTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#https://nxanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
-http://103.167.167.5:8111/play/a014/index.m3u8
+https://nxanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+#http://103.167.167.5:8111/play/a014/index.m3u8
 
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/SK8pjQy.png",MNCTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -50,7 +50,7 @@ http://javahome.my.id:9090/play/do8jBLP2kjOtczXd30khId4SNptgwqMK_-tTEYELHtk/ts
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/512px-Trans_TV_2013.svg.png",TRANS TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-https://avi-live-channel-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
+https://anevi-live-channel-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/fAbGImS.png",TRANS7
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -184,9 +184,8 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NTCI3lf.png" group-title="News",METRO GLOBE NETWORK
 https://edge.medcom.id/live-edge/smil:mgnch.smil/chunklist_w192763708_b3884000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/URaR9Fg.png" group-title="News",JAKARTA GLOBE
-https://b1english.beritasatumedia.com/Beritasatu/B1English_1280x720.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fdygcVx.png" group-title="News", BTV
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/BeritaSatu_%28Indonesian_news_channel%29.png/512px-BeritaSatu_%28Indonesian_news_channel%29.png",BERITA SATU
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -387,7 +386,7 @@ https://nxanv-live-cdn.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/DreamWorks_Channel_Logo.svg/512px-DreamWorks_Channel_Logo.svg.png" group-title="Kids",DREAMWORKS
 #http://clientsportals.com:80/live/d4Je5xwD/yadTXB63/35394.m3u8
-http://iptvid.my.id/hmm/dreamworks.m3u8
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
@@ -539,7 +538,7 @@ https://nxanv-live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 https://nxanv-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
  
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/404_300.png/revision/latest/scale-to-width-down/200?cb=20171225070136" group-title="Movies",BOO
-http://50.7.220.74:8278/Boo/playlist.m3u8?tid=m13c9739e046716729882&ct=17910&tsum=385e1887564e255d1164e639259d5793
+#http://50.7.220.74:8278/Boo/playlist.m3u8?tid=m13c9739e046716729882&ct=17910&tsum=385e1887564e255d1164e639259d5793
 
 #EXTINF:-1 tvg-id="BioskopIndonesia.id" tvg-name="Bioskop Indonesia" tvg-logo="https://i.imgur.com/tThW9R1.png" group-title="Movies",BIOSKOP INDONESIA
 #KODIPROP:inputstream.adaptive.license_key=http://alstv.xyz/proxy?live=bioskopindonesia&type=drm 
@@ -554,15 +553,14 @@ http://50.7.220.74:8278/Boo/playlist.m3u8?tid=m13c9739e046716729882&ct=17910&tsu
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/X7OZ3w5.png",Celestial Classic Movies
-#https://nxanv-live-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
-http://103.167.167.5:8111/play/a01r/index.m3u8
+https://nxanv-live-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
+#http://103.167.167.5:8111/play/a01r/index.m3u8
 
 #EXTINF:-1 tvg-id="CelestialMovies.hk" tvg-country="BD;BN;HK;ID;MY;SG;TW" tvg-language="Chinese" tvg-logo="https://i.imgur.com/KYP1xXZ.png" group-title="Movies",CELESTIAL MOVIES
 http://210.210.155.35/dr9445/h/h14/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/ywAjzqJ.png" group-title="Movies", haari movie 
 http://103.167.167.5:8111/play/a00h/index.m3u8
-
 
 #EXTINF:-1 tvg-id="gem" tvg-name="gem" group-title="Movies" tvg-logo="https://telegra.ph/file/56b2a633e795a19f9b1d8.png",GEM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -913,10 +911,10 @@ https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/0y6DWtYs/usee-Sport.png",Usee Sports  
-https://bit.ly/useeSports-1-shareext-ts
+#https://bit.ly/useeSports-1-shareext-ts
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/jJY4VIw.png",Usee Sports 2
-https://bit.ly/useesports-2-shareext-ts
+#https://bit.ly/useesports-2-shareext-ts
 
 #EXTINF:-1 tvg-ID="" tvg-name="SUKAN RTM" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/Sukan_RTM_1_April.png/revision/latest/scale-to-width-down/300?cb=20210408125347" group-title="Sports",SUKAN RTM  
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
