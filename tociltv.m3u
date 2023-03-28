@@ -829,23 +829,18 @@ http://103.167.167.5:8111/play/a01q/index.m3u8
 #EXTINF:-1 tvg-id="ChampionsTV3.id" tvg-name="ChampionsTV3.id" tvg-logo="https://i.imgur.com/xVwVIj6.png" group-title="Sports", CHAMPIONS TV 3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=http://203.194.113.31/test/rock.php?id=6786
+#KODIPROP:inputstream.adaptive.license_key=https://mooncang.my.id/api/vidio/drm.php?id=9183
 https://production-drm-vidio-com-event-3.akamaized.net/out/v1/ee66c2e0b8784d3d9f9585af6bdf9109/index.mpd
 
 #EXTINF:-1 tvg-id="ChampionsTV2.id" tvg-name="ChampionsTV2.id" tvg-logo="https://thumbor.prod.vidiocdn.com/d-s_Kf07gVolGnnU78fa7Zwe6OA=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-7838ab.jpg" group-title="Sports", CHAMPIONS TV 5 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://mooncang.my.id/api/vidio/drm.php?id=9182 
+#KODIPROP:inputstream.adaptive.license_key=https://mooncang.my.id/api/vidio/drm.php?id=9183 
 https://production-drm-vidio-com-ctv-5.akamaized.net/out/v1/6b83fda0adee41598d5e1a7097ddb8b5/index.mpd 
 
 #EXTINF:-1 tvg-id="ChampionsTV2.id" tvg-name="ChampionsTV2.id" tvg-logo="https://thumbor.prod.vidiocdn.com/M-OjFdz5vPoCtfuqZ8PoJF4Pe0g=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-c8e810.jpg" group-title="Sports", CHAMPIONS TV 6 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mooncang.my.id/api/vidio/drm.php?id=9183 
 https://prod-drm-vidio-com-ctv-6.akamaized.net/out/v1/8ecc1b702b4a4871b51304a9cb82d561/index.mpd
-
-#EXTINF:0 tvg-id="ext" group-title="3. SPORTS" user-agent=""Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"",3. CHAMPIONS TV 3
-https://production-drm-vidio-com-event-3.akamaized.net/out/v1/ee66c2e0b8784d3d9f9585af6bdf9109/index.mpd
-
-#EXTINF:0 tvg-id="ext" group-title="3. SPORTS" user-agent=""Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"",3. CHAMPIONS TV 5
-https://production-drm-vidio-com-ctv-5.akamaized.net/out/v1/6b83fda0adee41598d5e1a7097ddb8b5/index.mpd
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/1MBBBBN.png",CHAMPIONS TV 3
 #https://ott-navigator.my.id/000143-356212-936581/vidionline33o69-tocil-tv-maling/vidio_master.m3u8?channel=championstv3
