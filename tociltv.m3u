@@ -828,7 +828,7 @@ http://103.167.167.5:8111/play/a01q/index.m3u8
 
 #EXTINF:-1 tvg-id="ChampionsTV3.id" tvg-name="ChampionsTV3.id" tvg-logo="https://i.imgur.com/xVwVIj6.png" group-title="Sports", CHAMPIONS TV 3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://mooncang.my.id/api/vidio/drm.php?id=9183
+#KODIPROP:inputstream.adaptive.license_key=https://mooncang.my.id/api/vidio/drm.php?id=6786
 https://production-drm-vidio-com-event-3.akamaized.net/out/v1/ee66c2e0b8784d3d9f9585af6bdf9109/index.mpd
 KODIPROP:inputstream.adaptive.license_key=http://203.194.113.31/test/rock.php?id=6786
 
