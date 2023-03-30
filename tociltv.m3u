@@ -867,6 +867,10 @@ https://mooncang.my.id/api/vidio/ch.mpd?id=9431&code=world-cup-2
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-039/stream.mpd
 #https://pencuri.mammothtv.workers.dev/dash-wv/linear/408/default_primary.mpd
 
+#EXTINF:-1 tvg-id="beINSportsUSA.us" tvg-logo="https://logowik.com/content/uploads/images/bein-sports-hd.jpg" group-title="Sports",beIN SPORTS HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.onlinewebtv.lol/lb/premium425/index.m3u8?|referer=https://widevine.licenses4.me/
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/Vtk2cGI.png",beIN SPORTS 1
 #http://194.233.71.141:5566/play/Bein1-U/index.m3u8
 http://103.167.167.5:8111/play/a02m/index.m3u8
@@ -969,9 +973,8 @@ http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/42
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PsL4AzP.png" group-title="Sports+", beIN SPORTS XTRA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 group-title="Sports+" tvg-logo="https://i.imgur.com/6hQkqEL.png", beIN SPORTS XTRA ñ
+#EXTINF:-1 tvg-id="beINSportsXtraenEspanol.us" group-title="Sports+" tvg-logo="https://i.imgur.com/6hQkqEL.png", beIN SPORTS XTRA ñ
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a121ad30-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ac3bc3c0-b26f-4c9c-8c94-988af191404a&userId=&serverSideAds=true
-
 
 #EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-logo="https://i.imgur.com/X2WVnWr.png" group-title="Sports+",Astro Supersport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
