@@ -35,10 +35,11 @@ http://mpwtv.my.id/vidioye/204-sctv.m3u8
 
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2022/08/14/932587078.jpg",moji
 #https://m3u-editor.com/serve/4853a990-00b0-11ed-8830-395cb43f41cb/595176128
+https://dl.dropboxusercontent.com/s/qcoxpjuwsaccqc1/moji.m3u8
 
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/D70rSkE.png",moji
 #http://210.210.155.37/qwr9ew/s/s41/index.m3u8
-http://javahome.my.id:9090/play/do8jBLP2kjOtczXd30khId4SNptgwqMK_-tTEYELHtk/ts
+#http://javahome.my.id:9090/play/do8jBLP2kjOtczXd30khId4SNptgwqMK_-tTEYELHtk/ts
 
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/512px-Trans_TV_2013.svg.png",TRANS TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -430,6 +431,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db0ad56edc89300090
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22549d5eeee0f5a4094ba/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ka5OY8k.png" group-title="Kids",Mentari TV
+https://dl.dropboxusercontent.com/s/wexbmnhxsy2902x/mentaritv.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/nuzIBbN.png" group-title="Kids",moonbug Kids
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
@@ -830,12 +832,12 @@ KODIPROP:inputstream.adaptive.license_key=http://203.194.113.31/test/rock.php?id
 #EXTINF:-1 tvg-id="Erz.Assp3" tvg-logo="https://www.citypng.com/public/uploads/preview/hd-bein-sports-hd-logo-png-116408184160mybrquevy.png" tvg-name"" group-title="Sports",beIN SPORTS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-039/stream.mpd
+#https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-039/stream.mpd
 #https://pencuri.mammothtv.workers.dev/dash-wv/linear/408/default_primary.mpd
 
 #EXTINF:-1 tvg-id="beINSportsUSA.us" tvg-logo="https://logowik.com/content/uploads/images/bein-sports-hd.jpg" group-title="Sports",beIN SPORTS HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#https://webudit.onlinewebtv.lol/lb/premium425/index.m3u8?|referer=https://widevine.licenses4.me/
+https://webudit.onlinewebtv.lol/lb/premium425/index.m3u8?|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/Vtk2cGI.png",beIN SPORTS 1
 https://beetv.my.id/x/usee-bein1-masihsama.m3u8
