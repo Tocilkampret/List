@@ -608,7 +608,7 @@ http://210.210.155.35/dr9445/h/h16/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/HcIihFY.png",Paramount Network
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=http://alstv.xyz/proxy?live=paramount&type=drm 
-http://usee.otto.my.id/uuse/paramount.m3u8 //http://alstv.xyz/usee/paramount.mpd
+http://usee.otto.my.id/uuse/paramount.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
