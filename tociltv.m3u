@@ -1,6 +1,6 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/us.xml, https://raw.githubusercontent.com/pendy99/iptv-epg/main/epg_ID.xml" refresh="3600"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/us.xml " refresh="3600"
 
-#https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml, https://epg.pw/xmltv/epg_ID.xml, https://iptv-org.github.io/epg/guides/id/indihometv.com.xml, https://iptv-org.github.io/epg/guides/id/mncvision.id.xml, https://iptv-org.github.io/epg/guides/id/transvision.co.id.xml, https://iptv-org.github.io/epg/guides/id/vidio.com.xml, https://iptv-org.github.io/epg/guides/ms/astro.com.my.xml, https://iptv-org.github.io/epg/guides/en/unifi.com.my.xml" refresh="3600"
+#https://raw.githubusercontent.com/pendy99/iptv-epg/main/epg_ID.xml, https://epg.pw/xmltv/epg_ID.xml, https://iptv-org.github.io/epg/guides/id/indihometv.com.xml, https://iptv-org.github.io/epg/guides/id/mncvision.id.xml, https://iptv-org.github.io/epg/guides/id/transvision.co.id.xml, https://iptv-org.github.io/epg/guides/id/vidio.com.xml, https://iptv-org.github.io/epg/guides/ms/astro.com.my.xml, https://iptv-org.github.io/epg/guides/en/unifi.com.my.xml" refresh="3600"
 
 
 
