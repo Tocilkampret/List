@@ -980,25 +980,25 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df975e2b27cf5000921c1
 #EXTINF:-1 tvg-id="beINSportsXtraenEspanol.us" group-title="Sports+" tvg-logo="https://i.imgur.com/6hQkqEL.png", beIN SPORTS XTRA ñ
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a121ad30-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ac3bc3c0-b26f-4c9c-8c94-988af191404a&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-logo="https://i.imgur.com/X2WVnWr.png" group-title="Sports+",Astro Supersport
+#EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-logo="https://i.imgur.com/X2WVnWr.png" group-title="Sports+", ASTRO SUPERSPORT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.onlinewebtv.lol/lb/premium123/index.m3u8?|referer=https://widevine.licenses4.me/
+https://webudit.salamus1.lol/lb/premium123/index.m3u8?|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-logo="https://i.imgur.com/AZQ0xgp.png" group-title="Sports+",Astro Supersport 2
+#EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-logo="https://i.imgur.com/AZQ0xgp.png" group-title="Sports+", ASTRO SUPERSPORT 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.onlinewebtv.lol/lb/premium124/index.m3u8?|referer=https://widevine.licenses4.me/
+https://webudit.salamus1.lol/lb/premium124/index.m3u8?|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-logo="https://i.imgur.com/cMYSM6e.png" group-title="Sports+",Astro Supersport 3
+#EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-logo="https://i.imgur.com/cMYSM6e.png" group-title="Sports+", ASTRO SUPERSPORT 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.onlinewebtv.lol/lb/premium125/index.m3u8?|referer=https://widevine.licenses4.me/
+https://webudit.salamus1.lol/lb/premium125/index.m3u8?|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-logo="https://i.imgur.com/PlwrDwx.png" group-title="Sports+",Astro Supersport 4
+#EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-logo="https://i.imgur.com/PlwrDwx.png" group-title="Sports+", ASTRO SUPERSPORT 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.onlinewebtv.lol/lb/premium126/index.m3u8?|referer=https://widevine.licenses4.me/
+https://webudit.salamus1.lol/lb/premium126/index.m3u8?|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-id="AstroSuperSport5.my" tvg-logo="https://i.imgur.com/FieopQP.png" group-title="Sports+",Astro Supersport 5
+#EXTINF:-1 tvg-id="AstroSuperSport5.my" tvg-logo="https://i.imgur.com/FieopQP.png" group-title="Sports+", ASTRO SUPERSPORT 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.onlinewebtv.lol/lb/premium43/index.m3u8?|referer=https://widevine.licenses4.me/
+https://webudit.salamus1.lol/lb/premium43/index.m3u8?|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png" group-title="Sports+",MUTV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8
