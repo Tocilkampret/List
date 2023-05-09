@@ -951,28 +951,32 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 #EXTINF:-1 tvg-id="beINSportsEnglish1.qa" tvg-logo="https://i.imgur.com/fA1VMU6.png" group-title="Sports+",beIN SPORTS English 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://webudit.onlinewebtv.lol/lb/premium61/index.m3u8
+https://webudit.salamus1.lol/lb/premium61/index.m3u8
 
 #EXTINF:-1 tvg-id="beINSportsEnglish2.qa" tvg-logo="https://i.imgur.com/CuTvIIo.png" group-title="Sports+",beIN SPORTS English 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.onlinewebtv.lol/lb/premium90/index.m3u8?|referer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+https://webudit.salamus1.lol/lb/premium90/index.m3u8
 
 #EXTINF:-1 tvg-id="beINSportsEnglish3.qa" tvg-logo="https://i.imgur.com/qUfw7db.png" group-title="Sports+",beIN SPORTS English 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://webudit.onlinewebtv.lol/lb/premium46/index.m3u8
+https://webudit.salamus1.lol/lb/premium46/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_PREMIUM_Digital_Mono.png" group-title="Sports+",beIN SPORTS PREMIUM 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.onlinewebtv.lol/lb/premium98/index.m3u8?|referer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+https://webudit.salamus1.lol/lb/premium98/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_PREMIUM_Digital_Mono.png" group-title="Sports+",beIN SPORTS PREMIUM 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.onlinewebtv.lol/lb/premium99/index.m3u8?|referer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+https://webudit.salamus1.lol/lb/premium99/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_PREMIUM_Digital_Mono.png" group-title="Sports+",beIN SPORTS PREMIUM 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.onlinewebtv.lol/lb/premium100/index.m3u8?|referer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+https://webudit.salamus1.lol/lb/premium100/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PsL4AzP.png" group-title="Sports+", beIN SPORTS XTRA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -1038,21 +1042,21 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 
 #EXTINF:-1 tvg-id="SporTV" tvg-name="SporTV" tvg-logo="https://i.imgur.com/iweh0Li.png" group-title="Sports+",sportv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.onlinewebtv.lol/lb/premium78/index.m3u8?|referer=https://widevine.licenses4.me/
+https://webudit.salamus1.lol/lb/premium78/index.m3u8?|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-id="SporTV 2" tvg-name="SporTV 2" tvg-logo="https://i.imgur.com/AAdoNsr.png" group-title="Sports+",sportv2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.onlinewebtv.lol/lb/premium79/index.m3u8?|referer=https://widevine.licenses4.me/
+https://webudit.salamus1.lol/lb/premium79/index.m3u8?|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-id="SporTV 3" tvg-name="SporTV 3" tvg-logo="https://i.imgur.com/RcpUcYG.png" group-title="Sports+",sportv3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.onlinewebtv.lol/lb/premium80/index.m3u8?|referer=https://widevine.licenses4.me/
+https://webudit.salamus1.lol/lb/premium80/index.m3u8?|referer=https://widevine.licenses4.me/
 
 
 #EXTINF:-1 group-title="Sports+" tvg-logo="https://i.imgur.com/iKZvKyP.png",MATCH!
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/5374
+#http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/5374
 
 #EXTINF:1 tvg-id="TruePremierFootball1.th" tvg-logo="https://i.imgur.com/goTVVel.png" group-title="Sports+", true PREMIER FOOTBALL 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
