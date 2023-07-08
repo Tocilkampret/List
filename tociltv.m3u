@@ -376,7 +376,8 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch374)/index.m3u
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png",CARTOON NETWORK
-https://nxanv-live-cdn.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd
+#https://nxanv-live-cdn.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch103)/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
@@ -384,7 +385,8 @@ https://nxanv-live-cdn.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetw
 https://nxanv-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Aniplus_Asia_Logo.png/512px-Aniplus_Asia_Logo.png" group-title="Kids",ANIPLUS
-http://rr1.dens.tv/h/h02/01.m3u8?chname=ANIPLUS_HD
+#http://rr1.dens.tv/h/h02/01.m3u8?chname=ANIPLUS_HD
+http://iptvid.my.id/hmm/Ben/spy123456/aniplus.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
@@ -395,13 +397,19 @@ https://nxanv-live-cdn.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c7e32673-77f8-11ec-8df7-e1b1a799e6b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=21bf3783-0c01-4b1d-9060-24006254a040&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png" group-title="Kids",DISNEY CHANNEL
-http://208.86.19.13:81/14.stream/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=4a742e478d14023e1993e011d9415f94&key=0df77ede9bc744376836d21afa137dda
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.cdnhks.lol/lb/premium312/index.m3u8|referer=https://ntuplay.xyz//
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/512px-Disney_Junior.svg.png" group-title="Kids",DISNEY JUNIOR
 http://sverigeplay.tv/play/live.php?mac=00:1A:79:41:98:CF&stream=16770&extension=ts&play_token=kfWzTSKetQ
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/512px-Disney_XD_-_2015.svg.png" group-title="Kids" tvg-rec="3", Disney XD
-https://newtest.webtv1.lol/lb/premium314/index.m3u8|referer=https://widevine.licenses4.me/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=bd29c4a538f28845ce33581111749428&key=46d9589f41a11c3637c07c604956deac
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.cdnhks.lol/lb/premium314/index.m3u8|referer=https://ntuplay.xyz//
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
@@ -439,13 +447,13 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db0ad56edc89300090
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xePwW13.png" group-title="Kids",LEGO CHANNEL
-
+https://legochannel-vizio.amagi.tv/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/xePwW13.png" group-title="Kids", LEGO TOONS
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22549d5eeee0f5a4094ba/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ka5OY8k.png" group-title="Kids",Mentari TV
-http://tvnid.x10.mx/1/master-3.m3u8
+http://103.166.27.2:800/play/a018
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/nuzIBbN.png" group-title="Kids",moonbug Kids
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
@@ -459,7 +467,7 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1MGJg18.jpg" group-title="Kids",PINKFONG
 https://fc2f8d2d3cec45bb9187e8de15532838.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_BabySharkTV/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxMRaRuvmV2u6-Y2CXzl_ELJIv_wcKVi2afg&usqp=CAU" group-title="Kids",Super Toons TV
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxMRaRuvmV2u6-Y2CXzl_ELJIv_wcKVi2afg&usqp=CAU" group-title="Kids", SUPER TOONS TV
 https://tinyurl.com/SuperToons
 
 #EXTINF:-1 tvg-id="TOMANDJERRY" tvg-name="TOM & JERRY" tvg-logo="https://i.imgur.com/Iga79tm.png" group-title="Kids",TOM & JERRY
@@ -476,7 +484,7 @@ https://tinyurl.com/TiviMe-ToonGoogles
 #https://siloh.pluto.tv/lilo/production/Nick/02/master_1.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7kaHaWLIHiKuvYZhEX_pSk06Ernja-oULsg&usqp=CAU" group-title="Kids",YAAAS!
-#https://tinyurl.com/TiviMe-YAAAS
+https://tinyurl.com/TiviMe-YAAAS
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_zoomoo_m.png" group-title="Kids",ZOO MOO
 #https://rockentertainment-zoomoo-1-us.samsung.wurl.tv/2000.m3u8
