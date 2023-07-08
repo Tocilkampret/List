@@ -46,7 +46,6 @@ http://103.166.27.2:800/play/a017
 
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/D70rSkE.png",moji
 #http://210.210.155.37/qwr9ew/s/s41/index.m3u8
-http://javahome.my.id:9090/play/do8jBLP2kjOtczXd30khId4SNptgwqMK_-tTEYELHtk/ts
 
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/512px-Trans_TV_2013.svg.png",TRANS TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -128,6 +127,11 @@ https://cdn3.wowza.com/1/NEtzTTZ4c1FTTUN2/SkJBbVJs/hls/live/playlist.m3u8
 
 
 °°° HBO Group FHD °°°
+
+#EXTINF:-1 tvg-id="cinemax" tvg-logo="http://koceng.my.id/OttoMalingKamfret/logo/max.png" group-title="HBO FHD", HBO Cinemax FHD 
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 11) ExoPlayerLib/2.13.2 http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3012 ////HBO HD 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://alfa.toda.my.id/drm/today/maxstream/346530520782361587909494/DASHHBOFDRM 
 
 
 
