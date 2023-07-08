@@ -128,10 +128,7 @@ https://cdn3.wowza.com/1/NEtzTTZ4c1FTTUN2/SkJBbVJs/hls/live/playlist.m3u8
 
 °°° HBO Group FHD °°°
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WfRpvsJ/cinemax.png" tvg-id="Cinemax.id" tvg-name="Cinemax" group-title="Movies",Cinemax (MAX) 
-https://bravo.toda.my.id/max/channel(9ef01e28-6fac-49c1-9aa4-40b37d431881)/manifest.mpd 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://alfa.toda.my.id/drm/today/maxstream/346530520782361587909494/DASHHBOSDRM
+
 
 
 °°° HBO Group HD °°°
@@ -139,12 +136,7 @@ https://bravo.toda.my.id/max/channel(9ef01e28-6fac-49c1-9aa4-40b37d431881)/manif
 
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="HBO Group" tvg-id="028" tvg-name="028-CINEMAX",CINEMAX
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="} 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
-https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
+http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/197964
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="HBO Group" tvg-id="046" tvg-name="046-HBO",HBO
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
