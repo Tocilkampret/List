@@ -1149,7 +1149,11 @@ https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten3_hd.smil/manif
 °°° Musics °°°
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/V6XJ86j3/mtv90.png" group-title="Music", MTV 90S
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch241)/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FLJrxDl.png" group-title="Music", MTV Live
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch242)/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
@@ -1168,23 +1172,8 @@ http://bravo.kugo.id:1935/dangduttivi/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/512px-Channel_V_Logo.svg.png" group-title="Music",Channel V
 #http://203.77.246.50:5000/udp/239.1.1.144:5000
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K7fnRKH.jpg" group-title="Music",MTV LIVE
-https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=66
 
-#EXTINF:-1 group-title="Music", MTV Biggest Pop
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
 
-#EXTINF:-1 group-title="Music", MTV Block Party
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
-
-#EXTINF:-1 group-title="Music", MTV Spankin New
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
-
-#EXTINF:-1 group-title="Music", MTV WMA
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
-
-#EXTINF:-1 group-title="Music", MTV Yo
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20957953_ico.png?ts=1655330333" group-title="Music",molahits tv
 http://ventdelnord.tv:8080/mola/directe.m3u8
