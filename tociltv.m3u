@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/us.xml, https://www.bevy.be/bevyfiles/indonesia.xml, https://www.bevy.be/bevyfiles/indonesiapremium1.xml, https://www.bevy.be/bevyfiles/indonesiapremium2.xml, https://www.bevy.be/bevyfiles/indonesiapremium3.xml, https://www.bevy.be/bevyfiles/indonesiapremium4.xml " refresh="3600"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/us.xml, https://www.bevy.be/bevyfiles/indonesia.xml, https://www.bevy.be/bevyfiles/indonesiapremium1.xml, https://www.bevy.be/bevyfiles/indonesiapremium2.xml, https://www.bevy.be/bevyfiles/indonesiapremium3.xml, https://www.bevy.be/bevyfiles/indonesiapremium4.xml, http://apistech.eu5.org/epg_ID.xml.gz " refresh="3600"
 
 #https://raw.githubusercontent.com/pendy99/iptv-epg/main/epg_ID.xml, https://epg.pw/xmltv/epg_ID.xml, https://iptv-org.github.io/epg/guides/id/indihometv.com.xml, https://iptv-org.github.io/epg/guides/id/mncvision.id.xml, https://iptv-org.github.io/epg/guides/id/transvision.co.id.xml, https://iptv-org.github.io/epg/guides/id/vidio.com.xml, https://iptv-org.github.io/epg/guides/ms/astro.com.my.xml, https://iptv-org.github.io/epg/guides/en/unifi.com.my.xml" refresh="3600"
 
@@ -115,10 +115,11 @@ https://nyanv-live-cdn.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 https://nxanv-live-cdn.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
 
-#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/RPT8O12.png",NET.
+#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/RPT8O12.png", NET.
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-https://nxanv-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
+#https://nxanv-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
+http://210.210.155.37/uq2663/h/h06/index.m3u8
 
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.imgur.com/fXc15Jf.png" group-title="TV Nasional",UseePRIME
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/manifest.mpd
