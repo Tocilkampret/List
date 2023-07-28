@@ -865,21 +865,8 @@ https://prod-drm-vidio-com-ctv-6.akamaized.net/out/v1/8ecc1b702b4a4871b51304a9cb
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://production-drm-vidio-com-plcs.akamaized.net/out/v1/323e0081ae1e471194808db88b86c5de/index.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EMSAhGh.png" group-title="Sports", CHAMPIONS TV World Cup 1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mooncang.my.id/api/vidio/drm.php?id=9430
-#https://mooncang.my.id/api/vidio/ch.mpd?id=9430&code=world-cup-1
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oCMR0Yk.png" group-title="Sports", CHAMPIONS TV World Cup 2
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mooncang.my.id/api/vidio/drm.php?id=9431
-#https://mooncang.my.id/api/vidio/ch.mpd?id=9431&code=world-cup-2
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/1MBBBBN.png",CHAMPIONS TV 3
-#https://ott-navigator.my.id/000143-356212-936581/vidionline33o69-tocil-tv-maling/vidio_master.m3u8?channel=championstv3
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/AcBSHlM.png",CHAMPIONS TV GOAL
-#https://ott-navigator.my.id/000143-356212-936581/vidionline33o69-tocil-tv-maling/vidio_master.m3u8?channel=championstvgoal
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s4jDnJh.png" group-title="Sports", EUROSPORT
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch21)/index.m3u8
 
 #EXTINF:-1 tvg-id="Erz.Assp3" tvg-logo="https://www.citypng.com/public/uploads/preview/hd-bein-sports-hd-logo-png-116408184160mybrquevy.png" tvg-name"" group-title="Sports",beIN SPORTS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
