@@ -1113,27 +1113,14 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunk
 #EXTINF:-1 tvg-ID="" tvg-name="DUBAI SPORTS 3" tvg-logo="https://i.imgur.com/Poxw8lG.png" group-title="Sports+",DUBAI SPORTS 3
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
 
-#EXTINF:-1 tvg-id="SonyTen1.in" tvg-logo="https://i.imgur.com/mmX4kPb.png" group-title="Sports+",SONY SIX
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ce17264b317db108f19cdc11aa1a9e66:a21188aee8fc5c56d016fcffcc6b2295
-https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_six_hd.smil/manifest.mpd
+#EXTINF:-1   tvg-logo="https://i.imgur.com/hWo7Ba4.png" group-title="Sports+", SONY SPORTS TEN 1
+http://shareext@4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1114576&extension=ts&play_token=shareext.ts
 
-#EXTINF:-1 tvg-id="SonyTen1.in" tvg-logo="https://i.imgur.com/R2dMhYE.png" group-title="Sports+",SONY TEN 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ce17264b317db108f19cdc11aa1a9e66:a21188aee8fc5c56d016fcffcc6b2295
-https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten1_hd.smil/manifest.mpd
+#EXTINF:-1   tvg-logo="https://i.imgur.com/W96KVqu.png" group-title="Sports+", SONY SPORTS TEN 2
+http://shareext@4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1114577&extension=ts&play_token=shareext.ts
 
-#EXTINF:-1 tvg-id="SonyTen1.in" tvg-logo="https://i.imgur.com/LwGRMzj.png" group-title="Sports+",SONY TEN 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ce17264b317db108f19cdc11aa1a9e66:a21188aee8fc5c56d016fcffcc6b2295
-https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten2_hd.smil/manifest.mpd
-
-#EXTINF:-1 tvg-id="SonyTen1.in" tvg-logo="https://i.imgur.com/z0f2olV.png" group-title="Sports+",SONY TEN 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ce17264b317db108f19cdc11aa1a9e66:a21188aee8fc5c56d016fcffcc6b2295
-https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten3_hd.smil/manifest.mpd
-
-
+#EXTINF:-1   tvg-logo="https://i.imgur.com/vG19HxD.png" group-title="Sports+", SONY SPORTS TEN 3
+http://shareext@4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1114578&extension=ts&play_token=shareext.ts
 
 
 
