@@ -332,6 +332,9 @@ https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
+#EXTINF:-1 group-title="Knowledge" tvg-logo="https://i.imgur.com/M87kbVk.png", clarity 4k
+https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/snuV96y.png" group-title="Knowledge",Outside TV
 #https://outsidetvplus-stirr.amagi.tv/playlistR720P.m3u8
 
@@ -761,6 +764,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e82b55ad
 
 °°° Lifestyle °°°
 
+#EXTINF:0 group-title="Lifestyle" tvg-logo="https://i.imgur.com/vQuyyWO.png" , FTV UHD
+http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png" group-title="Lifestyle",FASHION TV
 https://fashiontv-fashiontv-2-es.samsung.wurl.com/manifest/playlist.m3u8
