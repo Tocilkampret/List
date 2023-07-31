@@ -584,10 +584,8 @@ https://nxanv-live-cdn.mncnow.id/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cinemachi
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W4wkRtMR/cinemachi-xtra.png" tvg-id="CinemachiXtra.id" tvg-name="Cinemachi Xtra" group-title="Movies", cinemachi Xtra
 https://nxanv-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbSvWbvP5aGJAq2bfRqWULVUtK9s0bOSvT4r8ttIc&s" group-title="Movies",FLIK 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=http://alstv.xyz/proxy?live=flik&type=drm 
-#http://watchlive.my.id/flik/prem/1015
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbSvWbvP5aGJAq2bfRqWULVUtK9s0bOSvT4r8ttIc&s" group-title="Movies",FLIK  
+https://github.com/thefirefox12537/streams/raw/4cbe7c3f1a2b7ffeb19b0e54f04c845ac60db3a8/flik_playback.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
