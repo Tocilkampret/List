@@ -1172,8 +1172,11 @@ https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
 °°° Musics °°°
 
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=37ef71f668c1c1126595be0f557587f5:008df022d78a9ec318a745cf8365b048
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/V6XJ86j3/mtv90.png" group-title="Music", MTV 90S
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch241)/index.m3u8
+http://tvgo.my.id/live/eds/MTV-90-HD/sa_dash_vmx/MTV-90-HD.mpd
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch241)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FLJrxDl.png" group-title="Music", MTV Live
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch242)/index.m3u8
