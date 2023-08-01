@@ -130,23 +130,23 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4
 
 #EXTINF:-1 group-title="HBO Group" tvg-id="cinemaxasia.sg" tvg-logo="https://i.imgur.com/uB76Ft0.png", CINEMAX
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3012
+#http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3012
 
 #EXTINF:-1 group-title="HBO Group" tvg-id="hboasia.sg" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_160_115", HBO
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3008
+#http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3008
 
 #EXTINF:-1 group-title="HBO Group" tvg-id="hbofamilyasia.sg" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch112_160_115", HBO Family
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3011
+#http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3011
 
 #EXTINF:-1 group-title="HBO Group" tvg-id="hbohitsasia.sg" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_160_115", HBO HiTS
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3010
+#http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3010
 
 #EXTINF:-1 group-title="HBO Group" tvg-id="hbosignatureasia.sg" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_160_115", HBO Signature
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3009
+#http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3009
 
 
 
@@ -156,21 +156,25 @@ http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3009
 
 
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="HBO Group" tvg-id="028" tvg-name="028-CINEMAX",CINEMAX
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="HBO Group", CINEMAX
 #http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/197964
+http://103.180.119.90:9911/stream/channelid/24528923?profile=pass
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="HBO Group" tvg-id="046" tvg-name="046-HBO",HBO
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="HBO Group", HBO
 #http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/197972
+http://103.180.119.90:9911/stream/channelid/449896538?profile=pass
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/512px-HBO_Family_Asia_logo.svg.png" group-title="HBO Group" tvg-id="047" tvg-name="047-HBO-FAMILY",HBO family
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/512px-HBO_Family_Asia_logo.svg.png" group-title="HBO Group", HBO family
 #http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/197055
+http://103.180.119.90:9911/stream/channelid/167353337?profile=pass
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="HBO Group" tvg-id="048" tvg-name="048-HBO-HITS",HBO Hits
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="HBO Group", HBO Hits
 #http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/196480
+http://103.180.119.90:9911/stream/channelid/629885182?profile=pass
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/HBO_Signature_Asia.png/512px-HBO_Signature_Asia.png" group-title="HBO Group" tvg-id="049" tvg-name="049-HBO-SIGNATURE-HD",HBO Signature
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/HBO_Signature_Asia.png/512px-HBO_Signature_Asia.png" group-title="HBO Group", HBO Signature
 #http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/221948
-
+http://103.180.119.90:9911/stream/channelid/1913607566?profile=pass
 
 
 
@@ -901,11 +905,13 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-039/stream.mpd
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/Vtk2cGI.png",beIN SPORTS 1
 #http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/165105
-http://103.180.119.90:9911/stream/channelid/388105260?profile=pass
+#http://103.180.119.90:9911/stream/channelid/388105260?profile=pass
+https://delivery.ksa.my.id/stream/macan_sport_1/playlist.m3u8?token=ym1wtrp
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/UYSMao3.png",beIN SPORTS 3
 #http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298506
-http://103.180.119.90:9911/stream/channelid/1956700996?profile=pass
+#http://103.180.119.90:9911/stream/channelid/1956700996?profile=pass
+https://delivery.ksa.my.id/stream/macan_sport_2/playlist.m3u8?token=ym1wtrp
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
