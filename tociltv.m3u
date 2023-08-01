@@ -162,9 +162,13 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4
 #http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/197964
 http://103.180.119.90:9911/stream/channelid/24528923?profile=pass
 
+#EXTINF:-1 group-title="HBO Group" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png", HBO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
+https://iptv.lancartech.co.id/live/8i6y7u/12345678/56.m3u8
+
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="HBO Group", HBO
 #http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/197972
-http://103.180.119.90:9911/stream/channelid/449896538?profile=pass
+#http://103.180.119.90:9911/stream/channelid/449896538?profile=pass
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/512px-HBO_Family_Asia_logo.svg.png" group-title="HBO Group", HBO family
 #http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/197055
