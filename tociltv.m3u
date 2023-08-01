@@ -906,14 +906,14 @@ http://37.49.230.42:8080/iptvepic4/DzbGTtATy4DzmK8c/298514
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s4jDnJh.png" group-title="Sports", EUROSPORT
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch21)/index.m3u8
 
-#EXTINF:-1 tvg-id="Erz.Assp3" tvg-logo="https://www.citypng.com/public/uploads/preview/hd-bein-sports-hd-logo-png-116408184160mybrquevy.png" tvg-name"" group-title="Sports",beIN SPORTS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OGXmGNc.png" group-title="Sports",beIN SPORTS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-039/stream.mpd
 
 #EXTINF:-1 tvg-id="beINSportsUSA.us" tvg-logo="https://logowik.com/content/uploads/images/bein-sports-hd.jpg" group-title="Sports",beIN SPORTS HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#https://webudit.onlinewebtv.lol/lb/premium425/index.m3u8?|referer=https://widevine.licenses4.me/
+http://45.12.1.14:80/7JvIck488/meAqNw5218/15002
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/Vtk2cGI.png",beIN SPORTS 1
 #http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/165105
