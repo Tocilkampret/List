@@ -1,4 +1,4 @@
-http://103.180.119.90:9911/stream/channelid/388105260?profile=pass#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/us.xml, https://www.bevy.be/bevyfiles/indonesia.xml, https://www.bevy.be/bevyfiles/indonesiapremium1.xml, https://www.bevy.be/bevyfiles/indonesiapremium2.xml, https://www.bevy.be/bevyfiles/indonesiapremium3.xml, https://www.bevy.be/bevyfiles/indonesiapremium4.xml, http://apistech.eu5.org/epg_ID.xml.gz, https://github.com/thefirefox12537/streams/blob/master/epg/local/guide.xml " refresh="3600"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/us.xml, https://www.bevy.be/bevyfiles/indonesia.xml, https://www.bevy.be/bevyfiles/indonesiapremium1.xml, https://www.bevy.be/bevyfiles/indonesiapremium2.xml, https://www.bevy.be/bevyfiles/indonesiapremium3.xml, https://www.bevy.be/bevyfiles/indonesiapremium4.xml, http://apistech.eu5.org/epg_ID.xml.gz, https://github.com/thefirefox12537/streams/blob/master/epg/local/guide.xml " refresh="3600"
 
 #https://raw.githubusercontent.com/pendy99/iptv-epg/main/epg_ID.xml, https://epg.pw/xmltv/epg_ID.xml, https://iptv-org.github.io/epg/guides/id/indihometv.com.xml, https://iptv-org.github.io/epg/guides/id/mncvision.id.xml, https://iptv-org.github.io/epg/guides/id/transvision.co.id.xml, https://iptv-org.github.io/epg/guides/id/vidio.com.xml, https://iptv-org.github.io/epg/guides/ms/astro.com.my.xml, https://iptv-org.github.io/epg/guides/en/unifi.com.my.xml" refresh="3600"
 
@@ -160,7 +160,6 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="HBO Group", CINEMAX
 #http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/197964
-http://103.180.119.90:9911/stream/channelid/24528923?profile=pass
 
 #EXTINF:-1 group-title="HBO Group" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png", HBO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
@@ -168,19 +167,19 @@ https://iptv.lancartech.co.id/live/8i6y7u/12345678/56.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="HBO Group", HBO
 #http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/197972
-#http://103.180.119.90:9911/stream/channelid/449896538?profile=pass
+#
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/512px-HBO_Family_Asia_logo.svg.png" group-title="HBO Group", HBO family
 #http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/197055
-http://103.180.119.90:9911/stream/channelid/167353337?profile=pass
+
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="HBO Group", HBO Hits
 #http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/196480
-http://103.180.119.90:9911/stream/channelid/629885182?profile=pass
+
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/HBO_Signature_Asia.png/512px-HBO_Signature_Asia.png" group-title="HBO Group", HBO Signature
 #http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/221948
-http://103.180.119.90:9911/stream/channelid/1913607566?profile=pass
+
 
 
 
