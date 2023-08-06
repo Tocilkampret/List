@@ -136,7 +136,7 @@ http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3012
 
 #EXTINF:-1 group-title="HBO Group" tvg-id="hboasia.sg" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_160_115", HBO
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-#http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3008
+http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3008
 
 #EXTINF:-1 group-title="HBO Group" tvg-id="hbofamilyasia.sg" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch112_160_115", HBO Family
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
@@ -163,7 +163,7 @@ http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3009
 
 #EXTINF:-1 group-title="HBO Group" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png", HBO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
-https://iptv.lancartech.co.id/live/8i6y7u/12345678/56.m3u8
+#https://iptv.lancartech.co.id/live/8i6y7u/12345678/56.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="HBO Group", HBO
 #http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/197972
@@ -593,8 +593,8 @@ https://nxanv-live-cdn.mncnow.id/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cinemachi
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W4wkRtMR/cinemachi-xtra.png" tvg-id="CinemachiXtra.id" tvg-name="Cinemachi Xtra" group-title="Movies", cinemachi Xtra
 https://nxanv-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbSvWbvP5aGJAq2bfRqWULVUtK9s0bOSvT4r8ttIc&s" group-title="Movies",FLIK  
-https://github.com/thefirefox12537/streams/raw/4cbe7c3f1a2b7ffeb19b0e54f04c845ac60db3a8/flik_playback.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbSvWbvP5aGJAq2bfRqWULVUtK9s0bOSvT4r8ttIc&s" group-title="Movies",FLiK  
+http://iptvid.my.id/hmm/Ben/spy123456/flik.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
