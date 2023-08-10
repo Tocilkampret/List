@@ -885,19 +885,19 @@ http://210.210.155.35:80/uq2663/h/h09/01.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/EaRVaEX.png", CHAMPIONS TV 1
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298512
+http://37.49.230.42:8080/iptvepic4/DzbGTtATy4DzmK8c/298512
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/IgGVlgI.png", CHAMPIONS TV 2 
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298513
+http://37.49.230.42:8080/iptvepic4/DzbGTtATy4DzmK8c/298513
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1MBBBBN.png" group-title="Sports", CHAMPIONS TV 3
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/298514
+http://37.49.230.42:8080/iptvepic4/DzbGTtATy4DzmK8c/298514
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UdR3C58.png" group-title="Sports", CHAMPIONS TV 5 
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298491
+
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/md5aib0.png" group-title="Sports", CHAMPIONS TV 6 
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/298492
+#http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/298492
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DQ5abQT.png" group-title="Sports",Premier League TV
 
