@@ -40,8 +40,6 @@ http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.
 
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/D70rSkE.png",moji
 http://103.166.27.2:800/play/a017
-#https://dl.dropboxusercontent.com/s/qcoxpjuwsaccqc1/moji.m3u8
-#http://beetv.my.id/x/oxygen-moji-gojokkk.m3u8
 
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/D70rSkE.png",moji
 #http://210.210.155.37/qwr9ew/s/s41/index.m3u8
@@ -50,14 +48,15 @@ http://103.166.27.2:800/play/a017
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #https://nxanv-live-channel-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
-#http://watchlive.my.id/sa_dash_vmx/TransTV-2.mpd
-http://103.166.27.2:800/play/a01b
+#http://103.166.27.2:800/play/a01b
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch396)/index.m3u8
 
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/fAbGImS.png",TRANS7
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #https://nyanv-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
-http://103.166.27.2:800/play/a01c
+#http://103.166.27.2:800/play/a01c
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch397)/index.m3u8
 
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/Al8T2MD.png",tvOne
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -85,7 +84,7 @@ http://210.210.155.37/dr9445/h/h10/index.m3u8
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch410)/index.m3u8
 
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png",TVRI Nasional
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/index.m3u8
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch399)/index.m3u8
 
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/3ggGYBa.png",JAKTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
