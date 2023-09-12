@@ -62,7 +62,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch397)/index.m3u
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #https://anevia115.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
-https://stream.mammothtv.my.id/lokal/tvone/index.m3u8
+https://ythls.onrender.com/video/yNKvkPJl-tg.m3u8
 
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/QnU70NI.png",METRO TV
 #https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/manifest.mpd
@@ -587,7 +587,8 @@ https://nxanv-live-cdn.mncnow.id/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cinemachi
 https://nxanv-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbSvWbvP5aGJAq2bfRqWULVUtK9s0bOSvT4r8ttIc&s" group-title="Movies",FLiK  
-http://iptvid.my.id/hmm/Ben/spy123456/flik.m3u8
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 11) ExoPlayerLib/2.13.2 
+http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3625
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
@@ -878,16 +879,13 @@ http://210.210.155.35:80/uq2663/h/h09/01.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/EaRVaEX.png", CHAMPIONS TV 1
-http://37.49.230.42:8080/iptvepic4/DzbGTtATy4DzmK8c/298512
-#http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298512
+
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/IgGVlgI.png", CHAMPIONS TV 2 
-http://37.49.230.42:8080/iptvepic4/DzbGTtATy4DzmK8c/298513
-#http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298513
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1MBBBBN.png" group-title="Sports", CHAMPIONS TV 3
-http://37.49.230.42:8080/iptvepic4/DzbGTtATy4DzmK8c/298514
-#http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298514
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UdR3C58.png" group-title="Sports", CHAMPIONS TV 5 
 
