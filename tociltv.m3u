@@ -40,7 +40,8 @@ http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3
 http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.m3u8
 
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/D70rSkE.png",moji
-http://103.166.27.2:800/play/a017
+#http://103.166.27.2:800/play/a017
+http://iptvtree.net:8080/minionbob/e76dcbdc11/298550
 
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/D70rSkE.png",moji
 #http://210.210.155.37/qwr9ew/s/s41/index.m3u8
@@ -426,7 +427,7 @@ https://legochannel-vizio.amagi.tv/playlist.m3u8
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22549d5eeee0f5a4094ba/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ka5OY8k.png" group-title="Kids",Mentari TV
-http://103.166.27.2:800/play/a018
+http://iptvtree.net:8080/minionbob/e76dcbdc11/298546
 
 #EXTINF:-1 tvg-id="BiznetKids.id" tvg-name="Biznet Kids" tvg-logo="https://i.imgur.com/J5QNqJ0.png" group-title="Kids", Biznet Kids
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
