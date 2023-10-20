@@ -754,6 +754,15 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch309)/index.m3u
 #EXTVLCOPT:http-user-agent=MNCNow/6.33.0 ExoPlayerLib/2.18.1
 https://nyanv-live-cdn.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zIpX0v8.png" group-title="Entertainment",Citra DRAMA
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch378)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q1N6ka8.png" group-title="Entertainment ",Citra ENTERTAINMENT
+http://edge.linknetott.swiftserve.com/channelgroup4/cg439production/ch379/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L0kjuZs.png"group-title="Entertainment",Citra MUSLIM
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch334)/index.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/512px-Logo_tvN.svg.png",tvN 
@@ -1037,8 +1046,14 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3300)/index.m3
 #EXTVLCOPT:http-user-agent=MNCNow/6.33.0 ExoPlayerLib/2.18.1
 https://nyanv-live-cdn.mncnow.id:443/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/yypex32z12hppoc/combate.png" group-title="Sports", COMBATE
+#EXTINF:-1 tvg-logo="" group-title="Sports", UFC SPORT 
+#http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=825538&extension=ts&play_token=IuTBxI7wnr
 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/yypex32z12hppoc/combate.png" group-title="Sports", COMBATE
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=63307_&extension=ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mRsnztA.png" group-title="Sports", FIGHT BOX
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=61800_&extension=ts
 
 #EXTINF:-1 tvg-ID="" tvg-name="UK_BoxNation_FHD" tvg-logo="https://i.imgur.com/XCIBf7u.png" group-title="Sports",BOX NATION
 
@@ -1223,6 +1238,8 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch242)/index.m3u
 
 #EXTINF:0 tvg-id="musicbox" group-title="Music" tvg-logo="https://i.ibb.co/xYPTdNM/Music-Box.png", MUSIC BOX
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/77KYgbz.png" group-title="Music", CITRA DANGDUT
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch377)/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -1236,6 +1253,9 @@ http://168.227.22.18:1935/live/mobile-039/playlist.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSXeEvhFCZmf28psLTWSvQiR_MIP9vScXPJA&usqp=CAU", MUSIC TOP
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w7674435128_b2028000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Stingray_Djazz.png/512px-Stingray_Djazz.png" group-title="Music",STINGRAY djazz
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3344)/index.m3u8
 
 #EXTINF:-1 tvg-id="Maleo.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://www.lyngsat.com/logo/tv/mm/maleo-id.png" group-title="Music",Maleo
 #https://alfa.kugo.id/playout/maleo.stream/chunklist.m3u8
