@@ -544,10 +544,12 @@ https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 °°° Movies °°°
 
 
-
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7047/CPS/images/universal/film/logo/202212/20221211/20221211230555493f2h.png" group-title="Movies", ROCK Action
-#http://210.210.155.35/dr9445/h/h15/index.m3u8
-http://rr1.dens.tv/h/h15/index.m3u8
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=MNCNow/6.33.0 ExoPlayerLib/2.18.1 
+https://nyanv-live-cdn.mncnow.id/live/eds/Rockaction/sa_dash_vmx/Rockaction.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -742,10 +744,11 @@ https://nyanv-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3005
 #https://nyanv-live-cdn.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NGYwYjY2NTYtMDNkOS0zMDYyLTkzOTUtN2ZmYTlhZmM3NDQ1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PWzq0aU.png" group-title="Entertainment", ROCK entertainment
-
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=MNCNow/6.33.0 ExoPlayerLib/2.18.1
 https://nyanv-live-cdn.mncnow.id/live/eds/Rockentertainment/sa_dash_vmx/Rockentertainment.mpd
 #http://210.210.155.35/dr9445/h/h16/index.m3u8
 
