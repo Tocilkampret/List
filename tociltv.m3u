@@ -30,13 +30,19 @@ http://nyanv-live-cdn.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2.m3u8
 #EXTVLCOPT:http-user-agent=MNCNow/6.33.0 ExoPlayerLib/2.18.1
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
-#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/RPT8O12.png", NET.
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 11) ExoPlayerLib/2.13.2 
-http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/218
-#http://210.210.155.37/uq2663/h/h06/index.m3u8
+#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/RPT8O12.png", NET. 
+http://210.210.155.37/uq2663/h/h06/index.m3u8
 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=MNCNow/6.33.0 ExoPlayerLib/2.18.1 
+#https://nyanv-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 tvg-id="ANTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/512px-Antv_logo.svg.png" group-title="TV Nasional", antv
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch390)/index.m3u8
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=MNCNow/6.33.0 ExoPlayerLib/2.18.1 
+https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png" group-title="TV Nasional",INDOSIAR
 #http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=994885&extension=ts&play_token=M2PF34StIQ
@@ -46,8 +52,7 @@ http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3
 http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.m3u8
 
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/D70rSkE.png",moji
-#http://103.166.27.2:800/play/a017
-http://tvnid.x10.mx/vidio/master-2.m3u8
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/moji.m3u8
 
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/D70rSkE.png",moji
 #http://210.210.155.37/qwr9ew/s/s41/index.m3u8
@@ -56,7 +61,9 @@ http://tvnid.x10.mx/vidio/master-2.m3u8
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch396)/index.m3u8
 
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/fAbGImS.png",TRANS7
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch397)/index.m3u8
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch397)/index.m3u8
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 11) ExoPlayerLib/2.13.2 
+http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/214
 
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/Al8T2MD.png",tvOne
 https://ythls.onrender.com/video/yNKvkPJl-tg.m3u8
