@@ -49,7 +49,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/94
 
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/EMmOvnQ.png",SCTV 
-http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.m3u8
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 11) ExoPlayerLib/2.13.2 
+http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/95
 
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/D70rSkE.png",moji
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/moji.m3u8
@@ -61,9 +62,10 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/moji.m3u8
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch396)/index.m3u8
 
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/fAbGImS.png",TRANS7
-#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch397)/index.m3u8
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch397)/index.m3u8
+
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 11) ExoPlayerLib/2.13.2 
-http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/214
+#http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/214
 
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/Al8T2MD.png",tvOne
 https://ythls.onrender.com/video/yNKvkPJl-tg.m3u8
