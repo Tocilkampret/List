@@ -1,5 +1,7 @@
-#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml, https://www.bevy.be/bevyfiles/indonesiapremium1.xml, https://www.bevy.be/bevyfiles/indonesiapremium2.xml, https://www.bevy.be/bevyfiles/indonesiapremium3.xml, https://www.bevy.be/bevyfiles/indonesiapremium4.xml" refresh="3600"
+EXTM3U url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml, https://www.bevy.be/bevyfiles/indonesiapremium1.xml, https://www.bevy.be/bevyfiles/indonesiapremium2.xml, https://www.bevy.be/bevyfiles/indonesiapremium3.xml, https://www.bevy.be/bevyfiles/indonesiapremium4.xml" refresh="3600"
 
+
+#EXTM3U url-tvg="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/1a2d0520ff62c457779a6fa4ecba89f0de545f46/all/epg.xml" refresh="3600"
 
 °°° TV Nasional °°° 
 
