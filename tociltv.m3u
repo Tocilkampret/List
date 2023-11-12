@@ -625,13 +625,13 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
 https://nyanv-live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="Etv Bioskop" tvg-logo="https://i.postimg.cc/Hk8fqtyw/20230703-165711.png" group-title="Movies", ETV BIOSKOP
-http://37.49.230.161:8080/bigboss/dF2SUPPUwzmZ8prS/298526
+#http://37.49.230.161:8080/bigboss/dF2SUPPUwzmZ8prS/298526
 #EXTINF:-1 tvg-id="" tvg-name="Etv Bioskop 02" tvg-logo="https://i.postimg.cc/Hk8fqtyw/20230703-165711.png" group-title="Movies", ETV BIOSKOP 2
-http://37.49.230.161:8080/bigboss/dF2SUPPUwzmZ8prS/298527
+#http://37.49.230.161:8080/bigboss/dF2SUPPUwzmZ8prS/298527
 #EXTINF:-1 tvg-id="" tvg-name="Etv Bioskop 03" tvg-logo="https://i.postimg.cc/Hk8fqtyw/20230703-165711.png" group-title="Movies", ETV BIOSKOP 3
-http://37.49.230.161:8080/bigboss/dF2SUPPUwzmZ8prS/298528
+#http://37.49.230.161:8080/bigboss/dF2SUPPUwzmZ8prS/298528
 #EXTINF:-1 tvg-id="" tvg-name="Etv Bioskop 04" tvg-logo="https://i.postimg.cc/Hk8fqtyw/20230703-165711.png" group-title="Movies",  ETV BIOSKOP 4
-http://37.49.230.161:8080/bigboss/dF2SUPPUwzmZ8prS/298529
+#http://37.49.230.161:8080/bigboss/dF2SUPPUwzmZ8prS/298529
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
@@ -668,8 +668,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cinemachi
 #EXTVLCOPT:http-user-agent=MNCNow/6.33.0 ExoPlayerLib/2.18.1
 https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbSvWbvP5aGJAq2bfRqWULVUtK9s0bOSvT4r8ttIc&s" group-title="Movies",FLiK  
-https://delivery.ksa.my.id/stream/flik/playlist.m3u8?token=ym1wtrp&v=20200807
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KLjXQqF/FLIX.png" group-title="Movies", FLiK  
+http://aflaxtv.xyz:8080/Vladisergeevic/7eef2c4388/165095
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -679,7 +679,7 @@ https://delivery.ksa.my.id/stream/flik/playlist.m3u8?token=ym1wtrp&v=20200807
 https://nyanv-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
 
 #EXTINF:-1 tvg-id="CitraBioskop.id" tvg-name="Citra Bioskop" tvg-logo="https://i.imgur.com/KK1ipNk.png" group-title="Movies", Citra Bioskop
-http://edge.linknetott.swiftserve.com/channelgroup4/cg435production/ch376/index.m3u8
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch376%29/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fLTLsmxR/boo.png" group-title="Movies",BOO
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -692,8 +692,8 @@ https://1.yurend.xyz/dash-wv/linear/2407/default_primary.mpd
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 11) ExoPlayerLib/2.13.2 
 http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3623
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3B145Ej.png" group-title="Movies",SINEMA INDONESIA
-#http://203.77.246.50:5000/udp/239.1.1.74:5000
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3B145Ej.png" group-title="Movies", SINEMA INDONESIA
+
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
@@ -703,7 +703,7 @@ http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3623
 #EXTVLCOPT:http-user-agent=MNCNow/6.33.0 ExoPlayerLib/2.18.1
 https://nyanv-live-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
 
-#EXTINF:-1 tvg-id="CelestialMovies.hk" tvg-country="BD;BN;HK;ID;MY;SG;TW" tvg-language="Chinese" tvg-logo="https://i.imgur.com/KYP1xXZ.png" group-title="Movies",CELESTIAL MOVIES
+#EXTINF:-1 tvg-id="CelestialMovies.hk" tvg-country="BD;BN;HK;ID;MY;SG;TW" tvg-language="Chinese" tvg-logo="https://i.imgur.com/KYP1xXZ.png" group-title="Movies", CELESTIAL MOVIES
 http://210.210.155.35/dr9445/h/h14/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
@@ -790,7 +790,7 @@ https://1.yurend.xyz/dash-wv/linear/5106/default_primary.mpd
 #EXTVLCOPT:http-user-agent=MNCNow/6.33.0 ExoPlayerLib/2.18.1
 https://nyanv-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/512px-Warner2018LA.png",WB TV 
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/512px-Warner2018LA.png", WB TV 
 https://s.id/1W5kq
 #https://nyanv-live-cdn.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 
@@ -815,13 +815,13 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch309)/index.m3u
 https://nyanv-live-cdn.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zIpX0v8.png" group-title="Entertainment", Citra DRAMA
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch378)/index.m3u8
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch378%29/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q1N6ka8.png" group-title="Entertainment ", Citra ENTERTAINMENT
-http://edge.linknetott.swiftserve.com/channelgroup4/cg439production/ch379/02.m3u8
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch379%29/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L0kjuZs.png" group-title="Entertainment", Citra MUSLIM
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch334)/index.m3u8
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch334%29/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -1309,7 +1309,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch242)/index.m3u
 #EXTINF:0 tvg-id="musicbox" group-title="Music" tvg-logo="https://i.ibb.co/xYPTdNM/Music-Box.png", MUSIC BOX
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/77KYgbz.png" group-title="Music", CITRA DANGDUT
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch377)/index.m3u8
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch377%29/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
