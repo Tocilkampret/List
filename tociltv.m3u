@@ -1189,20 +1189,16 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df975e2b27cf5000921c1
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a121ad30-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ac3bc3c0-b26f-4c9c-8c94-988af191404a&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-logo="https://i.imgur.com/X2WVnWr.png" group-title="Sports+", astro SUPERSPORT
-
+http://shareext@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=1111034&extension=ts&shareext@ASSP1
 
 #EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-logo="https://i.imgur.com/AZQ0xgp.png" group-title="Sports+", astro SUPERSPORT 2
-
+http://shareext@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=1111033&extension=ts&shareext@ASSP2
 
 #EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-logo="https://i.imgur.com/cMYSM6e.png" group-title="Sports+", astro SUPERSPORT 3
-
+http://shareext@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=1111032&extension=ts&shareext@ASSP3
 
 #EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-logo="https://i.imgur.com/PlwrDwx.png" group-title="Sports+", astro SUPERSPORT 4
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"kf6+hDwIx8xSPv2CcpLkDg","kid":"efQChzCsypq4sA8mFY3bEA"}],"type":"temporary"}
-https://1.yurend.xyz/dash-wv/linear/2506/default_primary.mpd
+http://shareext@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=1111031&extension=ts&shareext@ASSP4
 
 #EXTINF:-1 tvg-id="AstroSuperSport5.my" tvg-logo="https://i.imgur.com/FieopQP.png" group-title="Sports+", astro SUPERSPORT 5
 
