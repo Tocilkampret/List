@@ -616,7 +616,7 @@ https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7047/CPS/images/universal/film/logo/202212/20221211/20221211230555493f2h.png" group-title="Movies", ROCK Action
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/Rock_Action.png/revision/latest" group-title="Movies", ROCK Action
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=MNCNow/6.33.0 ExoPlayerLib/2.18.1 
 https://nyanv-live-cdn.mncnow.id/live/eds/Rockaction/sa_dash_vmx/Rockaction.mpd
@@ -653,35 +653,35 @@ https://nyanv-live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
-#EXTINF:-1 tvg-id="CINEMACHI - [Channel 7]" tvg-name="CINEMACHI - [Channel 7]" tvg-logo="https://i.postimg.cc/zGpWLVcJ/Cinemachi.png" group-title="Movies", cinemachi 
+#EXTINF:-1 tvg-id="CINEMACHI - [Channel 7]" tvg-name="CINEMACHI - [Channel 7]" tvg-logo="https://i.imgur.com/Ljwpith.png" group-title="Movies", cinemachi 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=MNCNow/6.33.0 ExoPlayerLib/2.18.1
 https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-HD/sa_dash_vmx/Cinemachi-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jSkHgDQM/cinemachi-kids.png" tvg-id="CinemachiKids.id" tvg-name="Cinemachi Kids" group-title="Movies", cinemachi KIDS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q3gn0a4.png" tvg-id="CinemachiKids.id" tvg-name="Cinemachi Kids" group-title="Movies", cinemachi KIDS
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=MNCNow/6.33.0 ExoPlayerLib/2.18.1
 https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9QxKvR6K/cinemachi-action.png" tvg-id="CinemachiAction.id" tvg-name="Cinemachi Action" group-title="Movies", cinemachi ACTION
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qEaI5Kd.png" tvg-id="CinemachiAction.id" tvg-name="Cinemachi Action" group-title="Movies", cinemachi ACTION
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=MNCNow/6.33.0 ExoPlayerLib/2.18.1
 https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Action/sa_dash_vmx/Cinemachi-Action.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/prxcWmSD/cinemachi-max.png" tvg-id="CinemachiMax.id" tvg-name="Cinemachi Max" group-title="Movies", cinemachi MAX
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ATl3CDZ.png" tvg-id="CinemachiMax.id" tvg-name="Cinemachi Max" group-title="Movies", cinemachi MAX
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=MNCNow/6.33.0 ExoPlayerLib/2.18.1
 https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cinemachi-Max-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4wkRtMR/cinemachi-xtra.png" tvg-id="CinemachiXtra.id" tvg-name="Cinemachi Xtra" group-title="Movies", cinemachi Xtra
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aOK7dYC.png" tvg-id="CinemachiXtra.id" tvg-name="Cinemachi Xtra" group-title="Movies", cinemachi Xtra
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=MNCNow/6.33.0 ExoPlayerLib/2.18.1
 https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd
