@@ -1339,6 +1339,10 @@ https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/V6XJ86j3/mtv90.png" group-title="Music", MTV 90S
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch241)/index.m3u8
+#http://iptv.prosto.tv:7000/ch127/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l5wBRfF.png" group-title="Music", MTV 00S
+http://iptv.prosto.tv:7000/ch129/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FLJrxDl.png" group-title="Music", MTV Live
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch242)/index.m3u8
@@ -1375,6 +1379,11 @@ http://ventdelnord.tv:8080/mola/directe.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Box_Hits_2016.png" group-title="Music",Box hits
 #https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/IAMkya8.png" group-title="Music", THE K-POP
+#EXTVLCOPT:http-User-agent=REDLINECLIENT(Windows NT 6.1; WOW64; rv:33.0) Gecko/20120101 Firefox/33.0
+https://git.io/JgYAE
+
 
 
 °°° Religi °°°
