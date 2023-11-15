@@ -1313,6 +1313,9 @@ https://edge1.laotv.la/live/TSport2/index.m3u8
 #EXTINF:1 tvg-logo="https://i.imgur.com/xkqzy95.png" group-title="Sports+", true PREMIER FOOTBALL 5
 
 
+#EXTINF:-1 tvg-id="SS Premier League" tvg-name="SS Premier League" tvg-logo="https://i.postimg.cc/SRfpM2XB/SS-EPL.png" group-title="Sports+",Supersport Premier League 
+https://tvnow.best/api/stream/billypetty22@gmail.com/413397/livetv.epg/ss.premier.league.ze.m3u8
+
 #EXTINF:-1 tvg-ID="" tvg-name="ABU DHABI SPORTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Ad_sport_1.png" group-title="Sports+",ABU DHABI SPORTS 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8   
 
