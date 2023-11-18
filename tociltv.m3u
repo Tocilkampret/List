@@ -1245,16 +1245,16 @@ https://www.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8
 https://www.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-logo="https://i.imgur.com/X2WVnWr.png" group-title="Sports+", astro SUPERSPORT
-http://shareext@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=1111034&extension=ts&shareext@ASSP1
+
 
 #EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-logo="https://i.imgur.com/AZQ0xgp.png" group-title="Sports+", astro SUPERSPORT 2
-http://shareext@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=1111033&extension=ts&shareext@ASSP2
+
 
 #EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-logo="https://i.imgur.com/cMYSM6e.png" group-title="Sports+", astro SUPERSPORT 3
-http://shareext@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=1111032&extension=ts&shareext@ASSP3
+
 
 #EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-logo="https://i.imgur.com/PlwrDwx.png" group-title="Sports+", astro SUPERSPORT 4
-http://shareext@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=1111031&extension=ts&shareext@ASSP4
+
 
 #EXTINF:-1 tvg-id="AstroSuperSport5.my" tvg-logo="https://i.imgur.com/FieopQP.png" group-title="Sports+", astro SUPERSPORT 5
 
@@ -1322,7 +1322,7 @@ https://edge1.laotv.la/live/TSport2/index.m3u8
 
 
 #EXTINF:-1 tvg-id="SS Premier League" tvg-name="SS Premier League" tvg-logo="https://i.imgur.com/xZFMYj4.png" group-title="Sports+",Supersport Premier League 
-https://tvnow.best/api/stream/billypetty22@gmail.com/413397/livetv.epg/ss.premier.league.ze.m3u8
+
 
 #EXTINF:-1 tvg-ID="" tvg-name="ABU DHABI SPORTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Ad_sport_1.png" group-title="Sports+",ABU DHABI SPORTS 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8   
