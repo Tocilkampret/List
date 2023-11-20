@@ -1587,7 +1587,7 @@ https://h1.intechmedia.net/intech/ch22.m3u8
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LGEdeyJ.png" group-title="Malay", tv2
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b4596000_slENG.m3u8?id=2
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd?id=2
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv3/ 
@@ -1601,10 +1601,7 @@ https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/in
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/TV_Okey_RTM.png" group-title="Malay",TV Okey
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
-https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b4596000_slENG.m3u8?id=3
-https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
-https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Okey.m3u8|Referer=https://rtmklik.rtm.gov.my
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd?id=3
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bK8UH9D.png" group-title="Malay", TV6
 #EXTVLCOPT:http-referer=https://rtmklik.rtm.gov.my
