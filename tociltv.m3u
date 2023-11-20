@@ -540,11 +540,10 @@ https://nyanv-live-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mp
 #EXTINF:-1  tvg-logo="https://i.imgur.com/fg8c9WK.png" group-title="Kids", PBS KIDS
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/B5MAphH.png",MIAO MI
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#EXTVLCOPT:http-user-agent=MNCNow/6.33.0 ExoPlayerLib/2.18.1
 https://nyanv-live-cdn.mncnow.id/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd
 
 #EXTINF:-1 group-title="Kids" tvg-id="KIDSFLIX" tvg-logo="https://i.imgur.com/4Pn0ADQ.png", KIDSFLIX
@@ -580,30 +579,28 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel%28c99739b1-0748-
 #EXTINF:-1 tvg-id="Horee.id" tvg-name="Horee!" tvg-logo="https://i.imgur.com/S4aoHg8.png" group-title="Kids", HoRee!
 
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/nuzIBbN.png" group-title="Kids",moonbug Kids
+#EXTINF:0 tvg-logo="https://i.imgur.com/nuzIBbN.png" group-title="Kids", moonbug Kids
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-0 tvg-name="TV" tvg-logo="https://i.imgur.com/Ja9Rx9p.png" group-title="Kids", my KiDZ
-http://rr.dens.tv/h/h191/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Kidz_HD
+https://nyanv-live-cdn.mncnow.id/live/eds/My-Kids/sa_dash_vmx/My-Kids.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/76/PBS_Kids_Logo.svg/512px-PBS_Kids_Logo.svg.png" group-title="Kids",PBS KIDS
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1MGJg18.jpg" group-title="Kids",PINKFONG
-https://fc2f8d2d3cec45bb9187e8de15532838.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_BabySharkTV/playlist.m3u8
+
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxMRaRuvmV2u6-Y2CXzl_ELJIv_wcKVi2afg&usqp=CAU" group-title="Kids", SUPER TOONS TV
 https://tinyurl.com/SuperToons
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GSlfL8u.png" group-title="Kids", HappY Kids jr.
-https://happykidsjunior-vizio.amagi.tv/playlist.m3u8
-
-
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5a/Teletubbies_Logo.png" group-title="Kids",Teletubbies
 https://tinyurl.com/TiviMe-Teletubbies
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCjExa6sv41hP06KRDX20tOK93feiZGKISmA&usqp=CAU" group-title="Kids",TOON GOOGLES
-https://tinyurl.com/TiviMe-ToonGoogles
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCjExa6sv41hP06KRDX20tOK93feiZGKISmA&usqp=CAU" group-title="Kids",TOON GOGGLES
 
 #EXTINF:0 tvg-logo="https://images.pluto.tv/channels/5d0c16d686454ead733d08f8/colorLogoPNG.png" group-title="Kids",TOTALLY TURTLES
 #https://siloh.pluto.tv/lilo/production/Nick/02/master_1.m3u8
