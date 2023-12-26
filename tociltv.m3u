@@ -594,10 +594,10 @@ https://nyanv-live-cdn.mncnow.id/live/eds/My-Kids/sa_dash_vmx/My-Kids.mpd
 
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxMRaRuvmV2u6-Y2CXzl_ELJIv_wcKVi2afg&usqp=CAU" group-title="Kids", SUPER TOONS TV
-https://tinyurl.com/SuperToons
+
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5a/Teletubbies_Logo.png" group-title="Kids",Teletubbies
-https://tinyurl.com/TiviMe-Teletubbies
+
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCjExa6sv41hP06KRDX20tOK93feiZGKISmA&usqp=CAU" group-title="Kids",TOON GOGGLES
 
@@ -605,7 +605,7 @@ https://tinyurl.com/TiviMe-Teletubbies
 #https://siloh.pluto.tv/lilo/production/Nick/02/master_1.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7kaHaWLIHiKuvYZhEX_pSk06Ernja-oULsg&usqp=CAU" group-title="Kids",YAAAS!
-https://tinyurl.com/TiviMe-YAAAS
+
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_zoomoo_m.png" group-title="Kids",ZOO MOO
 #https://rockentertainment-zoomoo-1-us.samsung.wurl.tv/2000.m3u8
