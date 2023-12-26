@@ -1451,13 +1451,15 @@ http://168.227.22.18:1935/live/mobile-039/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20957953_ico.png?ts=1655330333" group-title="Music",molahits tv
 http://ventdelnord.tv:8080/mola/directe.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Box_Hits_2016.png" group-title="Music",Box hits
-#https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
+#EXTINF:-1 tvg-logo="https://imgur.com/IFLXi6n?r" group-title="Music", ALL THE K-POP
+https://ythls.armelin.one/channel/UCPde4guD9yFBRzkxk2PatoA.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/IAMkya8.png" group-title="Music", THE K-POP
 #EXTVLCOPT:http-User-agent=REDLINECLIENT(Windows NT 6.1; WOW64; rv:33.0) Gecko/20120101 Firefox/33.0
 https://git.io/JgYAE
 
+#EXTINF:-0 tvg-name="TV" tvg-logo="https://imgur.com/B7ILXMc?r" group-title="Music", KPOP2
+https://raw.githubusercontent.com/AqFad2811/randomlivefromyt/main/TheKPOP2.m3u8
 
 
 °°° Religi °°°
