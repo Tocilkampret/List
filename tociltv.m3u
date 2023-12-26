@@ -369,9 +369,12 @@ https://nyanv-live-cdn.mncnow.id/live/eds/TRTWorld/sa_dash_vmx/TRTWorld.mpd
 °°° Knowledge °°°
 
 
+#EXTINF:-1 tvg-id="discovery" tvg-name="discovery" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb4003.png" group-title="Knowledge" ,  Discovery HD 
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/discoverychannel.m3u8
 
-#EXTINF:-1 tvg-id="discovery" tvg-name="discovery" group-title="Knowledge" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/512px-2019_Discovery_logo.svg.png",Discovery Channel
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 11) ExoPlayerLib/2.13.2 http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3001
+#EXTINF:-1 tvg-id="discovery" tvg-name="discovery" group-title="Knowledge" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/512px-2019_Discovery_logo.svg.png", Discovery Channel
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch29%29/Stream(02)/index.m3u8
+
 
 #EXTINF:-1 group-title="Knowledge" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png",animal planet
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 11) ExoPlayerLib/2.13.2 
@@ -1454,17 +1457,15 @@ http://168.227.22.18:1935/live/mobile-039/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19927127_ico.png?ts=1654806546" group-title="Music",DANGDUT TV
 #http://bravo.kugo.id:1935/dangduttivi/udp.stream_360p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20957953_ico.png?ts=1655330333" group-title="Music",molahits tv
-http://ventdelnord.tv:8080/mola/directe.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/IFLXi6n?r" group-title="Music", ALL THE K-POP
+#EXTINF:-1 tvg-logo="https://imgur.com/IFLXi6nr.png" group-title="Music", ALL THE K-POP
 https://ythls.armelin.one/channel/UCPde4guD9yFBRzkxk2PatoA.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/IAMkya8.png" group-title="Music", THE K-POP
 #EXTVLCOPT:http-User-agent=REDLINECLIENT(Windows NT 6.1; WOW64; rv:33.0) Gecko/20120101 Firefox/33.0
 https://git.io/JgYAE
 
-#EXTINF:-0 tvg-name="TV" tvg-logo="https://imgur.com/B7ILXMc?r" group-title="Music", KPOP2
+#EXTINF:-0 tvg-name="TV" tvg-logo="https://imgur.com/B7ILXMcr.pnh" group-title="Music", KPOP2
 https://raw.githubusercontent.com/AqFad2811/randomlivefromyt/main/TheKPOP2.m3u8
 
 
