@@ -1094,16 +1094,15 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1 tvg-id="beINSportsUSA.us" tvg-logo="https://logowik.com/content/uploads/images/bein-sports-hd.jpg" group-title="Sports",beIN SPORTS HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 
+#EXTINF:-1 tvg-id="beINSports1Indonesia.id" tvg-name="beINSports3Indonesia.id" tvg-logo="https://thumbor.prod.vidiocdn.com/fEnIWShttps://i.imgur.com/Vtk2cGI.png" group-title="Sports", beIN SPORTS 1 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://api.thomasandi.my.id/alys/inditv/drm.php?id=bein1 
+https://api.thomasandi.my.id/alys/inditv/index.mpd?id=bein1
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c9f3795d0a1d46b505fd5b5d34953dec:ef3bb480e631339ce3690d519f328fbd
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/Vtk2cGI.png", beIN SPORTS 1
-#https://production-drm-vidio-com-event-1.akamaized.net/out/v1/6ae0fdb0f6ee4b10b5497efc10f0ce03/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=e34a4f7ba8ccfe3f5e14d8413af8d6f8:20f28eaa8592128da2032a0c05fc7b12
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/UYSMao3.png", beIN SPORTS 3
-#https://production-drm-vidio-com-event-2.akamaized.net/out/v1/078b12e86d0a4f75b4c7ce1ed23d82d9/index.mpd
+#EXTINF:-1 tvg-id="beINSports3Indonesia.id" tvg-name="BeInSports1Indonesia.qa" tvg-logo="https://i.imgur.com/UYSMao3.pngimage/6317/4a8762.png" group-title="Sports", beIN SPORTS 3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://api.thomasandi.my.id/alys/inditv/drm.php?id=bein2 
+https://api.thomasandi.my.id/alys/inditv/index.mpd?id=bein2
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -1211,7 +1210,18 @@ https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="TVRI" tvg-logo="https://i.imgur.com/7hVLCeq.png" group-title="Sports",TVRI SPORT
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/0y6DWtYs/usee-Sport.png",Usee Sports  
+#EXTINF:-1 tvg-id="beINSports3Indonesia.id" tvg-name="BeInSports1Indonesia.qa" tvg-logo="https://i.postimg.cc/0y6DWtYs/usee-Sport.png" group-title="Sports", Usee Sports 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://api.thomasandi.my.id/alys/inditv/drm.php?id=useesport 
+https://api.thomasandi.my.id/alys/inditv/index.mpd?id=useesport 
+#KODIPROP:inputstream.adaptive.license_key=https://alfa.brass.my.id/usee/get2.php?id=bein1&type=drm&ch=premium&token=991475758762341028348326 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://api.thomasandi.my.id/alys/inditv/drm.php?id=useesport 
+https://api.thomasandi.my.id/alys/inditv/index.mpd?id=useesports2 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://alfa.brass.my.id/usee/get2.php?id=bein2&type=drm&ch=premium&token=991475758762341028348326 
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/0y6DWtYs/usee-Sport.png", Usee Sports  
 #https://delivery.ksa.my.id/stream/macan_sport_3/playlist.m3u8?token=ym1wtrp
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/jJY4VIw.png",Usee Sports 2
@@ -1420,7 +1430,7 @@ https://bit.ly/46646g0
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/512px-VH1_logonew.svg.png" group-title="Music", VH1
 #EXTVLCOPT:http-user-agent=aHR0cHM6Ly9xcmVhdGlma3UubXkuaWQgLSBwbGF5bGlzdCBxcmVhdGlma3V0dg==13)
-https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
+#https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 
 #EXTINF:0 tvg-id="musicbox" group-title="Music" tvg-logo="https://i.ibb.co/xYPTdNM/Music-Box.png", MUSIC BOX
 
