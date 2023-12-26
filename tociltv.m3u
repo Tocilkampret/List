@@ -666,9 +666,9 @@ http://iptvid.my.id/hmm/Ben/spy123456/flik.m3u8
 https://nyanv-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
 
 #EXTINF:-1 tvg-id="CitraBioskop.id" tvg-name="Citra Bioskop" tvg-logo="https://i.imgur.com/KK1ipNk.png" group-title="Movies", Citra Bioskop
+https://yamcode.com/raw/citra-bioskop-fm
 
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fLTLsmxR/boo.png" group-title="Movies",BOO
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fLTLsmxR/boo.png" group-title="Movies", BOO
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -807,13 +807,13 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Paramount-HD/sa_dash_vmx/Paramount-HD.
 https://nyanv-live-cdn.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zIpX0v8.png" group-title="Entertainment", Citra DRAMA
-#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch378%29/index.m3u8
+https://yamcode.com/raw/citra-drama-fm
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q1N6ka8.png" group-title="Entertainment ", Citra ENTERTAINMENT
-#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch379%29/index.m3u8
+https://yamcode.com/raw/citra-ent-fm
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L0kjuZs.png" group-title="Entertainment", Citra MUSLIM
-#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch334%29/index.m3u8
+https://yamcode.com/raw/citra-muslim-fm
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
