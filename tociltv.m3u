@@ -376,7 +376,7 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/discoverychannel.m3u8
 #http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch29%29/Stream(02)/index.m3u8
 http://paste.zaltv.my.id/raw/AMCDRNoflw
 
-#EXTINF:-1 group-title="Knowledge" tvg-logo="https://i.imgur.com/foLICwL.png",  
+#EXTINF:-1 group-title="Knowledge" tvg-logo="https://i.imgur.com/foLICwL.png",  Discovery asia
 http://paste.zaltv.my.id/raw/IscFiuZqXI
 
 #EXTINF:-1 group-title="Knowledge" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png",animal planet
@@ -1468,7 +1468,7 @@ https://ythls.armelin.one/channel/UCPde4guD9yFBRzkxk2PatoA.m3u8
 #EXTVLCOPT:http-User-agent=REDLINECLIENT(Windows NT 6.1; WOW64; rv:33.0) Gecko/20120101 Firefox/33.0
 https://git.io/JgYAE
 
-#EXTINF:-0 tvg-name="TV" tvg-logo="https://i.imgur.com/B7ILXMcr.pnh" group-title="Music", KPOP2
+#EXTINF:-0 tvg-name="TV" tvg-logo="https://i.imgur.com/B7ILXMcr.png" group-title="Music", KPOP2
 https://raw.githubusercontent.com/AqFad2811/randomlivefromyt/main/TheKPOP2.m3u8
 
 
