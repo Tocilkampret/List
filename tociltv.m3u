@@ -1167,7 +1167,7 @@ https://www.livedoomovies.com:4432/02_foxsport_720p/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://www.livedoomovies.com:4432/02_FoxSport2_TH_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="Wsport.us" tvg-name="W-Sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8JMftgBdoYKQyWqGF-jQvM2Y_mVqfbW_HFA&usqp=CAU" group-title="Sports", W-sport 
+#EXTINF:-1 tvg-id="Wsport.us" tvg-name="W-Sport" tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8JMftgBdoYKQyWqGF-jQvM2Y_mVqfbW_HFA&usqp=CAU" group-title="Sports", W-sport 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36
 http://rr.dens.tv:80/h/h26/S4/mnf.m3u8
 
@@ -1331,7 +1331,7 @@ http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=38425_&extens
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/&Origin=https://player.licenses4.me
 #http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/5374
 
-#EXTINF:-1 tvg-id="SS Premier League" tvg-name="SS Premier League" tvg-logo="https://i.imgur.com/xZFMYj4.png" group-title="Sports +",Supersport Premier League 
+#EXTINF:-1 tvg-id="SS Premier League" tvg-name="SS Premier League" tvg-logo="https://i.imgur.com/xZFMYj4.png" group-title="Sports+",Supersport Premier League 
 https://tvnow.best/api/stream/billypetty22@gmail.com/413397/livetv.epg/ss.premier.league.ze.m3u8
 
 #EXTINF:1 tvg-logo="https://i.imgur.com/goTVVel.png" group-title="Sports+", true PREMIER FOOTBALL 1
