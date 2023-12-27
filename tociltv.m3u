@@ -1054,8 +1054,10 @@ https://nyanv-live-cdn.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/v4kj8pI.png",MOTORVISIONTV
 http://210.210.155.35:80/uq2663/h/h09/01.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/c5315a189195023bf96bd76161880f5a.png" group-title="Sports",mOTOR RaCING
-#https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/047f241e-6a2f-4d8a-baac-3d0eb93758aa/2.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/MotorRacingTV.png" group-title="Sports", mOTOR RaCING
+#EXTVLCOPT:network-caching=1000
+#https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/motorracing/master.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/7NeBmWX.jpg",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8 
