@@ -1327,6 +1327,9 @@ http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=38425_&extens
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/&Origin=https://player.licenses4.me
 #http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/5374
 
+#EXTINF:-1 tvg-id="SS Premier League" tvg-name="SS Premier League" tvg-logo="https://i.imgur.com/xZFMYj4.png" group-title="Sports +",Supersport Premier League 
+https://tvnow.best/api/stream/billypetty22@gmail.com/413397/livetv.epg/ss.premier.league.ze.m3u8
+
 #EXTINF:1 tvg-logo="https://i.imgur.com/goTVVel.png" group-title="Sports+", true PREMIER FOOTBALL 1
 https://edge1.laotv.la/live/TSport1/index.m3u8
 
