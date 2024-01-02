@@ -669,10 +669,7 @@ https://yamcode.com/raw/citra-bioskop-fm
 #https://1.yurend.xyz/dash-wv/linear/2407/default_primary.mpd
 
 #EXTINF:-1 tvg-id="BioskopIndonesia.id" tvg-name="Bioskop Indonesia" tvg-logo="https://i.imgur.com/tThW9R1.png" group-title="Movies", BIOSKOP INDONESIA
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.androboxtv.workers.dev/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856fd0d66d0170341bf1000905/manifest.mpd
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3B145Ej.png" group-title="Movies", SINEMA INDONESIA
 
