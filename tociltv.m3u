@@ -773,7 +773,6 @@ EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 11) ExoPlay
 http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/3279
 #http://muka03.wanicelife.com:8880/live/3ca7043n04/asfde32e2/71094.ts
 
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PWzq0aU.png" group-title="Entertainment", ROCK entertainment
