@@ -649,7 +649,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KLjXQqF/FLIX.png" group-title="Movies", FLiK  
 //#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 11) ExoPlayerLib/2.13.2 
-http://iptvid.my.id/hmm/Ben/spy123456/flik.m3u8
+http://iptvtree.net:8080/F26646/f950f250/165095
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
