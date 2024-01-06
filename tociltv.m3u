@@ -1540,14 +1540,18 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LGEdeyJ.png" group-title="Malay", tv2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd?id=2
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv3/ 
+ 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/bHcZgIo.png" group-title="Malay", TV3
-https://aqfadtv.xyz/live/tv3/index.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3afe30ee4ea24a67fe5a2ef06e83db0b:27a2f71d87bf5eb105af096fb6605d97
+https://unifi-live03.secureswiftcontent.com/UnifiHD/live03.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dLzgBUj.png" group-title="Malay", astro AWANI
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oBOZVFJ.png" group-title="Malay" tvg-id="AstroAura.my" tvg-name="AstroAura.my", astro AURA
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://kmkus.wanicelife.com:8880//live/3ca05163n16/76tgs8vsv/71025.ts
 
 #EXTINF:-1 tvg-id="004" tvg-name="" tvg-country="MY" tvg-language="Malay" tvg-logo="https://television-live.com/uploads/posts/46chgferwhehergf.png" tvg-url="" group-title="Malay",Drama Sangat
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
