@@ -672,11 +672,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/
 https://yamcode.com/raw/citra-bioskop-fm
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fLTLsmxR/boo.png" group-title="Movies", BOO
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"8yZr7GB/JYefSGQPMPHIiA","kid":"6k1RreAbvzlG4N6XMFG6EA"}],"type":"temporary"}
-#https://1.yurend.xyz/dash-wv/linear/2407/default_primary.mpd
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=BOO
 
 #EXTINF:-1 tvg-id="BioskopIndonesia.id" tvg-name="Bioskop Indonesia" tvg-logo="https://i.imgur.com/tThW9R1.png" group-title="Movies", BIOSKOP INDONESIA
 
