@@ -1478,7 +1478,7 @@ https://ythls.armelin.one/channel/UCPde4guD9yFBRzkxk2PatoA.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/IAMkya8.png" group-title="Music", THE K-POP
 #EXTVLCOPT:http-User-agent=REDLINECLIENT(Windows NT 6.1; WOW64; rv:33.0) Gecko/20120101 Firefox/33.0
-https://git.io/JgYAE
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
 
 #EXTINF:-0 tvg-name="TV" tvg-logo="https://i.imgur.com/B7ILXMcr.png" group-title="Music", KPOP2
 https://raw.githubusercontent.com/AqFad2811/randomlivefromyt/main/TheKPOP2.m3u8
