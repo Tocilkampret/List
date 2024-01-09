@@ -455,14 +455,15 @@ https://nyanv-live-cdn.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 
 
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/E84jnP8.png", nickelodeon
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#EXTVLCOPT:http-user-agent=MNCNow/6.33.0 ExoPlayerLib/2.18.1
-https://nyanv-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
+EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+EXTVLCOPT:http-user-agent=MNCNow/6.33.0 ExoPlayerLib/2.18.1
+#https://nyanv-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
+http://paste.zaltv.my.id/raw/TI1m5hiAmy
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ede448d3d50590007a4419e/colorLogoPNG.png" tvg-id="ext" group-title="Kids",NICK PLUTO TV
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ede448d3d50590007a4419e/colorLogoPNG.png" tvg-id="ext" group-title="Kids", nick pluto tv  
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c7e32672-77f8-11ec-8df7-e1b1a799e6b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=de1061bf-bfba-40c5-b948-91d8210801e2&userId=&serverSideAds=true
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/B29D2s1.png", CARTOONITO 
@@ -477,9 +478,9 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/cartoonito.m3u8
 https://nyanv-live-cdn.mncnow.id/live/eds/Dreamwork-HD/sa_dash_vmx/Dreamwork-HD.mpd
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png", CARTOON NETWORK
-https://ctrl.laotv.la/live/CartoonNetwork/index.m3u8
+#https://ctrl.laotv.la/live/CartoonNetwork/index.m3u8
 #http://paste.zaltv.my.id/raw/deWUmQrDkQ
-
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/cartoonnetwork.m3u8
 
 KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
