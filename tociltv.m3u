@@ -1220,15 +1220,21 @@ https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8
 
 #EXTINF:-1 tvg-id="beINSports3Indonesia.id" tvg-name="BeInSports1Indonesia.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Usee_Sports.png/1600px-Usee_Sports.png" group-title="Sports", Usee Sports 
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(d724a7d5-0773-43a6-bf5b-06da1883d520)/manifest.mpd
+http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/298577
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://api.thomasandi.my.id/alys/inditv/drm.php?id=useesport 
-https://api.thomasandi.my.id/alys/inditv/index.mpd?id=useesport 
+#https://api.thomasandi.my.id/alys/inditv/index.mpd?id=useesport 
 #KODIPROP:inputstream.adaptive.license_key=https://alfa.brass.my.id/usee/get2.php?id=bein1&type=drm&ch=premium&token=991475758762341028348326 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/jJY4VIw.png",Usee Sports 2
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(0002f5b4-bcc0-4b51-93c8-0de407cf7e19)/manifest.mpd
+http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/298578
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://api.thomasandi.my.id/alys/inditv/drm.php?id=useesport 
-https://api.thomasandi.my.id/alys/inditv/index.mpd?id=useesports2 
+#https://api.thomasandi.my.id/alys/inditv/index.mpd?id=useesports2 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://alfa.brass.my.id/usee/get2.php?id=bein2&type=drm&ch=premium&token=991475758762341028348326 
 
