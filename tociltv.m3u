@@ -1,8 +1,6 @@
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml, https://www.bevy.be/bevyfiles/indonesiapremium1.xml, https://www.bevy.be/bevyfiles/indonesiapremium2.xml, https://www.bevy.be/bevyfiles/indonesiapremium3.xml, https://www.bevy.be/bevyfiles/indonesiapremium4.xml, 
 https://www.bevy.be/bevyfiles/malaysia.xml, https://www.bevy.be/bevyfiles/malaysiapremium1.xml, https://www.bevy.be/bevyfiles/malaysiapremium2.xml,
-https://www.bevy.be/bevyfiles/unitedstatespremium1.xml, https://www.bevy.be/bevyfiles/unitedstatespremium2.xml, https://www.bevy.be/bevyfiles/unitedstatespremium3.xml, https://www.bevy.be/bevyfiles/unitedstatespremium4.xml,
-https://www.bevy.be/bevyfiles/unitedkingdom.xml, https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml, 
-https://www.bevy.be/bevyfiles/canada.xml, https://www.bevy.be/bevyfiles/canadapremium.xml, https://www.bevy.be/bevyfiles/canadapremium2.xml, https://www.bevy.be/bevyfiles/canadapremium3.xml, https://epg.pw/xmltv/epg_ID.xml" #refresh="3600"
+https://www.bevy.be/bevyfiles/unitedstatespremium1.xml, https://www.bevy.be/bevyfiles/unitedstatespremium2.xml, https://www.bevy.be/bevyfiles/unitedstatespremium3.xml, https://www.bevy.be/bevyfiles/unitedstatespremium4.xml, https://www.bevy.be/bevyfiles/unitedkingdom.xml, https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml, https://www.bevy.be/bevyfiles/canada.xml, https://www.bevy.be/bevyfiles/canadapremium.xml, https://www.bevy.be/bevyfiles/canadapremium2.xml, https://www.bevy.be/bevyfiles/canadapremium3.xml, https://epg.pw/xmltv/epg_ID.xml" refresh="3600"
 
 
 EXTM3U url-tvg="https://github.com/thefirefox12537/streams/raw/master/epg/guide.xml.gz" refresh="3600"
