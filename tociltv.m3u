@@ -1419,22 +1419,22 @@ https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
 #EXTINF:-1 group-title="Sports+" tvg-logo="https://i.imgur.com/40BbQUd.png", SONY SPORTS TEN 5 
 https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/HR/HR001.png" group-title="Sports+" tvg-group-title="Arena Sport", ARENA SPORT 1 
+#EXTINF:-1 tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-01.png" group-title="Sports+", ARENA SPORT 1 
 http://80.252.37.194:5000/udp/233.233.233.3:12000
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/HR/HR002.png" group-title="Sports+" tvg-group-title="Arena Sport", ARENA SPORT 2 
+#EXTINF:-1 tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-02.png" group-title="Sports+", ARENA SPORT 2 
 http://80.252.37.194:5000/udp/233.233.233.4:12000
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/HR/HR003.png" group-title="Sports+" tvg-group-title="Arena Sport", ARENA SPORT 3 
+#EXTINF:-1 tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-03.png" group-title="Sports+", ARENA SPORT 3 
 http://80.252.37.194:5000/udp/233.233.233.5:12000
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/HR/HR004.png" group-title="Sports+" tvg-group-title="Arena Sport", ARENA SPORT 4 
+#EXTINF:-1 tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-04.png" group-title="Sports+", ARENA SPORT 4 
 http://80.252.37.194:5000/udp/233.233.233.6:12000
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/HR/HR005.png" group-title="Sports+" tvg-group-title="Arena Sport", ARENA SPORT 5 
+#EXTINF:-1 tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-05.png" group-title="Sports+", ARENA SPORT 5 
 http://80.252.37.194:5000/udp/233.233.233.7:12000
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/HR/HR006.png" group-title="Sports+" tvg-group-title="Arena Sport", ARENA SPORT 6 
+#EXTINF:-1 tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-06.png" group-title="Sports+", ARENA SPORT 6 
 http://80.252.37.194:5000/udp/233.233.233.8:12000 
 
 
