@@ -1419,20 +1419,23 @@ https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
 #EXTINF:-1 group-title="Sports+" tvg-logo="https://i.imgur.com/40BbQUd.png", SONY SPORTS TEN 5 
 https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
 
-#EXTINF:-1 group-title="Sports+" tvg-logo="https://i.imgur.com/XA3zxEE.png", TNT SPORTS
-https://glxlmn026c.singularcdn.net.br/playout_01/playlist.m3u8 
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/HR/HR001.png" group-title="Sports+" tvg-group-title="Arena Sport", ARENA SPORT 1 
+http://80.252.37.194:5000/udp/233.233.233.3:12000
 
-#EXTINF:-1 group-title="Sports+" tvg-logo="https://i.imgur.com/E6pLvOV.png", TNT SPORTS 2 
-https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8 
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/HR/HR002.png" group-title="Sports+" tvg-group-title="Arena Sport", ARENA SPORT 2 
+http://80.252.37.194:5000/udp/233.233.233.4:12000
 
-#EXTINF:-1 group-title="Sports+" tvg-logo="https://i.imgur.com/LFSMbpN.png", TNT SPORTS 3 
-https://glxlmn026c.singularcdn.net.br/playout_03/playlist.m3u8 
- 
-#EXTINF:-1 group-title="Sports+" tvg-logo="https://i.imgur.com/XA3zxEE.png", TNT SPORTS 4 
-https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8 
- 
-#EXTINF:-1 group-title="Sports+" tvg-logo="https://i.imgur.com/XA3zxEE.png", TNT SPORTS 5 
-https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8 
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/HR/HR003.png" group-title="Sports+" tvg-group-title="Arena Sport", ARENA SPORT 3 
+http://80.252.37.194:5000/udp/233.233.233.5:12000
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/HR/HR004.png" group-title="Sports+" tvg-group-title="Arena Sport", ARENA SPORT 4 
+http://80.252.37.194:5000/udp/233.233.233.6:12000
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/HR/HR005.png" group-title="Sports+" tvg-group-title="Arena Sport", ARENA SPORT 5 
+http://80.252.37.194:5000/udp/233.233.233.7:12000
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/HR/HR006.png" group-title="Sports+" tvg-group-title="Arena Sport", ARENA SPORT 6 
+http://80.252.37.194:5000/udp/233.233.233.8:12000 
 
 
 
