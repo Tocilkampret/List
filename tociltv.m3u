@@ -1190,9 +1190,6 @@ http://210.210.155.35/uq2663/h/h26/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4c
 #EXTVLCOPT:http-user-agent=MNCNow/6.33.0 ExoPlayerLib/2.18.1
 https://nyanv-live-cdn.mncnow.id:443/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 
-#EXTINF:-1 tvg-id="unifi Sports 1" tvg-name="unifi Sports 1" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/UnifiSports2023.png",unifi SPORTS
-https://unifi-live08.secureswiftcontent.com/UnifiHD/live11.mpd
-
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/yypex32z12hppoc/combate.png" group-title="Sports", COMBATE
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=63307_&extension=ts
 
@@ -1204,13 +1201,6 @@ https://1180885077.rsc.cdn77.org/HLS/BOXINGTV_SCTE.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mRsnztA.png" group-title="Sports", FIGHT BOX
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=61800_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/L0fASyS.png" group-title="Sports", UNBEATEN 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gvjioX2sRMChj2YEeTScWQ","k":"GxRPc-b-_pHNBfhQ4rWJ0A"}]}
-https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-044/stream.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/MMATV_logo_dark.png" group-title="SPORTS",MMA TV
 
@@ -1319,38 +1309,34 @@ https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-w
 
 
 #EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-name="Sky Sports Premier League" tvg-logo="https://i.imgur.com/wA3DieO.png" group-title="Sports",sky sports premier league
-#https://m3u-editor.com/serve/048feb20-21c5-11ed-80f4-4df2cd90d9ff/621652095
+
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rsT6Cu2.png" group-title="Sports",sky sports football
-#https://m3u-editor.com/serve/048feb20-21c5-11ed-80f4-4df2cd90d9ff/621652190
-#https://m3u-editor.com/serve/048feb20-21c5-11ed-80f4-4df2cd90d9ff/621652098
 
 
-#EXTINF:-1 tvg-id="EDGEsport.th" tvg-name="EDGEsport Channel" tvg-logo="https://i.imgur.com/yQJqeiF.png" group-title="Sports+",EDGE SPORT
+
+#EXTINF:-1 tvg-id="EDGEsport.th" tvg-name="EDGEsport Channel" tvg-logo="https://i.imgur.com/yQJqeiF.png" group-title="Sports+", EDGE SPORT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://edgesport-samsunguk.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Stadium_%28sports_network%29_logo.svg/512px-Stadium_%28sports_network%29_logo.svg.png" group-title="Sports+", STADIUM
-#https://bcovlive-a.akamaihd.net/79ebca453e6340dcb32b09707ce3fb82/us-east-1/5994000126001/playlist.m3u8
-
-#EXTINF:-1 tvg-id="InsightTV.nl" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/7xmaoL0.png" group-title="Sports+", Insight TV
-#https://insighttv-vizio.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FITE" tvg-name="FITE" tvg-logo="https://i.imgur.com/4w95NZQ.png" group-title="Sports+",FITE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Tennis" tvg-name="Tennis" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/512px-Tennis_Channel_logo.svg.png" group-title="Sports+",TENNIS CHANNEL
+#EXTINF:-1 tvg-id="Tennis" tvg-name="Tennis" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/512px-Tennis_Channel_logo.svg.png" group-title="Sports+", TENNIS CHANNEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EDYUQ4k.png" group-title="Sports+", Orange Sport 1
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=38422_&extension=ts
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uh0op1Z.png" group-title="Sports+", Orange Sport 2
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=65476_&extension=ts
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b1yd7G7.png" group-title="Sports+", Orange Sport 3
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=38424_&extension=ts
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8JDyFYI.png" group-title="Sports+", Orange Sport 4
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=38425_&extension=ts
 
@@ -1419,10 +1405,10 @@ https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
 #EXTINF:-1 group-title="Sports+" tvg-logo="https://i.imgur.com/40BbQUd.png", SONY SPORTS TEN 5 
 https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Mh9tKPx.png" group-title="Sports+", STAR SPORTS SELECT 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2Nofz51.png" group-title="Sports+", STAR SPORTS SELECT 1 HD
 http://source.strictv.com:80/play/live.php?mac=00:1a:79:11:22:31&stream=1114583&extension=ts&play_token=9sVyHjbjBn
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FtRT73R.png" group-title="Sports+", STAR SPORTS SELECT 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JA3nvTM.png" group-title="Sports+", STAR SPORTS SELECT 2 HD
 http://source.strictv.com:80/play/live.php?mac=00:1a:79:11:22:31&stream=1114584&extension=ts&play_token=F3F69ufJDw
 
 #EXTINF:-1 tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-01.png" group-title="Sports+", ARENA SPORT 1 
