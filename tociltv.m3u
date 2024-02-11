@@ -53,8 +53,8 @@ http://paste.zaltv.my.id/raw/TeDdMKGDEJ
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/EMmOvnQ.png",SCTV 
-#http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8 
-https://s.id/sctv_shareext-m3u8|User-Agent=Shareext/5.0
+http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8 
+#https://s.id/sctv_shareext-m3u8|User-Agent=Shareext/5.0
 
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/D70rSkE.png",moji
 #https://raw.githubusercontent.com/mimipipi22/lalajo/main/moji.m3u8
