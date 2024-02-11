@@ -53,8 +53,7 @@ http://paste.zaltv.my.id/raw/TeDdMKGDEJ
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/EMmOvnQ.png",SCTV 
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 11) ExoPlayerLib/2.13.2 
-http://103.127.209.247:8080/nvc247@home01/Wdk8VzyYTG/10 
+http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8 
 
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/D70rSkE.png",moji
 #https://raw.githubusercontent.com/mimipipi22/lalajo/main/moji.m3u8
