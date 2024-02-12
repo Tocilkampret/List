@@ -110,7 +110,8 @@ EXTVLCOPT:http-user-agent=MNCNow/6.33.0 ExoPlayerLib/2.18.1
 http://paste.zaltv.my.id/raw/K3st3WSpXP
 
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png",TVRI Nasional
-http://paste.zaltv.my.id/raw/pO8PHMEeMy
+#http://paste.zaltv.my.id/raw/pO8PHMEeMy
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 
 KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
