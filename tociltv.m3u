@@ -657,14 +657,6 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=264
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=4065
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids/toon_goggles.png" group-title="KIDS", TOON GOOGLES 
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-#https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=34
-
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids/kidsflix.png" group-title="KIDS",KIDS FLIX 
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-#https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
-
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids/squad.png" group-title="Kids", SQUAD 
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=71
@@ -680,10 +672,6 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=34
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids/gross_out.png" group-title="Kids", GROSS OUT 
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=41
-
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids/toon_googles_jr.png" group-title="KIDS",TOON GOOGLES JR 
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=33
 
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids/larva.png" group-title="Kids", LARVA
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
@@ -1370,23 +1358,23 @@ https://ctrl.laotv.la/live/Bsport2/index.m3u8
 https://www.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8
 
 
-#EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-logo="https://i.imgur.com/X2WVnWr.png" group-title="Sports+", astro SUPERSPORT
+#EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-logo="https://i.imgur.com/JbH3J1e.png" group-title="Sports+", astro SUPERSPORT
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 11) ExoPlayerLib/2.13.2 
 http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/26
 
-#EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-logo="https://i.imgur.com/AZQ0xgp.png" group-title="Sports+", astro SUPERSPORT 2
+#EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-logo="https://i.imgur.com/5YHs2DV.png" group-title="Sports+", astro SUPERSPORT 2
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 11) ExoPlayerLib/2.13.2 
 http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/27
 
-#EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-logo="https://i.imgur.com/cMYSM6e.png" group-title="Sports+", astro SUPERSPORT 3
+#EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-logo="https://i.imgur.com/TE652vN.png" group-title="Sports+", astro SUPERSPORT 3
 //EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 11) ExoPlayerLib/2.13.2 
 http://livein1.com:80/play/live.php?mac=00:1a:79:b1:85:5e&extension=ts&stream=186389
 
-#EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-logo="https://i.imgur.com/PlwrDwx.png" group-title="Sports+", astro SUPERSPORT 4
+#EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-logo="https://i.imgur.com/irWZ3TG.png" group-title="Sports+", astro SUPERSPORT 4
 //EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 11) ExoPlayerLib/2.13.2 
 http://livein1.com:80/play/live.php?mac=00:1a:79:b1:85:5e&extension=ts&stream=186390
 
-#EXTINF:-1 tvg-id="AstroSuperSport5.my" tvg-logo="https://i.imgur.com/FieopQP.png" group-title="Sports+", astro SUPERSPORT 5
+#EXTINF:-1 tvg-id="AstroSuperSport5.my" tvg-logo="https://i.imgur.com/ebpvrUx.png" group-title="Sports+", astro SUPERSPORT 5
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png" group-title="Sports+",MUTV
