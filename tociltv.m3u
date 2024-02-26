@@ -645,6 +645,66 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=37
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1wYnA2i.jpg" group-title="Kids",ZOO MOO
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CsUeavL.png" group-title="Kids", BOONIE CUBS 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=3507
+
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids/camp_spoopy.png" group-title="Kids", CAMP SPOOPY 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=264
+
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids/smurfs.png" group-title="Kids", SMURFS 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=4065
+
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids/toon_goggles.png" group-title="KIDS", TOON GOOGLES 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+#https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=34
+
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids/kidsflix.png" group-title="KIDS",KIDS FLIX 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+#https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
+
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids/squad.png" group-title="Kids", SQUAD 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=71
+
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids/sparkle_power.png" group-title="Kids", SPARKLE POWER 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=35
+
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids/on_nom.png" group-title="Kids", ON NOM 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=34
+
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids/gross_out.png" group-title="Kids", GROSS OUT 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=41
+
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids/toon_googles_jr.png" group-title="KIDS",TOON GOOGLES JR 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=33
+
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids/larva.png" group-title="Kids", LARVA
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+https://php.mylivestream.my.id/php/home215.m3u8?id=11794
+
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids/upin_ipin.png" group-title="Kids", UPIN IPIN
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+https://php.mylivestream.my.id/php/home215.m3u8?id=11795
+
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids/masha_bear.png" group-title="Kids", MASHA & BEAR
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+https://php.mylivestream.my.id/php/home215.m3u8?id=11798
+
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids/doraemon.png" group-title="Kids", DORAEMON
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+https://php.mylivestream.my.id/php/home215.m3u8?id=11796
+
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids/tom_jerry.png" group-title="Kids", TOM & JERRY
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+https://php.mylivestream.my.id/php/home215.m3u8?id=11797
+
 
 °°° Movies °°°
 
