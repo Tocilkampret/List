@@ -569,38 +569,23 @@ http://line.lemotv.cc:25461//live/Ivica5274/juric4005/1699093.ts
 #EXTINF:-1  tvg-logo="https://i.imgur.com/fg8c9WK.png" group-title="Kids", PBS KIDS
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/B5MAphH.png",MIAO MI
-#https://nyanv-live-cdn.mncnow.id/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd
-
 #EXTINF:-1 group-title="Kids" tvg-id="KIDSFLIX" tvg-logo="https://i.imgur.com/4Pn0ADQ.png", KIDSFLIX
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60faf9ddfcc1f200070a5932/colorLogoPNG.png" group-title="Kids",GARFIELD & FRIENDS
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60faf9ddfcc1f200070a5932/colorLogoPNG.png" group-title="Kids", GARFIELD & FRIENDS
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60faf9ddfcc1f200070a5932/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c7e4fb31-77f8-11ec-8df7-e1b1a799e6b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=637a7296-b203-42da-83fb-300e328143d5&userId=&serverSideAds=true
 
 #EXTINF:0 tvg-logo="https://images.pluto.tv/channels/5db0ad56edc89300090d2ebb/colorLogoPNG.png" group-title="Kids",KIDS MOVIE CLUB
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c7e39ba5-77f8-11ec-8df7-e1b1a799e6b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=79e029d0-007c-4513-a784-dd479e643365&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/62oo8Bx.png" group-title="Kids",EBS Kids
+#EXTINF:-1 tvg-logo="https://i.imgur.com/62oo8Bx.png" group-title="Kids", EBS Kids
 https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xePwW13.png" group-title="Kids",LEGO CHANNEL
-#https://legochannel-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ka5OY8k.png" group-title="Kids", Mentari TV
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/xePwW13.png" group-title="Kids", LEGO TOONS
-#https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22549d5eeee0f5a4094ba/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ka5OY8k.png" group-title="Kids",Mentari TV
-
-
-#EXTINF:-1 tvg-id="BiznetKids.id" tvg-name="Biznet Kids" tvg-logo="https://i.imgur.com/J5QNqJ0.png" group-title="Kids", Biznet Kids
-http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
 
 #EXTINF:-1 tvg-id="IndiKids.id" tvg-name="IndiKids" tvg-logo="https://i.imgur.com/gnhn867.png" group-title="Kids", indiKIDS
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel%28c99739b1-0748-4a2a-b586-2501837adf20%29/index.m3u8
+//https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel%28c99739b1-0748-4a2a-b586-2501837adf20%29/index.m3u8
 
 #EXTINF:-1 tvg-id="HipHipHoree.id" tvg-name="Hip Hip Horee!" tvg-logo="https://i.imgur.com/jEFjczI.png" group-title="Kids", Hip Hip HoRee!
 
@@ -617,9 +602,6 @@ https://moonbug-rokuus.amagi.tv/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-0 tvg-name="TV" tvg-logo="https://i.imgur.com/Ja9Rx9p.png" group-title="Kids", my KiDZ
 https://nyanv-live-cdn.mncnow.id/live/eds/My-Kids/sa_dash_vmx/My-Kids.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/76/PBS_Kids_Logo.svg/512px-PBS_Kids_Logo.svg.png" group-title="Kids",PBS KIDS
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SbBKr8L.png" group-title="Kids", BABY SHARK
 https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
@@ -638,14 +620,10 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=37
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7kaHaWLIHiKuvYZhEX_pSk06Ernja-oULsg&usqp=CAU" group-title="Kids",YAAAS!
 
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_zoomoo_m.png" group-title="Kids",ZOO MOO
-#https://rockentertainment-zoomoo-1-us.samsung.wurl.tv/2000.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1wYnA2i.jpg" group-title="Kids",ZOO MOO
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CsUeavL.png" group-title="Kids", BOONIE CUBS 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CsUeavL.png" group-title="Kids", BOONIE CUBS TV
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=3507
 
