@@ -671,14 +671,14 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Rockaction/sa_dash_vmx/Rockaction.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://i.imgur.com/oH8wyqR.png" group-title="Movies",GALAXY PREMIUM
+#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://github.com/Qingtvnew/test/raw/main/galaxy-premium.png" group-title="Movies",GALAXY PREMIUM
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=MNCNow/6.33.0 ExoPlayerLib/2.18.1
 https://nyanv-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-logo="https://i.imgur.com/w8pi4Ip.png" group-title="Movies",GALAXY
+#EXTINF:-1 tvg-logo="https://github.com/Qingtvnew/test/raw/main/galaxy.png" group-title="Movies",GALAXY
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=MNCNow/6.33.0 ExoPlayerLib/2.18.1
 https://nyanv-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
@@ -705,7 +705,7 @@ http://iptvtree.net:8080/F26646/f950f250/165095
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/UWCKaJw.png",imc
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/CbfrjO7.png",imc
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=MNCNow/6.33.0 ExoPlayerLib/2.18.1
 https://nyanv-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
