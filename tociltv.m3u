@@ -1000,9 +1000,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemach
 #EXTINF:0 group-title="Lifestyle" tvg-logo="https://i.imgur.com/vQuyyWO.png" , FTV UHD
 http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png" group-title="Lifestyle",FASHION TV
-https://fashiontv-fashiontv-2-es.samsung.wurl.com/manifest/playlist.m3u8
-
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cZWKyuM.png" group-title="Lifestyle",Fashion TV L'Original
@@ -1022,7 +1019,7 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.
 http://nyanv-live-cdn.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd
 
 #EXTINF:-1 group-title="Lifestyle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/512px-Asian_Food_Network.svg.png", afn
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/afn.m3u8
+http://paste.zaltv.my.id/raw/aSLoLOokEA
 
 #EXTINF:-1 group-title="Lifestyle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/512px-HGTV_2010.svg.png", HGTV
 http://paste.zaltv.my.id/raw/ZPVVJXaGe7
