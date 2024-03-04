@@ -163,13 +163,13 @@ https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 
 //KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 //KODIPROP:inputstream.adaptive.license_key=https://hbo-max.openwindows037.workers.dev/
-#EXTINF:-1 tvg-id="cinemax" group-title="HBO Group" tvg-id="cinemaxasia.sg" tvg-logo="https://i.imgur.com/uB76Ft0.png", CINEMAX
-https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd 
+#EXTINF:-1 tvg-id="cinemax" group-title="HBO Group" tvg-id="cinemaxasia.sg" tvg-logo="https://i.imgur.com/uB76Ft0.png", CINEMAX 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="} 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=https://tr.arrow-premium-tv.workers.dev/ 
 #KODIPROP:inputstream.adaptive.license_key=https://tr.arrow-premium-tv.workers.dev/ 
+https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 //#EXTVLCOPT:http-user-agent=YurendTV/7.1 (Android 11)
 //https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ef01e28-6fac-49c1-9aa4-40b37d431881)/manifest.mpd
 
