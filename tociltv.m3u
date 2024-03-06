@@ -538,7 +538,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Dreamwork-HD/sa_dash_vmx/Dreamwork-HD.
 #EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png", CARTOON NETWORK
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 https://ctrl.laotv.la/live/CartoonNetwork/index.m3u8
-#http://paste.zaltv.my.id/raw/deWUmQrDkQ
 
 KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -562,7 +561,7 @@ http://line.lemotv.cc:25461//live/Ivica5274/juric4005/2074457.ts
 //#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 //#EXTVLCOPT:http-user-agent=MNCNow/6.33.0 ExoPlayerLib/2.18.1
 //https://nyanv-live-cdn.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
-http://paste.zaltv.my.id/raw/JtZJWtAYg2
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/nickjr.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ede45451dce190007ef9ff2/colorLogoPNG.png" group-title="Kids",NICK JR PLUTO TV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c7e32673-77f8-11ec-8df7-e1b1a799e6b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=21bf3783-0c01-4b1d-9060-24006254a040&userId=&serverSideAds=true
@@ -787,7 +786,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 //#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 //#EXTVLCOPT:http-user-agent=MNCNow/6.33.0 ExoPlayerLib/2.18.1
 //https://nyanv-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
-http://paste.zaltv.my.id/raw/3TXdqSAOS3
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/tvnmovies-dens
 
 #EXTINF:-1 group-title="Movies" tvg-id="newkmovies.kr" tvg-logo="https://i.imgur.com/Rsunizo.png", THE MOVIES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -851,7 +850,7 @@ https://moviesphere-plex.amagi.tv/playlist.m3u8
 //#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 //#EXTVLCOPT:http-user-agent=MNCNow/6.33.0 ExoPlayerLib/2.18.1
 //https://nyanv-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
-http://paste.zaltv.my.id/raw/2NXZradDXa
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/zeebioskop.m3u8
 
 
 
@@ -886,7 +885,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Rockentertainment/sa_dash_vmx/Rockente
 //#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 //#EXTVLCOPT:http-user-agent=MNCNow/6.33.0 ExoPlayerLib/2.18.1
 //https://nyanv-live-cdn.mncnow.id/live/eds/Paramount-HD/sa_dash_vmx/Paramount-HD.mpd
-http://paste.zaltv.my.id/raw/mBo9z7mRVy
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/paramount.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -906,11 +905,11 @@ https://yamcode.com/raw/citra-muslim-fm
 
 //#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 //#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/512px-Logo_tvN.svg.png",tvN 
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/512px-Logo_tvN.svg.png", tvN 
 //#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 //#EXTVLCOPT:http-user-agent=MNCNow/6.33.0 ExoPlayerLib/2.18.1
 //https://nyanv-live-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
-http://paste.zaltv.my.id/raw/7hx0vDBypD
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/tvnmovies-dens
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/GWFiyOk.jpeg", NaDoo KOREAN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
@@ -923,7 +922,7 @@ https://op-krgroup1-swiftservehd-1.dens.tv/h/h125/live.m3u8?app_type=web&userid=
 //#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 //#EXTVLCOPT:http-user-agent=MNCNow/6.33.0 ExoPlayerLib/2.18.1
 //https://nyanv-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
-http://paste.zaltv.my.id/raw/VnUqGLIHeL
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/one.m3u8
 
 #EXTINF:-1 tvg-id="gem" tvg-name="gem" group-title="Entertainment" tvg-logo="https://telegra.ph/file/56b2a633e795a19f9b1d8.png",GEM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1060,10 +1059,10 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.
 http://nyanv-live-cdn.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd
 
 #EXTINF:-1 group-title="Lifestyle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/512px-Asian_Food_Network.svg.png", afn
-http://paste.zaltv.my.id/raw/aSLoLOokEA
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/afn.m3u8
 
 #EXTINF:-1 group-title="Lifestyle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/512px-HGTV_2010.svg.png", HGTV
-http://paste.zaltv.my.id/raw/ZPVVJXaGe7
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/hgtv.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -1076,7 +1075,7 @@ http://paste.zaltv.my.id/raw/ZPVVJXaGe7
 https://yamcode.com/raw/lifetime-fm
 
 #EXTINF:-1 group-title="Lifestyle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png", TLC
-http://paste.zaltv.my.id/raw/STYVWOZUeH
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/tlc.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -1127,7 +1126,7 @@ https://nonton.site:8443/live/mustakim/mustakim/36733.m3u8
 https://nyanv-live-cdn.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash_vmx/ShanghaiDragonTV.mpd
 
 #EXTINF:-1 group-title="Entertainment & Lifestyle" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/18/ca2f0180-7814-11ec-8fd5-c549a9b471b9_webp_original.png", TV5 MONDE ASIE
-http://paste.zaltv.my.id/raw/67ZOuZikrn
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/tv5mondeasie.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -1239,7 +1238,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerc
 //#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 //#EXTVLCOPT:http-user-agent=MNCNow/6.33.0 ExoPlayerLib/2.18.1
 //https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
-http://paste.zaltv.my.id/raw/xGGEhIdT2e
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/spotv.m3u8
 
 //#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 //#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -1247,7 +1246,7 @@ http://paste.zaltv.my.id/raw/xGGEhIdT2e
 //#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 //#EXTVLCOPT:http-user-agent=MNCNow/6.33.0 ExoPlayerLib/2.18.1
 //https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
-http://paste.zaltv.my.id/raw/aLlJorlcck
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/spotv2.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="spotv.kr" tvg-logo="https://i.imgur.com/p1q77RO.png", SPOTV true visions
 #EXTVLCOPT:http-referrer=https://www.livedoomovies.com:4432/ 
@@ -1556,7 +1555,7 @@ https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
 
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/MTV_90s_2022.svg/440px-MTV_90s_2022.svg.png" group-title="Music", MTV 90s
-http://paste.zaltv.my.id/raw/er2EtIOQNj
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/mtv90.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GuM4GnX.png" group-title="Music", NOW ROCK
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
@@ -1581,7 +1580,7 @@ https://iheart-iheart90s-1-us.roku.wurl.tv/playlist.m3u8
 //KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 //EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-logo="https://i.imgur.com/St5DhAU.png" group-title="Music", MTV Live
-http://paste.zaltv.my.id/raw/mDuWzbl8EK
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/mtvlive.m3u8
 #https://nyanv-live-cdn.mncnow.id/live/eds/MTV/sa_dash_vmx/MTV.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/512px-VH1_logonew.svg.png" group-title="Music", VH1
