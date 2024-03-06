@@ -56,11 +56,10 @@ http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/621.ts
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8 
 
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/mM9zapJ.png",moji
-#https://raw.githubusercontent.com/mimipipi22/lalajo/main/moji.m3u8
+#https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=206&type=hls|user-agent=Dalvik/2.1.0
 
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/mM9zapJ.png",moji
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-https://s.id/1YseN
+https://bit.ly/moji_shareext-ts|User-Agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 
 //#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 //#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
