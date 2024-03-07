@@ -263,6 +263,142 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0c
 
 
 
+
+∆∆∆∆∆∆∆∆∆∆     TV DAERAH    ∆∆∆∆∆∆∆∆∆
+
+
+
+#EXTINF:-1 tvg-logo="", TVRI ACEH
+#EXTGRP:TV Daerah 
+https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh.m3u8
+
+#EXTINF:-1 tvg-logo="", TVRI SUMATERA UTARA
+#EXTGRP:TV Daerah
+https://ott-balancer.tvri.go.id/live/eds/Sumut/hlstl/Sumut.m3u8
+
+#EXTINF:-1 tvg-logo="", TVRI RIAU
+#EXTGRP:TV Daerah
+https://ott-balancer.tvri.go.id/live/eds/Riau/hlstl/Riau.m3u8
+
+#EXTINF:-1 tvg-logo="", TVRI SUMATERA BARAT
+#EXTGRP:TV Daerah
+https://ott-balancer.tvri.go.id/live/eds/Sumbar/hlstl/Sumbar.m3u8
+
+#EXTINF:-1 tvg-logo="", TVRI BENGKULU
+#EXTGRP:TV Daerah
+https://ott-balancer.tvri.go.id/live/eds/Bengkulu/hlstl/Bengkulu.m3u8
+
+#EXTINF:-1 tvg-logo="", TVRI JAMBI
+#EXTGRP:TV Daerah
+https://ott-balancer.tvri.go.id/live/eds/Jambi/hlstl/Jambi.m3u8
+
+#EXTINF:-1 tvg-logo="", TVRI SUMATERA SELATAN
+#EXTGRP:TV Daerah
+https://ott-balancer.tvri.go.id/live/eds/Sumsel/hlstl/Sumsel.m3u8
+
+#EXTINF:-1 tvg-logo="", TVRI LAMPUNG
+#EXTGRP:TV Daerah
+https://ott-balancer.tvri.go.id/live/eds/Lampung/hlstl/Lampung.m3u8
+
+#EXTINF:-1 tvg-logo="", TVRI BANGKA BELITUNG
+#EXTGRP:TV Daerah
+https://ott-balancer.tvri.go.id/live/eds/Babel/hlstl/Babel.m3u8
+
+#EXTINF:-1 tvg-logo="", TVRI JAKARA
+#EXTGRP:TV Daerah
+https://ott-balancer.tvri.go.id/live/eds/DKI/hlstl/DKI.m3u8
+
+#EXTINF:-1 tvg-logo="", TVRI JAWA BARAT
+#EXTGRP:TV Daerah
+https://ott-balancer.tvri.go.id/live/eds/Jabar/hlstl/Jabar.m3u8
+
+#EXTINF:-1 tvg-logo="", TVRI JAWA TENGAH
+#EXTGRP:TV Daerah
+https://ott-balancer.tvri.go.id/live/eds/Jateng/hlstl/Jateng.m3u8
+
+#EXTINF:-1 tvg-logo="", TVRI YOGYAKARTA
+#EXTGRP:TV Daerah
+https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hlstl/Jogjakarta.m3u8
+
+#EXTINF:-1 tvg-logo="", TVRI JAWA TIMUR 
+#EXTGRP:TV Daerah
+https://ott-balancer.tvri.go.id/live/eds/Jatim/hlstl/Jatim.m3u8
+
+#EXTINF:-1 tvg-logo="", TVRI BALI
+#EXTGRP:TV Daerah
+https://ott-balancer.tvri.go.id/live/eds/Bali/hlstl/Bali.m3u8
+
+#EXTINF:-1 tvg-logo="", TVRI NUSA TENGGARA BARAT
+#EXTGRP:TV Daerah
+https://ott-balancer.tvri.go.id/live/eds/NTB/hlstl/NTB.m3u8
+
+#EXTINF:-1 tvg-logo="", TVRI NUSA TENGGARA TIMUR
+#EXTGRP:TV Daerah
+https://ott-balancer.tvri.go.id/live/eds/NTT/hlstl/NTT.m3u8
+
+#EXTINF:-1 tvg-logo="", TVRI KALIMANTAN BARAT
+#EXTGRP:TV Daerah
+https://ott-balancer.tvri.go.id/live/eds/Kalbar/hlstl/Kalbar.m3u8
+
+#EXTINF:-1 tvg-logo="", TVRI KALIMANTAN TENGAH
+#EXTGRP:TV Daerah
+https://ott-balancer.tvri.go.id/live/eds/Kalteng/hlstl/Kalteng.m3u8
+
+#EXTINF:-1 tvg-logo="", TVRI KALIMANTAN SELATAN
+#EXTGRP:TV Daerah
+https://ott-balancer.tvri.go.id/live/eds/Kalsel/hlstl/Kalsel.m3u8
+
+#EXTINF:-1 tvg-logo="", TVRI KALIMANTAN UTARA 
+#EXTGRP:TV Daerah
+#https://ott-balancer.tvri.go.id/live/eds/Kalut/hlstl/Kalut.m3u8
+
+#EXTINF:-1 tvg-logo="", TVRI KALIMANTAN TIMUR
+#EXTGRP:TV Daerah
+https://ott-balancer.tvri.go.id/live/eds/Kaltim/hlstl/Kaltim.m3u8
+
+#EXTINF:-1 tvg-logo="", TVRI 
+#EXTGRP:TV Daerah
+https://ott-balancer.tvri.go.id/live/eds//hlstl/.m3u8
+
+#EXTINF:-1 tvg-logo="", TVRI 
+#EXTGRP:TV Daerah
+https://ott-balancer.tvri.go.id/live/eds//hlstl/.m3u8
+
+#EXTINF:-1 tvg-logo="", TVRI 
+#EXTGRP:TV Daerah
+https://ott-balancer.tvri.go.id/live/eds//hlstl/.m3u8
+
+#EXTINF:-1 tvg-logo="", TVRI 
+#EXTGRP:TV Daerah
+https://ott-balancer.tvri.go.id/live/eds//hlstl/.m3u8
+
+#EXTINF:-1 tvg-logo="", TVRI 
+#EXTGRP:TV Daerah
+https://ott-balancer.tvri.go.id/live/eds//hlstl/.m3u8
+
+#EXTINF:-1 tvg-logo="", TVRI 
+#EXTGRP:TV Daerah
+https://ott-balancer.tvri.go.id/live/eds//hlstl/.m3u8
+
+#EXTINF:-1 tvg-logo="", TVRI 
+#EXTGRP:TV Daerah
+https://ott-balancer.tvri.go.id/live/eds//hlstl/.m3u8
+
+#EXTINF:-1 tvg-logo="", TVRI 
+#EXTGRP:TV Daerah
+https://ott-balancer.tvri.go.id/live/eds//hlstl/.m3u8
+
+#EXTINF:-1 tvg-logo="", TVRI 
+#EXTGRP:TV Daerah
+https://ott-balancer.tvri.go.id/live/eds//hlstl/.m3u8
+
+#EXTINF:-1 tvg-logo="", TVRI 
+#EXTGRP:TV Daerah
+https://ott-balancer.tvri.go.id/live/eds//hlstl/.m3u8
+
+
+
+
 °°° News °°°
 
 
