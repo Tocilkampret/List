@@ -350,47 +350,47 @@ https://ott-balancer.tvri.go.id/live/eds/Kalsel/hlstl/Kalsel.m3u8
 
 #EXTINF:-1 tvg-logo="", TVRI KALIMANTAN UTARA 
 #EXTGRP:TV Daerah
-#https://ott-balancer.tvri.go.id/live/eds/Kalut/hlstl/Kalut.m3u8
+#https://ott-balancer.tvri.go.id/live/eds/Kaltara/hlstl/Kaltara.m3u8
 
 #EXTINF:-1 tvg-logo="", TVRI KALIMANTAN TIMUR
 #EXTGRP:TV Daerah
 https://ott-balancer.tvri.go.id/live/eds/Kaltim/hlstl/Kaltim.m3u8
 
-#EXTINF:-1 tvg-logo="", TVRI 
+#EXTINF:-1 tvg-logo="", TVRI SULAWESI BARAT
 #EXTGRP:TV Daerah
-https://ott-balancer.tvri.go.id/live/eds//hlstl/.m3u8
+https://ott-balancer.tvri.go.id/live/eds/Sulbar/hlstl/Sulbar.m3u8
 
-#EXTINF:-1 tvg-logo="", TVRI 
+#EXTINF:-1 tvg-logo="", TVRI SULAWESI TENGAH
 #EXTGRP:TV Daerah
-https://ott-balancer.tvri.go.id/live/eds//hlstl/.m3u8
+https://ott-balancer.tvri.go.id/live/eds/Sulteng/hlstl/Sulteng.m3u8
 
-#EXTINF:-1 tvg-logo="", TVRI 
+#EXTINF:-1 tvg-logo="", TVRI SULAWESI SELATAM
 #EXTGRP:TV Daerah
-https://ott-balancer.tvri.go.id/live/eds//hlstl/.m3u8
+https://ott-balancer.tvri.go.id/live/eds/Sulsel/hlstl/Sulsel.m3u8
 
-#EXTINF:-1 tvg-logo="", TVRI 
+#EXTINF:-1 tvg-logo="", TVRI GORONTALO
 #EXTGRP:TV Daerah
-https://ott-balancer.tvri.go.id/live/eds//hlstl/.m3u8
+https://ott-balancer.tvri.go.id/live/eds/Gorontalo/hlstl/Gorontalo.m3u8
 
-#EXTINF:-1 tvg-logo="", TVRI 
+#EXTINF:-1 tvg-logo="", TVRI SULAWESI UTARA
 #EXTGRP:TV Daerah
-https://ott-balancer.tvri.go.id/live/eds//hlstl/.m3u8
+https://ott-balancer.tvri.go.id/live/eds/Sulut/hlstl/Sulut.m3u8
 
-#EXTINF:-1 tvg-logo="", TVRI 
+#EXTINF:-1 tvg-logo="", TVRI SULAWESI TENGGARA
 #EXTGRP:TV Daerah
-https://ott-balancer.tvri.go.id/live/eds//hlstl/.m3u8
+https://ott-balancer.tvri.go.id/live/eds/Sultra/hlstl/Sultra.m3u8
 
-#EXTINF:-1 tvg-logo="", TVRI 
+#EXTINF:-1 tvg-logo="", TVRI AMBON
 #EXTGRP:TV Daerah
-https://ott-balancer.tvri.go.id/live/eds//hlstl/.m3u8
+https://ott-balancer.tvri.go.id/live/eds/Ambon/hlstl/Ambon.m3u8
 
-#EXTINF:-1 tvg-logo="", TVRI 
+#EXTINF:-1 tvg-logo="", TVRI PAPUA
 #EXTGRP:TV Daerah
-https://ott-balancer.tvri.go.id/live/eds//hlstl/.m3u8
+https://ott-balancer.tvri.go.id/live/eds/Papua/hlstl/.m3u8
 
-#EXTINF:-1 tvg-logo="", TVRI 
+#EXTINF:-1 tvg-logo="", TVRI PAPUA BARAT
 #EXTGRP:TV Daerah
-https://ott-balancer.tvri.go.id/live/eds//hlstl/.m3u8
+https://ott-balancer.tvri.go.id/live/eds/Pabar/hlstl/Pabar.m3u8
 
 #EXTINF:-1 tvg-logo="", TVRI 
 #EXTGRP:TV Daerah
