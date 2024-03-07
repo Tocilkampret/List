@@ -1586,7 +1586,8 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/mtvlive.m3u8
 #EXTVLCOPT:http-user-agent=aHR0cHM6Ly9xcmVhdGlma3UubXkuaWQgLSBwbGF5bGlzdCBxcmVhdGlma3V0dg==13)
 #https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 
-#EXTINF:0 tvg-id="musicbox" group-title="Music" tvg-logo="https://i.ibb.co/xYPTdNM/Music-Box.png", MUSIC BOX
+#EXTINF:0 group-title="Music" tvg-logo="https://pakar.co.id/storage/2019/08/Musica-Studio-768x768.png", MUSICA STUDIO'S
+https://ythls.armelin.one/channel/UCNlU3oSU8UnJ_V9uMB-cPOg.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/60/Logo-aq.gif" group-title="Music", AQUARIUS MUSIKINDO 
 https://ythls.armelin.one/channel/UCpJRmMTfdv0iPbnjo6qBw_g.m3u8
